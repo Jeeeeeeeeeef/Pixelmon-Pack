@@ -1,0 +1,13 @@
+name = "Xaero's Minimap - Pixelmon Support for Latest Version"
+filename = "!Pixelmon-Assets-Xaero's-Minimap-UPDATED-FOR-9.1.10.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fe132e216acc7acd30613c937c9cebf343e5e6d9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4962262
+project-id = 904673

@@ -1,2 +1,100 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "config/ftbquests/quests/chapter_groups.snbt"
+hash = "47e5460557fd07cdec14dc68ab26bb723f66b2a5e4a997fcab855244d87eadf0"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/national_dex.snbt"
+hash = "f1ac4f9130198cb81f16b29a738be185a4340bebd698d33509aa878c188477c0"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/shop_test.snbt"
+hash = "96fe55174872c380379ad18e28f93d23988363c639a5b30da14e14771d57e87d"
+
+[[files]]
+file = "config/ftbquests/quests/data.snbt"
+hash = "6ceb0f57df4cfe7446278ca24dcd2c472b6120e3a163d7e42d1ec672ff6902ca"
+
+[[files]]
+file = "config/janna/PIXELMAGICS.waifu.toml"
+hash = "f1c6c1cc6e6af6e2bd7b097aff08f7163deeef752a5f4fe04cbf332720f600f1"
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "8dcfdd556df68cc338bdd9436a4e8face08a08cb114bffc5c66b43c71d80ddbc"
+metafile = true
+
+[[files]]
+file = "mods/autoreglib.pw.toml"
+hash = "56be1f82fadbb2bd17ba0a70911949ef118cb224f9b4d064e2825d0e017a5d44"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "d0a16178788e4654888451ccd63ab9162f615415878c4252016f47194fc03ce5"
+metafile = true
+
+[[files]]
+file = "mods/ftb-quests-forge.pw.toml"
+hash = "18d5f2986bb65ff6675b5e367a0bcca9d375766d3e3e94f9ed2026e9e28cf058"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-forge.pw.toml"
+hash = "ebbac41c71dd200a717260e4993be59c0d2ac6c9e9a784aa8c84a21cf27c9924"
+metafile = true
+
+[[files]]
+file = "mods/item-filters.pw.toml"
+hash = "3a2ad9ada10bb2b86ebce984b6755129b22dcca2d9d03faded820be2bed5c368"
+metafile = true
+
+[[files]]
+file = "mods/pixelcringe.pw.toml"
+hash = "07dac6c108329e72389b345050eea9eb86d79cd25fc939a6a5a22b868a4f34fd"
+metafile = true
+
+[[files]]
+file = "mods/pixelmagics.pw.toml"
+hash = "e76bb1ceadd1c8155caf7beb437a478b3f38670d1b56f88b297d71bd97e9b879"
+metafile = true
+
+[[files]]
+file = "mods/pixelmon.pw.toml"
+hash = "a6cb8f87d3373ae2326c25d982270aff64322f44e5070e33310ad1e53d3b4ebf"
+metafile = true
+
+[[files]]
+file = "mods/pixeltweaks.pw.toml"
+hash = "7f763f0a02a40e7f3446a7a0e6fd025c058174971a110db7d0200bab330d309b"
+metafile = true
+
+[[files]]
+file = "mods/quark.pw.toml"
+hash = "09d984fc1bde73f4f5b31bca88d0b55c2e3f1dfe8cd1ebed4bd581d8551ddefe"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "e8deaa8c98f1799ff50848970edd8c8e82b645dd3327acc5147feecde8344ba1"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "da20abd9a9871b61b01ad1ada54d6fa837e437f4ba935d9103d3202feca59303"
+metafile = true
+
+[[files]]
+file = "push.bat"
+hash = "9d8364022d2c7f06eff3cad60f9171ecb8c8eace7d0a160ea2b2ec24ed63e878"
+
+[[files]]
+file = "resourcepacks/the-pixelmon-ost-by-chris-geddes.pw.toml"
+hash = "f35a6467e73448fed2fcf0aa2770841aca7447310989aecd87d1cbb7ea120963"
+metafile = true
+
+[[files]]
+file = "resourcepacks/xaeros-minimap-pixelmon-support-updated-for-latest-version.pw.toml"
+hash = "87573e4c47a81bbaaea983a22eec591edd9d41d0d670cf3ab84722be814f91fd"
+metafile = true

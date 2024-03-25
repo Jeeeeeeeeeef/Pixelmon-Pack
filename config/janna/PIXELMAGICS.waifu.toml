@@ -1,0 +1,64 @@
+
+############################## PixelMagics V.1.29.10 #############################
+[Modules]
+	Legend-Exchange = true
+	HM-Fly-Room = true
+	Safari-NPC = true
+	Enchant-Cleanser = true
+	Skin-Breeding-with-sacredash = true
+	Spring-Event = true
+	Fishing = true
+	Mass-Release = true
+	SpawnHistory-NPC = true
+	EggStops = true
+	EXP_EV-nerf = true
+	IV-Shiny-Legend-Scoreboard = false
+	"Pokemon-Showoff/Holo-Cast" = true
+	Bike-Locking = true
+	Halloween-Mini-Event = false
+	Healer-Module = true
+	PokeStop-Ticket = true
+	GymTrainers = true
+	UniversalPokeLoot = true
+	Training-Camp-Flag = true
+	Allow-WeaterMoves-Multiplayer = true
+	Devon-Scubar-Gear-Capture-in-Chat = true
+	Flutes = true
+	Levelup-Fix = true
+	"Pokéshake" = true
+	Winter-Mini-Event = false
+	Quiz-Starter-Module = false
+	Checkspawn-Clock = true
+	"Friendship/Effort-Ribbon-fromNPC" = true
+	Dex-Scoreboard = true
+
+#-------------------------------
+[Settings]
+	HoloCast-noConsume-butCooldown = false
+	"Mail/Letters-for-Trader-Reset" = true
+	UniversalPokeloot-TIMID = false
+	PixelEdit-RNG-Allow-IVMax = true
+	Delibird-WinterEvent-Price = 9000
+	MassRelease-LowIV = 60.0
+	Raid-IV-Buff = true
+	Mint-BottleCaps-Patches-Only-For-Partner = false
+	Discord-PokeLog-Webhook = "https://discord.com/api/webhooks/EXAMPLE"
+	Happiny-TCAMPBuff-Spawnchance-per1000 = 10
+	Spectator-Silphscope = true
+	HoloCast-Nicknames = true
+	Min-Badges-for-FLY = 0
+	quiz-onJoin = true
+	MassRelease-HighIV = 90.0
+	PixelEdit-RNG-Allow-Sparkler = true
+	TCamp-Price = 25000
+	PixelEdit-Allow-onLegends = true
+	Safari-Price = 25000
+	HoloCast-noConsume-globalCD-seconds = 10
+	Wild-Bosses-AntiCheese = true
+	PixelEdit-Sparkler-Untradeable = false
+	PixelEdit-Skinar-Untradeable = false
+	Better-Friendship = true
+	NPC-Perish-Toxic-SaltCure-ExpireChance = 35
+	PixelEdit-RNG-Allow-Sex-Swap = true
+	Ultraspace-Wormhole-Minimum-Level = 50
+

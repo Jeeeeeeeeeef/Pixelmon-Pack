@@ -1,0 +1,13 @@
+name = "The Pixelmon Mod OST"
+filename = "ThePixelmonOST.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f57d27d762a09f8835d90c363e0beee585294dae"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4028840
+project-id = 390367

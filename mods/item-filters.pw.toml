@@ -1,0 +1,13 @@
+name = "Item Filters"
+filename = "item-filters-forge-1605.2.5-build.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "52c14355c8e416d30f92eb2a2544f397f4693c34"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3376819
+project-id = 309674
