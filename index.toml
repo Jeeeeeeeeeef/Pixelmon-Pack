@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/defaultoptions/options.txt"
+hash = "be6ef342df9118ae288d76beccfa56a7a1863349ef65654f36cb449de5fdd181"
+
+[[files]]
 file = "config/ftbquests/quests/chapter_groups.snbt"
 hash = "47e5460557fd07cdec14dc68ab26bb723f66b2a5e4a997fcab855244d87eadf0"
 
@@ -28,6 +32,11 @@ metafile = true
 [[files]]
 file = "mods/autoreglib.pw.toml"
 hash = "56be1f82fadbb2bd17ba0a70911949ef118cb224f9b4d064e2825d0e017a5d44"
+metafile = true
+
+[[files]]
+file = "mods/default-options.pw.toml"
+hash = "138d294c5111620d2b1d5b0f6d0d0fa364dcf7b5879bb96dc78787e69f13beae"
 metafile = true
 
 [[files]]
