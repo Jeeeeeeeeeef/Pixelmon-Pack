@@ -86,10 +86,6 @@ hash = "da20abd9a9871b61b01ad1ada54d6fa837e437f4ba935d9103d3202feca59303"
 metafile = true
 
 [[files]]
-file = "push.bat"
-hash = "9d8364022d2c7f06eff3cad60f9171ecb8c8eace7d0a160ea2b2ec24ed63e878"
-
-[[files]]
 file = "resourcepacks/the-pixelmon-ost-by-chris-geddes.pw.toml"
 hash = "f35a6467e73448fed2fcf0aa2770841aca7447310989aecd87d1cbb7ea120963"
 metafile = true
