@@ -1,13 +1,13 @@
 name = "FTB Teams (Forge)"
-filename = "ftb-teams-forge-1605.2.3-build.40.jar"
+filename = "ftb-teams-forge-2001.2.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "1f37f10fcb5f02bd3217aeca02d496529629315d"
+hash = "fe8be7161838d2378bd9facfe6399c6a4f496810"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3535953
+file-id = 5176343
 project-id = 404468
