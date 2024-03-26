@@ -35,6 +35,11 @@ hash = "56be1f82fadbb2bd17ba0a70911949ef118cb224f9b4d064e2825d0e017a5d44"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "d870911ca42c3b66a1a962249f7fd0ca401782eeccfd96dacacfc52578e977d4"
+metafile = true
+
+[[files]]
 file = "mods/default-options.pw.toml"
 hash = "138d294c5111620d2b1d5b0f6d0d0fa364dcf7b5879bb96dc78787e69f13beae"
 metafile = true
@@ -55,8 +60,23 @@ hash = "ebbac41c71dd200a717260e4993be59c0d2ac6c9e9a784aa8c84a21cf27c9924"
 metafile = true
 
 [[files]]
+file = "mods/iron-chests.pw.toml"
+hash = "d3acf2f85f048b33bf1a953241d444eb4b18b657a5ac3252d9e067a251058fa7"
+metafile = true
+
+[[files]]
 file = "mods/item-filters.pw.toml"
 hash = "3a2ad9ada10bb2b86ebce984b6755129b22dcca2d9d03faded820be2bed5c368"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "6f480e74ed25fedf4850353d8efc7de8dc7d96ed4701b79df03906378eab65b3"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "63dd8166fef37f67155a4a434d7f55feddbb4e1fb621dfe89c1d43d8a659e25b"
 metafile = true
 
 [[files]]
