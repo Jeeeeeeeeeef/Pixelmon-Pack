@@ -46,6 +46,11 @@ hash = "d71fd32a56325b8fe378cfafe78f81d985436b2fd44638f5bab1f1386680b096"
 metafile = true
 
 [[files]]
+file = "mods/pixelmon.pw.toml"
+hash = "a197b4520d577faf6c96528e735877faeeb2d892a67d4cdf9764b48417389fae"
+metafile = true
+
+[[files]]
 file = "mods/pixelretweaked-1.0.0.jar"
 hash = "ec28edae5dd945486a137d80ee12c23f4608c330703a8ef3b49e7cf3642635ee"
 
