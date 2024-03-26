@@ -1,0 +1,44 @@
+{
+	id: "6FF38F4A9427E318"
+	order_index: 4
+	title: "Z-Crystals"
+	icon: "minecraft:chest"
+	loot_size: 1
+	rewards: [
+		{ item: "pixelmon:buginium_z" }
+		{ item: "pixelmon:darkinium_z" }
+		{ item: "pixelmon:dragonium_z" }
+		{ item: "pixelmon:electrium_z" }
+		{ item: "pixelmon:fairium_z" }
+		{ item: "pixelmon:fightinium_z" }
+		{ item: "pixelmon:firium_z" }
+		{ item: "pixelmon:flyinium_z" }
+		{ item: "pixelmon:ghostium_z" }
+		{ item: "pixelmon:grassium_z" }
+		{ item: "pixelmon:groundium_z" }
+		{ item: "pixelmon:icium_z" }
+		{ item: "pixelmon:normalium_z" }
+		{ item: "pixelmon:poisonium_z" }
+		{ item: "pixelmon:psychium_z" }
+		{ item: "pixelmon:rockium_z" }
+		{ item: "pixelmon:steelium_z" }
+		{ item: "pixelmon:waterium_z" }
+		{ item: "pixelmon:aloraichium_z" }
+		{ item: "pixelmon:decidium_z" }
+		{ item: "pixelmon:eevium_z" }
+		{ item: "pixelmon:incinium_z" }
+		{ item: "pixelmon:kommonium_z" }
+		{ item: "pixelmon:lunalium_z" }
+		{ item: "pixelmon:lycanium_z" }
+		{ item: "pixelmon:marshadium_z" }
+		{ item: "pixelmon:mewnium_z" }
+		{ item: "pixelmon:mimikium_z" }
+		{ item: "pixelmon:pikanium_z" }
+		{ item: "pixelmon:pikashunium_z" }
+		{ item: "pixelmon:primarium_z" }
+		{ item: "pixelmon:snorlium_z" }
+		{ item: "pixelmon:solganium_z" }
+		{ item: "pixelmon:tapunium_z" }
+		{ item: "pixelmon:ultranecrozium_z" }
+	]
+}

@@ -10,7 +10,7 @@ hash = "47e5460557fd07cdec14dc68ab26bb723f66b2a5e4a997fcab855244d87eadf0"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/national_dex.snbt"
-hash = "f1ac4f9130198cb81f16b29a738be185a4340bebd698d33509aa878c188477c0"
+hash = "2abea444b85af2a93ed060e82afe0f25cdf4ca9ee35e1b1b384be5954c05650b"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/shop_test.snbt"
@@ -19,6 +19,34 @@ hash = "96fe55174872c380379ad18e28f93d23988363c639a5b30da14e14771d57e87d"
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
 hash = "6ceb0f57df4cfe7446278ca24dcd2c472b6120e3a163d7e42d1ec672ff6902ca"
+
+[[files]]
+file = "config/ftbquests/reward_tables/0ED306EDC4324844.snbt"
+hash = "e1a8506ccffc668cfbf25a24cd532c51b444265b8afe41989b5fe4e6db4677c9"
+
+[[files]]
+file = "config/ftbquests/reward_tables/38ACB56FF691A42B.snbt"
+hash = "98cc4b20c0899e3a98f6a652ce65bc0b5b2baff2745717509439a63ba6b071a5"
+
+[[files]]
+file = "config/ftbquests/reward_tables/6F82810672A5C4C8.snbt"
+hash = "366c0f161a3c99f97a0f7d67b798575b20cbf1c73f7fefc5708af1662fa8fc26"
+
+[[files]]
+file = "config/ftbquests/reward_tables/6FF38F4A9427E318.snbt"
+hash = "959ee57199f0b8293688af33ba22007164b36ac5a1c418184e83bb21af7bc385"
+
+[[files]]
+file = "config/ftbquests/reward_tables/76EC1F30272BDE86.snbt"
+hash = "904a4de65422dd16c85fbc0e77829902f13866c8dc2896089ecad3c11e224835"
+
+[[files]]
+file = "config/ftbquests/reward_tables/random_evolution_stone.snbt"
+hash = "271fa6426c6f70246186297b1ac04981daf74e53f139d3ac6f73c50734873b0b"
+
+[[files]]
+file = "config/ftbquests/reward_tables/random_z_stone.snbt"
+hash = "c7caf626649df7a5e62e6bd94c13ca5c32ef265f03643647dff00f3eb76a7776"
 
 [[files]]
 file = "config/janna/PIXELMAGICS.waifu.toml"
@@ -102,6 +130,11 @@ metafile = true
 [[files]]
 file = "mods/quark.pw.toml"
 hash = "09d984fc1bde73f4f5b31bca88d0b55c2e3f1dfe8cd1ebed4bd581d8551ddefe"
+metafile = true
+
+[[files]]
+file = "mods/quests-additions.pw.toml"
+hash = "95c1e26a548d8ff1a7f7ca4f92928d916dc2a4d9f01ef0286398f2f11b19d82c"
 metafile = true
 
 [[files]]

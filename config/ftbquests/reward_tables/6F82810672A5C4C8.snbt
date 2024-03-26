@@ -1,0 +1,56 @@
+{
+	id: "6F82810672A5C4C8"
+	order_index: 3
+	title: "Megastones"
+	icon: "minecraft:chest"
+	loot_size: 1
+	rewards: [
+		{ item: "pixelmon:abomasite" }
+		{ item: "pixelmon:absolite" }
+		{ item: "pixelmon:aerodactylite" }
+		{ item: "pixelmon:aggronite" }
+		{ item: "pixelmon:alakazite" }
+		{ item: "pixelmon:altarianite" }
+		{ item: "pixelmon:ampharosite" }
+		{ item: "pixelmon:audinite" }
+		{ item: "pixelmon:banettite" }
+		{ item: "pixelmon:beedrillite" }
+		{ item: "pixelmon:blastoisinite" }
+		{ item: "pixelmon:blazikenite" }
+		{ item: "pixelmon:cameruptite" }
+		{ item: "pixelmon:charizardite_x" }
+		{ item: "pixelmon:charizardite_y" }
+		{ item: "pixelmon:diancite" }
+		{ item: "pixelmon:galladite" }
+		{ item: "pixelmon:garchompite" }
+		{ item: "pixelmon:gardevoirite" }
+		{ item: "pixelmon:gengarite" }
+		{ item: "pixelmon:glalitite" }
+		{ item: "pixelmon:gyaradosite" }
+		{ item: "pixelmon:heracronite" }
+		{ item: "pixelmon:houndoominite" }
+		{ item: "pixelmon:kangaskhanite" }
+		{ item: "pixelmon:latiasite" }
+		{ item: "pixelmon:latiosite" }
+		{ item: "pixelmon:lopunnite" }
+		{ item: "pixelmon:lucarionite" }
+		{ item: "pixelmon:manectite" }
+		{ item: "pixelmon:mawilite" }
+		{ item: "pixelmon:medichamite" }
+		{ item: "pixelmon:metagrossite" }
+		{ item: "pixelmon:mewtwonite_x" }
+		{ item: "pixelmon:mewtwonite_y" }
+		{ item: "pixelmon:pidgeotite" }
+		{ item: "pixelmon:pinsirite" }
+		{ item: "pixelmon:sablenite" }
+		{ item: "pixelmon:salamencite" }
+		{ item: "pixelmon:sceptilite" }
+		{ item: "pixelmon:scizorite" }
+		{ item: "pixelmon:sharpedonite" }
+		{ item: "pixelmon:slowbronite" }
+		{ item: "pixelmon:steelixite" }
+		{ item: "pixelmon:swampertite" }
+		{ item: "pixelmon:tyranitarite" }
+		{ item: "pixelmon:venusaurite" }
+	]
+}

@@ -20,6 +20,26 @@
 				allowUndexable: false
 				count: 25
 			}]
+			rewards: [
+				{
+					id: "27724C88E4C93F5E"
+					type: "item"
+					item: {
+						id: "pixelmon:poke_ball"
+						Count: 1b
+						tag: {
+							PokeBallID: "poke_ball"
+						}
+					}
+					count: 16
+				}
+				{
+					id: "401B607FDA49B596"
+					type: "item"
+					item: "pixelmon:m_exp_candy"
+					count: 8
+				}
+			]
 		}
 		{
 			x: 1.5d
@@ -34,6 +54,40 @@
 				allowUndexable: false
 				count: 50
 			}]
+			rewards: [
+				{
+					id: "6FBC74B35A70957E"
+					type: "item"
+					item: {
+						id: "pixelmon:poke_ball"
+						Count: 1b
+						tag: {
+							PokeBallID: "poke_ball"
+						}
+					}
+					count: 32
+				}
+				{
+					id: "591073613EF55665"
+					type: "random"
+					icon: "pixelmon:thunder_stone"
+					table_id: 5674795626328975106L
+				}
+				{
+					id: "1D6A93946E7E04BC"
+					type: "random"
+					icon: "pixelmon:thunder_stone"
+					table_id: 5674795626328975106L
+				}
+				{
+					id: "5B50DF0D480BBE77"
+					type: "pixelmon:pokemon"
+					icon: "pixelmon:pokemon_egg"
+					spec: "random"
+					count: 1
+					shinyChance: 4096s
+				}
+			]
 		}
 		{
 			x: 2.5d
@@ -48,6 +102,26 @@
 				allowUndexable: false
 				count: 75
 			}]
+			rewards: [
+				{
+					id: "12E22F94537A97CC"
+					type: "item"
+					item: {
+						id: "pixelmon:poke_ball"
+						Count: 1b
+						tag: {
+							PokeBallID: "great_ball"
+						}
+					}
+					count: 16
+				}
+				{
+					id: "41064F6A80356F20"
+					type: "item"
+					item: "pixelmon:l_exp_candy"
+					count: 8
+				}
+			]
 		}
 		{
 			x: 3.5d
@@ -62,6 +136,48 @@
 				allowUndexable: false
 				count: 100
 			}]
+			rewards: [
+				{
+					id: "022AEEC151F0828B"
+					type: "item"
+					item: {
+						id: "pixelmon:poke_ball"
+						Count: 1b
+						tag: {
+							PokeBallID: "great_ball"
+						}
+					}
+					count: 32
+				}
+				{
+					id: "2B56500586F1D3E1"
+					type: "random"
+					table_id: 5674795626328975106L
+				}
+				{
+					id: "6430C976B381A4D4"
+					type: "random"
+					table_id: 5674795626328975106L
+				}
+				{
+					id: "36DBB90055046AC7"
+					type: "random"
+					table_id: 5674795626328975106L
+				}
+				{
+					id: "0E404ED5FEBB4EC5"
+					type: "random"
+					table_id: 5674795626328975106L
+				}
+				{
+					id: "07EE2BE8ED7050C5"
+					type: "pixelmon:pokemon"
+					icon: "pixelmon:pokemon_egg"
+					spec: "random shiny"
+					count: 1
+					shinyChance: 4096s
+				}
+			]
 		}
 		{
 			x: 4.5d
@@ -76,6 +192,26 @@
 				allowUndexable: false
 				count: 125
 			}]
+			rewards: [
+				{
+					id: "64F11BABD37C2449"
+					type: "item"
+					item: {
+						id: "pixelmon:poke_ball"
+						Count: 1b
+						tag: {
+							PokeBallID: "ultra_ball"
+						}
+					}
+					count: 16
+				}
+				{
+					id: "7EC2438AB3C79EA6"
+					type: "item"
+					item: "pixelmon:l_exp_candy"
+					count: 8
+				}
+			]
 		}
 		{
 			x: 5.5d
@@ -90,6 +226,52 @@
 				allowUndexable: false
 				count: 150
 			}]
+			rewards: [
+				{
+					id: "524C49F65E07CA27"
+					type: "item"
+					item: {
+						id: "pixelmon:poke_ball"
+						Count: 1b
+						tag: {
+							PokeBallID: "ultra_ball"
+						}
+					}
+					count: 32
+				}
+				{
+					id: "2CBA6B6E049739C5"
+					type: "random"
+					table_id: 5674795626328975106L
+				}
+				{
+					id: "382261FC67E09D10"
+					type: "random"
+					table_id: 5674795626328975106L
+				}
+				{
+					id: "7FCAF3D912596322"
+					type: "random"
+					table_id: 5674795626328975106L
+				}
+				{
+					id: "612505A38B77CF86"
+					type: "random"
+					table_id: 5674795626328975106L
+				}
+				{
+					id: "4AEC304781050E64"
+					type: "pixelmon:pokemon"
+					spec: "random"
+					count: 1
+					shinyChance: 4096s
+				}
+				{
+					id: "792A5F8CF4D77053"
+					type: "random"
+					table_id: 8066948908026684184L
+				}
+			]
 		}
 		{
 			x: 6.5d
@@ -104,6 +286,31 @@
 				allowUndexable: false
 				count: 175
 			}]
+			rewards: [
+				{
+					id: "098F1D69CB9AA80B"
+					type: "item"
+					item: {
+						id: "pixelmon:poke_ball"
+						Count: 1b
+						tag: {
+							PokeBallID: "ultra_ball"
+						}
+					}
+					count: 16
+				}
+				{
+					id: "0F40C2E5BD39AFE0"
+					type: "item"
+					item: "pixelmon:xl_exp_candy"
+					count: 2
+				}
+				{
+					id: "5CB016B802C04426"
+					type: "random"
+					table_id: 1068205154885584964L
+				}
+			]
 		}
 		{
 			x: 7.5d
@@ -118,6 +325,52 @@
 				allowUndexable: false
 				count: 200
 			}]
+			rewards: [
+				{
+					id: "0267F8125C9789CD"
+					type: "item"
+					item: {
+						id: "pixelmon:poke_ball"
+						Count: 1b
+						tag: {
+							PokeBallID: "ultra_ball"
+						}
+					}
+					count: 32
+				}
+				{
+					id: "2AE26DCD0BB5B260"
+					type: "random"
+					table_id: 8035126549875639496L
+				}
+				{
+					id: "75E9FEEBBA197BF7"
+					type: "pixelmon:pokemon"
+					spec: "random shiny"
+					count: 1
+					shinyChance: 4096s
+				}
+				{
+					id: "04BC718A0EA979ED"
+					type: "random"
+					table_id: 5674795626328975106L
+				}
+				{
+					id: "0DCBED0CE9DAD32F"
+					type: "random"
+					table_id: 5674795626328975106L
+				}
+				{
+					id: "00A3A0AF4F12A6A6"
+					type: "random"
+					table_id: 5674795626328975106L
+				}
+				{
+					id: "1B2D7E3B4DB1AF1E"
+					type: "random"
+					table_id: 5674795626328975106L
+				}
+			]
 		}
 		{
 			x: 8.5d
@@ -132,6 +385,31 @@
 				allowUndexable: false
 				count: 225
 			}]
+			rewards: [
+				{
+					id: "5789EE8E42EFF97D"
+					type: "item"
+					item: {
+						id: "pixelmon:poke_ball"
+						Count: 1b
+						tag: {
+							PokeBallID: "ultra_ball"
+						}
+					}
+					count: 16
+				}
+				{
+					id: "487B08BB86707D78"
+					type: "item"
+					item: "pixelmon:xl_exp_candy"
+					count: 4
+				}
+				{
+					id: "69A2AF3BA188470A"
+					type: "random"
+					table_id: 1068205154885584964L
+				}
+			]
 		}
 		{
 			x: 9.5d
@@ -146,6 +424,52 @@
 				allowUndexable: false
 				count: 250
 			}]
+			rewards: [
+				{
+					id: "48D168371421C706"
+					type: "pixelmon:pokemon"
+					spec: "random"
+					count: 2
+					shinyChance: 4096s
+				}
+				{
+					id: "4CAB91B09DAD1B06"
+					type: "loot"
+					table_id: 8035126549875639496L
+				}
+				{
+					id: "4B39C3127C0F0C7B"
+					type: "item"
+					item: {
+						id: "pixelmon:poke_ball"
+						Count: 1b
+						tag: {
+							PokeBallID: "ultra_ball"
+						}
+					}
+					count: 32
+				}
+				{
+					id: "2428F31825C0A8DE"
+					type: "random"
+					table_id: 5674795626328975106L
+				}
+				{
+					id: "0CF4388D5E419328"
+					type: "random"
+					table_id: 5674795626328975106L
+				}
+				{
+					id: "5240725CA16544DC"
+					type: "random"
+					table_id: 5674795626328975106L
+				}
+				{
+					id: "1B450C3C4EB0AD0F"
+					type: "random"
+					table_id: 5674795626328975106L
+				}
+			]
 		}
 		{
 			x: 10.5d
@@ -160,6 +484,36 @@
 				allowUndexable: false
 				count: 275
 			}]
+			rewards: [
+				{
+					id: "20ED8C73B258A1CE"
+					type: "item"
+					item: {
+						id: "pixelmon:poke_ball"
+						Count: 1b
+						tag: {
+							PokeBallID: "ultra_ball"
+						}
+					}
+					count: 16
+				}
+				{
+					id: "1474E40522436F9B"
+					type: "random"
+					table_id: 8066948908026684184L
+				}
+				{
+					id: "38A6839A085D957F"
+					type: "random"
+					table_id: 1068205154885584964L
+				}
+				{
+					id: "00B492F22AA2449F"
+					type: "item"
+					item: "pixelmon:xl_exp_candy"
+					count: 4
+				}
+			]
 		}
 		{
 			x: 11.5d
@@ -174,6 +528,42 @@
 				allowUndexable: false
 				count: 300
 			}]
+			rewards: [
+				{
+					id: "2C0A1CABDE76EF27"
+					type: "item"
+					item: {
+						id: "pixelmon:poke_ball"
+						Count: 1b
+						tag: {
+							PokeBallID: "ultra_ball"
+						}
+					}
+					count: 32
+				}
+				{
+					id: "426154CF28A277D7"
+					type: "random"
+					table_id: 1068205154885584964L
+				}
+				{
+					id: "22E9C0C0C61C0081"
+					type: "pixelmon:pokemon"
+					icon: {
+						id: "pixelmon:pokemon_egg"
+						Count: 1b
+						tag: {
+							RepairCost: 0
+							display: {
+								Name: "{\"text\":\"Random Shiny\"}"
+							}
+						}
+					}
+					spec: "random shiny"
+					count: 1
+					shinyChance: 4096s
+				}
+			]
 		}
 		{
 			x: 12.5d
