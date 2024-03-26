@@ -1,0 +1,13 @@
+name = "PixelCringe - Pixelmon patches"
+filename = "pixelcringe-1.2.0+1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/TqTSHYHU/versions/uV9QAQqT/pixelcringe-1.2.0%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "36d5761b131934edca9485e034390967dab73482"
+
+[update]
+[update.modrinth]
+mod-id = "TqTSHYHU"
+version = "uV9QAQqT"
