@@ -10,5 +10,5 @@
 
 [misc]
 	pixelmonIconPatch = true
-	serverListPatch = false
+	serverListPatch = true
 

@@ -6,7 +6,7 @@ hash = "7149620d6ffcf324a9d7ff7d02d77dcf52ea38f723e3b13a069ad64b7a4b4df4"
 
 [[files]]
 file = "config/pixelcringe-client.toml"
-hash = "0a45bd9736f3703ca0481603cf8540c840d4ecc489138ba560a6ce710167338c"
+hash = "bd5cd095619085e92766ecf3039622033699cada0648f3e09d49043529a9ecee"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
@@ -16,6 +16,11 @@ metafile = true
 [[files]]
 file = "mods/balm.pw.toml"
 hash = "fcce614a6c75a2a7d0710d93707ca40fc21758f32bf6326de9d31d5cb6a89679"
+metafile = true
+
+[[files]]
+file = "mods/construction-wand.pw.toml"
+hash = "8f0030f9c0e432e1b3cf8941642f5efba351576d1f974e7c42b6a814a3d152ed"
 metafile = true
 
 [[files]]
@@ -61,8 +66,18 @@ hash = "bfd9ed4c8e1fdfc0d937e820044d61caff502fa16002995dc365dacc51f47152"
 metafile = true
 
 [[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "49cfdfd14090ba153649f2962a54a3e112822b1c1aba66d311ed59234f8a07fb"
+metafile = true
+
+[[files]]
 file = "mods/pixelcringe.pw.toml"
 hash = "b912e2a96f5c11539519e0216c514ec61d0d00e7e10d52d0ec291ab7d40019d8"
+metafile = true
+
+[[files]]
+file = "mods/pixelmon-photo-fix.pw.toml"
+hash = "874d224dd28cc6e75132814ff10c57a5cd9aec0c45906a3ea4039e3a0f6badf0"
 metafile = true
 
 [[files]]
@@ -75,8 +90,23 @@ file = "mods/pixelretweaked-1.0.0.jar"
 hash = "a02470d247494f9b74dd3b4699475157a9f293e3350ac8157cf7bf5970a7e808"
 
 [[files]]
+file = "mods/regions-unexplored.pw.toml"
+hash = "5ba740f9734995e8409fa2b19982cf60596b70b02f0ab9653b36d890f0f28676"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "ce780bd0593896b3edb92b6eb2d41d9d07da4f313b4a0ad1fd343e93ad0a9b4c"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "b47ebf78bbdadf013e512774e4cfc65426f262e9ac53373f3766895fb4ea4cbd"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "5a248fe8aa048fba421e5165c7b987748414c907dd65749b7f7c3c26363bd0d6"
 metafile = true
 
 [[files]]
