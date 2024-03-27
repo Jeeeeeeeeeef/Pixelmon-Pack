@@ -1,0 +1,5 @@
+# © PixelmonMod 2013-2023
+# For assistance visit https://pixelmonmod.com/wiki/Config
+
+# Whether or not the player will always spawn in a village when joining the world for the first time
+always-spawn-in-village: true

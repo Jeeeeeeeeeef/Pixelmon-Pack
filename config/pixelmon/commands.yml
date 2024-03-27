@@ -1,0 +1,7 @@
+# © PixelmonMod 2013-2023
+# For assistance visit https://pixelmonmod.com/wiki/Config
+
+# Whether the command will check an offline player's Pokemon.
+pokesee-allow-offline-check: true
+# Whether /ivs will work on eggs.
+check-egg-ivs: true

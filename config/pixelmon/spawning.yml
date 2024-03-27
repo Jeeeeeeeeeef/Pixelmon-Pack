@@ -1,0 +1,203 @@
+# © PixelmonMod 2013-2023
+# For assistance visit https://pixelmonmod.com/wiki/Config
+
+# The minimum number of blocks away from the nearest player a Pokémon can be when despawned.
+despawn-radius: 80
+# Modifies the rarity of shiny Pokémon.
+shiny-rate: 4096.0
+# Modifies the rarity of shiny Pokémon in the Ultra Space Dimension (shinyRate * ultraSpaceShinyModifier).
+ultra-space-shiny-rate-multiplier: 0.5
+# The amount the shiny charm will multiply the shiny chance
+shiny-charm-rate-multiplier: 3.0
+# Modifies the rarity of Pokémon with hidden abilities.
+hidden-ability-rate: 150.0
+# Modifies the rarity of hidden abilities in the Ultra Space Dimension (hiddenAbilitySpawnRate * ultraSpaceHiddenAbilityModifier).
+ultra-space-hidden-ability-multiplier: 0.5
+# Modifies the rarity of horde battles in the Ultra Space.
+ultra-space-horde-spawn-rate: 0.4000000059604645
+# How often (in ticks) on average a Legendary Pokémon attempts to spawn. The actual time interval ranges from 60% to 140% of the specified value in this setting. The chance of the spawn attempt succeeding is defined by the legendarySpawnChance setting.
+legendary-spawn-ticks: 25000
+# The chance of a Legendary Pokémon spawn attempt succeeding (0-1) if a viable location has been found for one to spawn. The frequency of this spawn attempt is defined by the legendarySpawnTicks setting.
+legendary-spawn-chance: 0.30000001192092896
+# A multiplier that speeds up legendary and mega boss spawning based on player count. ticks = spawnTicks / (1 + (number of players - 1) * spawnTicksPlayerMultiplier)
+spawn-ticks-player-multiplier: 0.009999999776482582
+# If enabled, wild Pokémon and trainers will spawn closer to the level range of the player.
+# For example, a party where the highest level is 5 will never see Pokémon or trainers above level 15 unless through fishing.
+#  If the player has a Pokémon above level 39, only trainers are affected.
+spawn-levels-closer-to-player-levels: true
+# If enabled, the y-value of the position a Pokémon spawns at will effect the Pokémon level proportionately, such that lower y-values will have higher level Pokémon.
+spawn-levels-increase-in-caves: true
+# If enabled, the Ultra Space Pokemon will be set at a higher level than the maximum level in your party MaxPartyLevel * ultra-space-level-multiplier
+spawn-levels-increase-in-ultra-space: true
+# The max level multiplier when you're at a lower level in caves
+cave-max-multiplier: 4
+# The maximum level multiplier when you're in Ultra Space.
+ultra-space-level-multiplier: 2.0
+# Chance for a wild Pokemon to turn into a Ditto on capture.
+transform-to-ditto-on-catch: 0.001
+# Percentage chance for a Meltan to transform into Ditto on capture. 1 = 100%
+meltan-transform-chance: 0.75
+# Chance for a Meltan to spawn with each opening. 1/X
+meltan-box-spawn-rate: 300
+# Maximum block distance away from the box that a Meltan could spawn.
+meltan-box-spawn-radius: 15
+# Amount of Netherite Scraps to initially open the Mystery Box.
+meltan-box-initial-scraps-count: 4
+# Multiplier for the amount of scraps needed per box opening after the first.
+meltan-box-scraps-multiplier: 1.8
+# Amount of time, in milliseconds, that it takes for the Mystery Box to open.
+meltan-box-open-duration-millis: 100000
+# Amount of time, in milliseconds, that it takes before the Mystery Box can be opened again.
+meltan-box-cooldown-duration-millis: 3000000
+# Pokemon which can transform to Ditto upon capture
+can-transform-to-ditto-on-catch:
+- Pidgey
+- Rattata
+- Gastly
+- Zubat
+- Mankey
+- Yanma
+- Hoothoot
+- Sentret
+- Zigzagoon
+- Gulpin
+- Whismur
+- Taillow
+- Remoraid
+- Starly
+# Chance of a wild Pokémon spawning with the Gigantamax Factor (1/rate). 0 disables Gigantamax Factor spawns.
+gigantamax-factor-rate: 512.0
+# Modifies the rarity of the Gigantamax Factor in the Ultra Space Dimension (gigantamaxFactorSpawnRate * ultraSpaceGigantamaxFactorModifier).
+#  -1 disables Gigantamax Factor spawns in Ultra Space.
+ultra-space-gigantamax-factor-modifier: -1.0
+# Whether or not Legendary Pokémon will spawn naturally. This only affects Pokémon that use the Legendary spawn rate.
+allow-legendary-spawn: true
+# Number of ticks until legendaries will despawn.
+legendary-despawn-ticks: 6000
+# Whether or not a message will display when a Legendary Pokémon spawns.
+# The message also displays which biome the Pokémon spawned in.
+display-legendary-global-message: true
+# Displays server-wide announcement 'A Legendary has spawned in a Max Raid Den in a <name> biome' when a Legendary spawns in one.
+do-legendary-raid-event: true
+# If set to true, Pokémon will spawn with the most recent moves in their level-up movepools. If false, Pokémon will spawn with random moves from their level-up movepools.
+use-recent-level-moves: false
+# Whether or not wild Pokémon will despawn if the player flees from them or loses against them.
+despawn-on-flee-or-loss: false
+# Chance that a bell, at dawn, will start to ring. 1 = 100%.
+bell-success-chance: 0.01
+# Range in blocks that Clear/Tidal Bells will seek out other bells.
+bell-inclusion-range: 10
+# How long the effects of the Black/White Flute last for in seconds once used.
+lure-flute-duration: 180
+# By how many levels the Black/White Flute can affect spawns by.
+lure-flute-level-modifier: 10
+# Whether or not Pokémon from a specific generation can spawn. All generations enabled by default.
+blocked-generations: []
+# Allow Zygarde Cells to spawn randomly in the world.
+spawn-zygarde-cells: true
+# The rate at which the player tracking spawner will refresh the spawns around the player.
+# 
+# If you're on a server you want this number to be higher. This will mean less spawns per player but is important
+# as it will impact your server's performance if too low.
+# 
+# For single player the performance is irrelevant as you're just the one player.
+player-tracking-spawner-spawn-collection-rate: 2
+level-distance:
+    # If enabled, wild Pokémon levels will increase as the distance from the world spawn point increases.
+    # If disabled, wild Pokémon will spawn with varying levels regardless of the distance from the world spawn point.
+    spawn-levels-by-distance: false
+    # The maximum level that Pokémon can spawn at when the spawnLevelsByDistance option is enabled.
+    max-level-by-distance: 60
+    # If the spawnLevelsByDistance setting is enabled, this setting determines the rate (in block distance)
+    # that wild Pokémon levels increase according to the distance from the world spawn point.
+    distance-per-level: 30
+wild-spawning:
+    # The maximum number of entities (NPC or Pokémon) that can spawn per player. Lower for better performance.
+    entities-per-player: 60
+    # The maximum number of spawns in a single spawn cycle for a single player.
+    # Lower for slower spawning and better performance.
+    # Values above 5 are very unlikely to make a noticeable difference.
+    spawns-per-pass: 5
+    # The number of spawn passes made per minute. Decrease for better performance.
+    spawn-frequency: 80.0
+    # The minimum number of blocks between a spawned entity and an existing living entity.
+    minimum-distance-between-spawns: 2.0
+    # The minimum distance from the player that entities may spawn. The lower this is, the closer entities will spawn to players.
+    minimum-distance-from-centre: 5
+    # The maximum distance from the player that entities may spawn.
+    maximum-distance-from-centre: 60
+    # How many ticks 'lead' the player tracking spawner will give players based on their motion. This tries to spawn at locations the player is about to be.
+    horizontal-track-factor: 80.0
+    # How many ticks 'lead' the player tracking spawner will give players based on their vertical motion. Typically best as zero due to the interference jumping can cause.
+    vertical-track-factor: 0.0
+    # The horizontal radius of the areas randomly selected near the player to do spawning in. Lower for better performance but less reliable spawning.
+    horizontal-slice-radius: 10
+    # The vertical radius of the areas randomly selected near the player to do spawning in.
+    #  Lower for better performance but less reliable spawning. Making this larger than the horizontal slice radius is a good idea.
+    vertical-slice-radius: 25
+    # The maximum number of Pokémon that can be naturally spawned in at once. This does not count fishing, Move Skills, commands, or legendary spawning
+    maximum-spawned-pokemon: 3000
+    # The maximum number of Flying Pokémon that can be naturally spawned in at once (soft limit). This does not count fishing, external moves, commands, or legendary spawning.
+    maximum-spawned-flying-pokemon: 500
+    # The maximum number of Flying Pokémon that can spawn per player. Lower for better performance.
+    maximum-spawned-flying-pokemon-per-player: 45
+boss-spawning:
+    # The rate of boss Pokémon in the wild (1/x) not including mega bosses.
+    boss-rate: 256.0
+    # Modifies the rarity of bosses in the Ultra Space Dimension (bossRate * ultraSpaceBossModifier).
+    ultra-space-boss-modifier: 0.5
+    # Whether bosses that spawn must Mega Evolve if they can.
+    bosses-always-mega-if-possible: true
+    # How often (on average) a boss Pokémon will attempt to spawn.
+    boss-spawn-ticks: 10000
+    # Chance that a Mega Boss spawn attempt will succeed. 1 = 100%
+    boss-spawn-chance: 0.30000001192092896
+poke-loot:
+    # Whether or not visible PokéLoot chests spawn naturally.
+    spawn-normal: true
+    # Whether or not invisible PokéLoot chests spawn naturally.
+    spawn-hidden: true
+    # Whether or not Hidden Grottos spawn naturally.
+    spawn-grotto: true
+    # The frequency at which PokéLoot chests spawn. The Different Modes are as Follows:
+    #     - MINIMAL
+    #     - NORMAL
+    #     - MORE
+    #     - EXTREME
+    spawn-rate: NORMAL
+    # The default setting for how PokéLoot chests act once looted. The Different Modes are as Follows:
+    #     - FCFS
+    #     - PL
+    #     - PU
+    #     - TIMED
+    spawn-mode: FCFS
+    # How often players can loot PokéLoot chests that are set to have timed loot. This value is in hours.
+    loot-time: 24
+poke-stop:
+    # Whether or not PokéStops spawn naturally.
+    enabled: true
+    # How often players can loot single PokéStop. This value is in hours.
+    loot-time: 24
+auto-tag-specs:
+    gen1: generation:1
+    gen2: generation:2
+    gen3: generation:3
+    gen4: generation:4
+    gen5: generation:5
+    nonlegendary: islegendary:false
+    gen6: generation:6
+    legendary: islegendary:true
+    gen7: generation:7
+    gen8: generation:8
+    shiny: shiny
+interval-seconds:
+    wormhole_ultra_space: 400
+    wormhole_overworld: 1200
+# Indicates which dimensions that all Pokemon will be aggressive.
+always-aggressive-dimensions:
+- pixelmon:ultra_space
+# Indicates which dimensions a Horde Battle may occur in.
+horde-battle-dimensions:
+- pixelmon:ultra_space
+# Indicates which dimensions that Pokemon spawning are disabled in.
+spawning-disabled-dimensions: []

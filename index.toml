@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "7149620d6ffcf324a9d7ff7d02d77dcf52ea38f723e3b13a069ad64b7a4b4df4"
+hash = "88463a5a5a791968a547939f61d148da35f22e1b917bb7a4c801dacee4a68e7a"
 
 [[files]]
 file = "config/fancymenu/config.txt"
@@ -55,6 +55,82 @@ hash = "d2d55a621e0ca0765db2ffc20084e053b090e9076516e83b88a65b57a6d33557"
 [[files]]
 file = "config/pixelcringe-client.toml"
 hash = "bd5cd095619085e92766ecf3039622033699cada0648f3e09d49043529a9ecee"
+
+[[files]]
+file = "config/pixelmon/battle.yml"
+hash = "223c6a5525394200befca00073565b34475b980e4d6f2b9ada61862806e1192d"
+
+[[files]]
+file = "config/pixelmon/breeding.yml"
+hash = "f2b528e2c9618272af827eafb1f221761cea6dbd1a4acde5e849b9c43fed5076"
+
+[[files]]
+file = "config/pixelmon/commands.yml"
+hash = "a28144d75cd71a366dc489233d77d525b9471cbd878d9ea41e7a6e09f20c809e"
+
+[[files]]
+file = "config/pixelmon/config.yml"
+hash = "b31c1eb441aedf0ac3309cbd9afabb5bb42298ff7a4c34183dc5139f3ff9747f"
+
+[[files]]
+file = "config/pixelmon/dimensions.yml"
+hash = "b945977228c4fee53e99d5960dc5b930d872adbb45d0ffffd5e269ffb4d4f652"
+
+[[files]]
+file = "config/pixelmon/external_moves.yml"
+hash = "7bd47d1ff89f680a7b3fc5ce18e9acdcce2d2f9042417903153aedaeccc9b981"
+
+[[files]]
+file = "config/pixelmon/graphics.yml"
+hash = "93bc2b02eee32fca52b45546441a393c90b15de93adb070b9c8c86be114c54fb"
+
+[[files]]
+file = "config/pixelmon/items.yml"
+hash = "98deb26316447317d40650cbd5850f513658c2d7f5d3c3744a8c935b144fccae"
+
+[[files]]
+file = "config/pixelmon/quests.yml"
+hash = "5619d597b07128d980db2480cbd74321add05036ed56ef2bcf5e7fa10982ae69"
+
+[[files]]
+file = "config/pixelmon/raids.yml"
+hash = "5e308f42ae223638fd9977e05f2d486f7b5f00555fdaa2b94ffb6e55f19ddca9"
+
+[[files]]
+file = "config/pixelmon/spawning.yml"
+hash = "8d228da97c802df160d5d9c1522a4a86fd53e03c51ed547f2114dd1443c6e5fb"
+
+[[files]]
+file = "config/pixelmon/storage.yml"
+hash = "347b5faa3c6e15bb7e0504b2b208880a8f8445a97aca919e0e45e48b9b9fa397"
+
+[[files]]
+file = "config/pixelmon/structures.yml"
+hash = "8486fe11448bedce550ce36e144c16961254a994b60a9e2e511e8975cb8c1141"
+
+[[files]]
+file = "config/pixelmon/tcg.yml"
+hash = "d0d2e89f94e28986579390d116f37ea6fc5cfa6e2e2ea9d295948990b5688f96"
+
+[[files]]
+file = "config/xaerominimap-common.txt"
+hash = "1dcee38470c2939f7265891203775b7631c81822bf2506a451727fcaaf2cc4a2"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "16c8d96544b12fe76a46998c890ddd7130ec792fb6374907d175047e9f7565fc"
+
+[[files]]
+file = "config/xaerominimap_entities.json"
+hash = "6659e2806f4de8abc58c98ac756cf7897a6e1feaff319f1dbdc32d9d9ae8a68d"
+
+[[files]]
+file = "config/xaeroworldmap-common.txt"
+hash = "103979a8e59e396f99fb8646c4f8a690c2d743ca3744a2eb8f663b3102b7498c"
+
+[[files]]
+file = "config/xaeroworldmap.txt"
+hash = "6028733f967d0d0f6a80dd236d3dcc7d2446912c719ab9a7d3f83d8624d9b92d"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"

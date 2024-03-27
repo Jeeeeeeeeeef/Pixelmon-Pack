@@ -1,0 +1,13 @@
+# © PixelmonMod 2013-2023
+# For assistance visit https://pixelmonmod.com/wiki/Config
+
+# Whether the Ultra Space Dimension is activated or not.
+ultra-space: true
+# Where the Berry Trees are capable of spawning in the wild.
+wild-berry-trees: false
+# The chance that a tumblestone block will spawn in the world.
+tumblestone-spawn-chance: 0.009999999776482582
+# The chance that a tumblestone block will grow.
+tumblestone-growth-chance: 0.10000000149011612
+# The chance that a tumblestone block will restore itself.
+tumblestone-restore-chance: 0.25
