@@ -5,6 +5,10 @@ file = "config/defaultoptions/options.txt"
 hash = "7149620d6ffcf324a9d7ff7d02d77dcf52ea38f723e3b13a069ad64b7a4b4df4"
 
 [[files]]
+file = "config/pixelcringe-client.toml"
+hash = "0a45bd9736f3703ca0481603cf8540c840d4ecc489138ba560a6ce710167338c"
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "75c6b16e97bf25ff87adb717ececc681cec9b049aa6bbbab50ec9f7efbb546c9"
 metafile = true
@@ -68,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/pixelretweaked-1.0.0.jar"
-hash = "c78dab132128878ae709e4b95c9e224af9209a8b0fffb6691e5df38ac6db6225"
+hash = "a02470d247494f9b74dd3b4699475157a9f293e3350ac8157cf7bf5970a7e808"
 
 [[files]]
 file = "mods/searchables.pw.toml"
