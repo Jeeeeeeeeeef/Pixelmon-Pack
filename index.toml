@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/defaultoptions/options.txt"
+hash = "7149620d6ffcf324a9d7ff7d02d77dcf52ea38f723e3b13a069ad64b7a4b4df4"
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "8a27a482bf7dbf9b8a96fe9a3e8bf8e08ca1d376c6cf13bccf49f0d5191d56fa"
 metafile = true
