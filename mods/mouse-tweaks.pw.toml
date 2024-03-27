@@ -1,13 +1,13 @@
 name = "Mouse Tweaks"
-filename = "MouseTweaks-forge-mc1.20-2.25.jar"
+filename = "MouseTweaks-forge-mc1.20.2-2.25.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/aC3cM3Vq/versions/stb5nE30/MouseTweaks-forge-mc1.20-2.25.jar"
+url = "https://cdn.modrinth.com/data/aC3cM3Vq/versions/jBovYAZR/MouseTweaks-forge-mc1.20.2-2.25.jar"
 hash-format = "sha1"
-hash = "f3e8805d706a36717306d92bd5c45cb2aef854b6"
+hash = "6dbc76143474b1446477488c4584e45ce94a0191"
 
 [update]
 [update.modrinth]
 mod-id = "aC3cM3Vq"
-version = "stb5nE30"
+version = "jBovYAZR"

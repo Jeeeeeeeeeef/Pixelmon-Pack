@@ -6,111 +6,78 @@ hash = "7149620d6ffcf324a9d7ff7d02d77dcf52ea38f723e3b13a069ad64b7a4b4df4"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "8a27a482bf7dbf9b8a96fe9a3e8bf8e08ca1d376c6cf13bccf49f0d5191d56fa"
+hash = "75c6b16e97bf25ff87adb717ececc681cec9b049aa6bbbab50ec9f7efbb546c9"
 metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "1447df8a4bd1fd2cce2ae71f900f3d1f1626baa2fe37c877cef19549a4101c36"
+hash = "fcce614a6c75a2a7d0710d93707ca40fc21758f32bf6326de9d31d5cb6a89679"
 metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "2a50d21837bba88e3c9490c6bb8e0a9b44b052645d5c1481b48a060439c20a3c"
+hash = "d2dbd7d69e6334b20d9ca9f3ca3ec3fa70327481700dceb0f8f99520f3fac9f3"
 metafile = true
 
 [[files]]
 file = "mods/default-options.pw.toml"
-hash = "91c2538d726a12623122d1a2945a6ad3d2d5b290d43c72149f21af560e8465eb"
+hash = "86f7110c58dca6677c1cf680039b6ff62de126618ae4c87a17120a00884b76ca"
 metafile = true
 
 [[files]]
-file = "mods/ftb-library-forge.pw.toml"
-hash = "0d2a80abab32de6a2094520dacb0fbca2d1a66f6c7f3c6f441c07320e2572856"
-metafile = true
+file = "mods/ftb-library-forge-2002.1.1.jar"
+hash = "f942a0861075c851ca204c0481a0ec7e7b1a29674d5d0e35e51972af46556834"
 
 [[files]]
-file = "mods/ftb-quests-forge.pw.toml"
-hash = "d5ccef95f428e293519e95aef7f8f61d3a8253c7ce1339ad3b9b1af2c313cd22"
-metafile = true
+file = "mods/ftb-quests-forge-2002.2.0.jar"
+hash = "03eaaca27428741afa397953bfd5aaf807ecd8bb5ccc871b493cc2f7c59a25d9"
 
 [[files]]
-file = "mods/ftb-teams-forge.pw.toml"
-hash = "479d003b5d24de8793019d37d2c36a679f3a7e8d9a1604aefcfe61a981fe354d"
-metafile = true
+file = "mods/ftb-teams-forge-2002.1.0.jar"
+hash = "6f0bad27971a03fc8aae3882cad66f8d52dc11908dc1cb0db520c5b9afcb3c1c"
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "e93f24623fe48bd7eee6e54e80c223ce71e639e210372124b8f22dd6b72924cc"
+hash = "546b2fbb38dd9a7f8460ca97325bbc3fcce3fb0bd15092f32875f9997343ab7f"
 metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "d71fd32a56325b8fe378cfafe78f81d985436b2fd44638f5bab1f1386680b096"
+hash = "4e5d1d4c070d1d7d41042df79fb3f0425b891bc46f770563cfbda66c9f8ce545"
 metafile = true
 
 [[files]]
 file = "mods/pixelcringe.pw.toml"
-hash = "bfef72987c9a8761a0c4366a2afbe3c0b950b8bbb41413ecec4b41beb2373ab0"
+hash = "b912e2a96f5c11539519e0216c514ec61d0d00e7e10d52d0ec291ab7d40019d8"
 metafile = true
 
 [[files]]
 file = "mods/pixelmon.pw.toml"
-hash = "a197b4520d577faf6c96528e735877faeeb2d892a67d4cdf9764b48417389fae"
+hash = "6abcbf502c3e6a7b5c2e4a4304d15c535b1cb5d667cf004fecdf695d745894a6"
 metafile = true
 
 [[files]]
 file = "mods/pixelretweaked-1.0.0.jar"
-hash = "ec28edae5dd945486a137d80ee12c23f4608c330703a8ef3b49e7cf3642635ee"
-
-[[files]]
-file = "mods/quark.pw.toml"
-hash = "7f7e22ca326e1ddabd7344cd18d71a4099de775b47e9ee75d4be58a64f2c3af4"
-metafile = true
-
-[[files]]
-file = "mods/quests-additions.pw.toml"
-hash = "ebc3223694c91300ac0a49201880a7950f34f833d552d15ee4aa444cca9a504d"
-metafile = true
+hash = "c78dab132128878ae709e4b95c9e224af9209a8b0fffb6691e5df38ac6db6225"
 
 [[files]]
 file = "mods/searchables.pw.toml"
-hash = "f435fb26b5ce5e660cf709d8415732d19f4fe1aa498edbd55a7ae5af1e8c802f"
-metafile = true
-
-[[files]]
-file = "mods/sophisticated-backpacks.pw.toml"
-hash = "23661f3668182ddd1793565ee2e55e57f5644021f863e5481909c09d742c105f"
-metafile = true
-
-[[files]]
-file = "mods/sophisticated-core.pw.toml"
-hash = "7b6c59b1a6411b599cc95793bc7a9ef2fda525ef30d185afe08c6fee99031920"
-metafile = true
-
-[[files]]
-file = "mods/sophisticated-storage.pw.toml"
-hash = "01acb575ce485767f66c7cb76386f9903b6eae1c8faba66a88cbc27f8db3d732"
+hash = "ce780bd0593896b3edb92b6eb2d41d9d07da4f313b4a0ad1fd343e93ad0a9b4c"
 metafile = true
 
 [[files]]
 file = "mods/worldedit.pw.toml"
-hash = "bd1dc13316e2aa9b56c89e7e974057f8da8d6bbfe707ba4210109fc612b782e3"
+hash = "a07e544c70656f814a5ab7b7b7df8229827ea82168e9b4637bbc24d59c252009"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "9512f45388bcc5841673d954109bb1b2ac448b323efefbdd45d7c252c6e43089"
+hash = "5de4e51c6f027e79c2509036f3365a5fcef197933d43425bc150307e26e0472c"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "c14ecb42e2380cfae9682cdbba81affcf73de0ee9e86a94c420a9b92382e01a1"
-metafile = true
-
-[[files]]
-file = "mods/zeta.pw.toml"
-hash = "ffa25af53cf0e78b250f5f1a3267c47a763e67b048f18aea8228508240c535f9"
+hash = "52bd3dd39f4069622cf82d15f556b51548f3a26873995b0a4178d46145994a85"
 metafile = true
 
 [[files]]
