@@ -1,0 +1,7 @@
+name = "nowyoucanbattleagain"
+filename = "nowyoucanbattleagain-1.1-SNAPSHOT.jar"
+
+[download]
+url = "https://github.com/DThaiPome/NowYouCanBattleAgain_Jar/releases/download/nowyoucanbattleagain-1.1/nowyoucanbattleagain-1.1-SNAPSHOT.jar"
+hash-format = "sha256"
+hash = "ba956db5492f0e44fade3b6e21e944ae5928c59834f95205fcf1aa2458c42a0d"

@@ -47,6 +47,11 @@ hash = "4e5d1d4c070d1d7d41042df79fb3f0425b891bc46f770563cfbda66c9f8ce545"
 metafile = true
 
 [[files]]
+file = "mods/nowyoucanbattleagain.pw.toml"
+hash = "bfd9ed4c8e1fdfc0d937e820044d61caff502fa16002995dc365dacc51f47152"
+metafile = true
+
+[[files]]
 file = "mods/pixelcringe.pw.toml"
 hash = "b912e2a96f5c11539519e0216c514ec61d0d00e7e10d52d0ec291ab7d40019d8"
 metafile = true
