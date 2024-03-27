@@ -98,7 +98,7 @@ hash = "5e308f42ae223638fd9977e05f2d486f7b5f00555fdaa2b94ffb6e55f19ddca9"
 
 [[files]]
 file = "config/pixelmon/spawning.yml"
-hash = "8d228da97c802df160d5d9c1522a4a86fd53e03c51ed547f2114dd1443c6e5fb"
+hash = "1acf1ddf3237be46130fe7cff3165487ce86dd8b08b80207f69f12e165dc241f"
 
 [[files]]
 file = "config/pixelmon/storage.yml"
