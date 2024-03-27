@@ -37,6 +37,11 @@ file = "mods/ftb-teams-forge-2002.1.0.jar"
 hash = "6f0bad27971a03fc8aae3882cad66f8d52dc11908dc1cb0db520c5b9afcb3c1c"
 
 [[files]]
+file = "mods/iron-chests.pw.toml"
+hash = "b2beaef03e965bb8bdbf564ed78b6ab82d9ed40672ffc603cb4c574aa34b8a2c"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "546b2fbb38dd9a7f8460ca97325bbc3fcce3fb0bd15092f32875f9997343ab7f"
 metafile = true

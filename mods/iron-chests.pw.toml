@@ -1,0 +1,13 @@
+name = "Iron Chests"
+filename = "ironchest-1.20.2-14.5.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/P3iIrPH3/versions/zFxvmTKe/ironchest-1.20.2-14.5.7.jar"
+hash-format = "sha1"
+hash = "93db963a9e9e27a8405ac2c94a9d24aaf52ebf9d"
+
+[update]
+[update.modrinth]
+mod-id = "P3iIrPH3"
+version = "zFxvmTKe"
