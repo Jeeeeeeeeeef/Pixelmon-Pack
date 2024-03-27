@@ -5,6 +5,54 @@ file = "config/defaultoptions/options.txt"
 hash = "7149620d6ffcf324a9d7ff7d02d77dcf52ea38f723e3b13a069ad64b7a4b4df4"
 
 [[files]]
+file = "config/fancymenu/config.txt"
+hash = "45a483d4bdd3281b69f4053217e2f6cd9c680edf4ad9de1e6ea8d00b1d721816"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
+
+[[files]]
+file = "config/fancymenu/customization/default.txt"
+hash = "9285b454c0fa5938da4df400f9b1fc8eac2a71780fce62f189892358fb365045"
+
+[[files]]
+file = "config/fancymenu/locals/de_de.local"
+hash = "13485f1d678322a328e798c34f1ff9f7f9c690464d1050e2e7c1ea02b0f49b61"
+
+[[files]]
+file = "config/fancymenu/locals/en_us.local"
+hash = "cef0b6b4ed124cb2e5f0f19de2bd86cc59e6f7426a58d6d74bbd3554727553d4"
+
+[[files]]
+file = "config/fancymenu/locals/pl_pl.local"
+hash = "66d4e9b270d4d92bffd85b13255def475d3ff6c865965deaa700be2ed1b08bc0"
+
+[[files]]
+file = "config/fancymenu/locals/pt_br.local"
+hash = "0b19fc1d8bd8c86435eb39886116aceb3b4554fa749561fc87be2df0157a134c"
+
+[[files]]
+file = "config/fancymenu/locals/ru_ru.local"
+hash = "2120cd2e1de7d8ec9ee8d18f24db70645e92042ba55ffbbc68403ecdc8a50fce"
+
+[[files]]
+file = "config/fancymenu/locals/uk_ua.local"
+hash = "c9a592ff8445f3d8d6a87a59df27e72a67b71afcf0fc03dad27a5ded2f94a780"
+
+[[files]]
+file = "config/fancymenu/locals/zh_cn.local"
+hash = "50cf30919fd2c7b11f6ce246425d657e3b93dfb919a0b6fe4730dc5d9fee0d2a"
+
+[[files]]
+file = "config/fancymenu/menu_identifiers.db"
+hash = "003a1c89846741e0eb9475089d4ed653896fd08e0b994667fae452b4ad894a72"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "d2d55a621e0ca0765db2ffc20084e053b090e9076516e83b88a65b57a6d33557"
+
+[[files]]
 file = "config/pixelcringe-client.toml"
 hash = "bd5cd095619085e92766ecf3039622033699cada0648f3e09d49043529a9ecee"
 
@@ -34,6 +82,11 @@ hash = "86f7110c58dca6677c1cf680039b6ff62de126618ae4c87a17120a00884b76ca"
 metafile = true
 
 [[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "089050832950a6eaf7eba371e0fb8de8a6c81728db0b9185c36447443f835718"
+metafile = true
+
+[[files]]
 file = "mods/ftb-library-forge-2002.1.1.jar"
 hash = "f942a0861075c851ca204c0481a0ec7e7b1a29674d5d0e35e51972af46556834"
 
@@ -53,6 +106,11 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "546b2fbb38dd9a7f8460ca97325bbc3fcce3fb0bd15092f32875f9997343ab7f"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "8032bb3a9a6098565c8a288d1538b22a1fac2dacbb7f641f371e0b2cd88f0772"
 metafile = true
 
 [[files]]
