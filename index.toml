@@ -178,7 +178,7 @@ hash = "d229cfcb633f764c3b644aa99c51e40c423f28eed0ea5b495e69d13e9e8b86c1"
 
 [[files]]
 file = "config/openloader/data/spawningfix/pack.mcmeta"
-hash = "cc8e009ef1a4aa51d00bdb22a25ac7e88a92d52d6b045b23c8fbefe91f57b44c"
+hash = "ab3f01bcc367a328d1b65b4b189140f94112be33e82fcb65e0ab3178f1f7f56c"
 
 [[files]]
 file = "config/pixelcringe-client.toml"
