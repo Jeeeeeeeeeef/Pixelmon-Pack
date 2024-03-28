@@ -1,0 +1,243 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:forest",
+    "minecraft:flower_forest",
+    {
+      "id": "regions_unexplored:autumnal_maple_forest",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:silver_birch_forest",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:sparse_redwoods",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:redwoods",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:temperate_grove",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:cold_deciduous_forest",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:willow_forest",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:eucalyptus_forest",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:blackwood_taiga",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:deciduous_forest",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:orchard",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:alpha_grove",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:ashen_woodland",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:magnolia_woodland",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:grove",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:grove_clearing",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:maple_woods",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:mediterranean_forest",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:mystic_grove",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:orchard",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:seasonal_forest",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:seasonal_orchard",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:woodland",
+      "required": false
+    },
+    {
+      "id": "byg:boreal_clearing",
+      "required": false
+    },
+    {
+      "id": "byg:boreal_forest",
+      "required": false
+    },
+    {
+      "id": "byg:boreal_forest_hills",
+      "required": false
+    },
+    {
+      "id": "byg:deciduous_clearing",
+      "required": false
+    },
+    {
+      "id": "byg:deciduous_forest",
+      "required": false
+    },
+    {
+      "id": "byg:deciduous_forest_hills",
+      "required": false
+    },
+    {
+      "id": "byg:forest_fault",
+      "required": false
+    },
+    {
+      "id": "byg:grove",
+      "required": false
+    },
+    {
+      "id": "byg:jacaranda_clearing",
+      "required": false
+    },
+    {
+      "id": "byg:jacaranda_forest",
+      "required": false
+    },
+    {
+      "id": "byg:jacaranda_forest_hills",
+      "required": false
+    },
+    {
+      "id": "byg:maple_taiga",
+      "required": false
+    },
+    {
+      "id": "byg:maple_hills",
+      "required": false
+    },
+    {
+      "id": "byg:orchard",
+      "required": false
+    },
+    {
+      "id": "byg:pumpkin_forest",
+      "required": false
+    },
+    {
+      "id": "byg:pointed_stone_forest",
+      "required": false
+    },
+    {
+      "id": "byg:red_oak_forest",
+      "required": false
+    },
+    {
+      "id": "byg:red_oak_forest_hills",
+      "required": false
+    },
+    {
+      "id": "byg:seasonal_deciduous_clearing",
+      "required": false
+    },
+    {
+      "id": "byg:seasonal_deciduous_forest",
+      "required": false
+    },
+    {
+      "id": "byg:seasonal_deciduous_forest_hills",
+      "required": false
+    },
+    {
+      "id": "byg:seasonal_forest",
+      "required": false
+    },
+    {
+      "id": "byg:seasonal_forest_hills",
+      "required": false
+    },
+    {
+      "id": "byg:skyris_highlands_clearing",
+      "required": false
+    },
+    {
+      "id": "byg:skyris_highlands",
+      "required": false
+    },
+    {
+      "id": "byg:skyris_peaks",
+      "required": false
+    },
+    {
+      "id": "byg:skyris_steeps",
+      "required": false
+    },
+    {
+      "id": "byg:stone_forest",
+      "required": false
+    },
+    {
+      "id": "byg:wooded_grassland_plateau",
+      "required": false
+    },
+    {
+      "id": "byg:wooded_meadow",
+      "required": false
+    },
+    {
+      "id": "byg:woodlands",
+      "required": false
+    },
+    {
+      "id": "byg:zelkova_clearing",
+      "required": false
+    },
+    {
+      "id": "byg:zelkova_forest",
+      "required": false
+    },
+    {
+      "id": "byg:zelkova_forest_hills",
+      "required": false
+    },
+    {
+      "id": "terralith:sakura_grove",
+      "required": false
+    },
+    {
+      "id": "terralith:temperate_highlands",
+      "required": false
+    }
+  ]
+}

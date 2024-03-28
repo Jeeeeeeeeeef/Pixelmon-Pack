@@ -1,0 +1,90 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:the_end",
+    "minecraft:small_end_islands",
+    "minecraft:end_midlands",
+    "minecraft:end_highlands",
+    "minecraft:end_barrens",
+    {
+      "id": "regions_unexplored:glistering_meadow",
+      "required": false
+    },
+    {
+      "id": "byg:ivis_fields",
+      "required": false
+    },
+    {
+      "id": "byg:nightshade_forest",
+      "required": false
+    },
+    {
+      "id": "byg:ethereal_islands",
+      "required": false
+    },
+    {
+      "id": "byg:viscal_isles",
+      "required": false
+    },
+    {
+      "id": "byg:bulbis_gardens",
+      "required": false
+    },
+    {
+      "id": "byg:shattered_desert",
+      "required": false
+    },
+    {
+      "id": "byg:shulkren_forest",
+      "required": false
+    },
+    {
+      "id": "byg:purpur_peaks",
+      "required": false
+    },
+    {
+      "id": "byg:cryptic_wastes",
+      "required": false
+    },
+    {
+      "id": "byg:imparius_grove",
+      "required": false
+    },
+    {
+      "id": "byg:shattered_viscal_isles",
+      "required": false
+    },
+    {
+      "id": "byg:bulbis_gardens_edge",
+      "required": false
+    },
+    {
+      "id": "byg:ethereal_forest",
+      "required": false
+    },
+    {
+      "id": "byg:ethereal_clearing",
+      "required": false
+    },
+    {
+      "id": "byg:shattered_desert_isles",
+      "required": false
+    },
+    {
+      "id": "byg:imparius_clearing",
+      "required": false
+    },
+    {
+      "id": "nullscape:crystal_peaks",
+      "required": false
+    },
+    {
+      "id": "nullscape:shadowlands",
+      "required": false
+    },
+    {
+      "id": "nullscape:void_barrens",
+      "required": false
+    }
+  ]
+}

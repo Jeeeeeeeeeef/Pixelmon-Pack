@@ -1,0 +1,51 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:birch_forest",
+    "minecraft:old_growth_birch_forest",
+    {
+      "id": "regions_unexplored:pumpkin_fields",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:silver_birch_forest",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:autumnal_maple_forest",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:mauve_hills",
+      "required": false
+    },
+    {
+      "id": "byg:aspen_clearing",
+      "required": false
+    },
+    {
+      "id": "byg:aspen_forest",
+      "required": false
+    },
+    {
+      "id": "byg:aspen_forest_hills",
+      "required": false
+    },
+    {
+      "id": "byg:seasonal_birch_forest",
+      "required": false
+    },
+    {
+      "id": "byg:seasonal_birch_forest_hills",
+      "required": false
+    },
+    {
+      "id": "terralith:birch_taiga",
+      "required": false
+    },
+    {
+      "id": "terralith:white_cliffs",
+      "required": false
+    }
+  ]
+}

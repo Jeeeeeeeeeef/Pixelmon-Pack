@@ -1,0 +1,42 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:mushroom_fields",
+    {
+      "id": "regions_unexplored:mycotoxic_undergrowth",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:blackwood_taiga",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:fungal_fen",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:fungal_jungle",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:shroomy_wetland",
+      "required": false
+    },
+    {
+      "id": "byg:fungal_patch",
+      "required": false
+    },
+    {
+      "id": "byg:glowshroom_bayou",
+      "required": false
+    },
+    {
+      "id": "byg:tropical_fungal_forest",
+      "required": false
+    },
+    {
+      "id": "byg:tropical_fungal_rainforest_hills",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "regions_unexplored:chalk_cliffs",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:fen",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:fungal_fen",
+      "required": false
+    },
+    {
+      "id": "byg:fresh_water_lake",
+      "required": false
+    },
+    {
+      "id": "byg:great_lakes",
+      "required": false
+    },
+    {
+      "id": "byg:great_lake_isles",
+      "required": false
+    },
+    {
+      "id": "byg:oasis",
+      "required": false
+    },
+    {
+      "id": "terralith:desert_oasis",
+      "required": false
+    },
+    {
+      "id": "terralith:red_oasis",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "biomesoplenty:fir_clearing",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:grove_clearing",
+      "required": false
+    },
+    {
+      "id": "byg:aspen_clearing",
+      "required": false
+    },
+    {
+      "id": "byg:black_forest_clearing",
+      "required": false
+    },
+    {
+      "id": "byg:boreal_clearing",
+      "required": false
+    },
+    {
+      "id": "byg:cherry_blossom_clearing",
+      "required": false
+    },
+    {
+      "id": "byg:coniferous_clearing",
+      "required": false
+    },
+    {
+      "id": "byg:deciduous_clearing",
+      "required": false
+    },
+    {
+      "id": "byg:ethereal_clearing",
+      "required": false
+    },
+    {
+      "id": "byg:evergreen_clearing",
+      "required": false
+    },
+    {
+      "id": "byg:guiana_clearing",
+      "required": false
+    },
+    {
+      "id": "byg:jacaranda_clearing",
+      "required": false
+    },
+    {
+      "id": "byg:prairie_clearing",
+      "required": false
+    },
+    {
+      "id": "byg:redwood_clearing",
+      "required": false
+    },
+    {
+      "id": "byg:seasonal_deciduous_clearing",
+      "required": false
+    },
+    {
+      "id": "byg:snowy_coniferous_clearing",
+      "required": false
+    },
+    {
+      "id": "byg:snowy_deciduous_clearing",
+      "required": false
+    },
+    {
+      "id": "byg:snowy_evergreen_clearing",
+      "required": false
+    },
+    {
+      "id": "byg:weeping_witch_clearing",
+      "required": false
+    },
+    {
+      "id": "byg:zelkova_clearing",
+      "required": false
+    },
+    {
+      "id": "terralith:shield_clearing",
+      "required": false
+    },
+    {
+      "id": "terralith:valley_clearing",
+      "required": false
+    }
+  ]
+}
