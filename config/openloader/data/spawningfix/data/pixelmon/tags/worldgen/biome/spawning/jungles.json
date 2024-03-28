@@ -15,6 +15,10 @@
       "required": false
     },
     {
+      "id": "regions_unexplored:bamboo_forest",
+      "required": false
+    },
+    {
       "id": "regions_unexplored:tropics",
       "required": false
     },

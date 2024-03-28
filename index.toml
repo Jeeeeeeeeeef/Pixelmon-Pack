@@ -57,123 +57,123 @@ file = "config/openloader/advanced_options.json"
 hash = "97c64147276f55cad728249dd77602661e2327fa178aeb8e0db12866df448211"
 
 [[files]]
-file = "config/openloader/data/spawningfix/data/pixelmon/tags/worldgen/biome/all_forests.json"
+file = "config/openloader/data/spawningfix/data/pixelmon/tags/worldgen/biome/spawning/all_forests.json"
 hash = "cc80f0ad7982c8372220228978631a35fedbf7631e286898ce3e3f0b849e7cda"
 
 [[files]]
-file = "config/openloader/data/spawningfix/data/pixelmon/tags/worldgen/biome/arid.json"
+file = "config/openloader/data/spawningfix/data/pixelmon/tags/worldgen/biome/spawning/arid.json"
 hash = "ccfe4755c12c39c058c346df1a3318acd85696daa637b17809fe95a60949a010"
 
 [[files]]
-file = "config/openloader/data/spawningfix/data/pixelmon/tags/worldgen/biome/beaches.json"
+file = "config/openloader/data/spawningfix/data/pixelmon/tags/worldgen/biome/spawning/beaches.json"
 hash = "97ce49557f5be7b6a3ef9cc6a3e5346f9a132c2a3425dff2a523196e563d07b3"
 
 [[files]]
-file = "config/openloader/data/spawningfix/data/pixelmon/tags/worldgen/biome/birches.json"
+file = "config/openloader/data/spawningfix/data/pixelmon/tags/worldgen/biome/spawning/birches.json"
 hash = "a3e2640b722d2e26f551762bb8206403b51d31b1e993ac23e1bcdfae1843cbf8"
 
 [[files]]
-file = "config/openloader/data/spawningfix/data/pixelmon/tags/worldgen/biome/caves.json"
+file = "config/openloader/data/spawningfix/data/pixelmon/tags/worldgen/biome/spawning/caves.json"
 hash = "6e30a352101f2b86ebf39ee444227f8845b3607eea174325dfb7b4e8d59fa734"
 
 [[files]]
-file = "config/openloader/data/spawningfix/data/pixelmon/tags/worldgen/biome/clearings.json"
+file = "config/openloader/data/spawningfix/data/pixelmon/tags/worldgen/biome/spawning/clearings.json"
 hash = "9439743c05389fbbac1ee9de0b695bf4218040d70f8bfa64c68873aed10d3b96"
 
 [[files]]
-file = "config/openloader/data/spawningfix/data/pixelmon/tags/worldgen/biome/end.json"
+file = "config/openloader/data/spawningfix/data/pixelmon/tags/worldgen/biome/spawning/end.json"
 hash = "0206e28f646ec154b2c79f609fc572c271ae99eadc47155120c86973ff8f3f79"
 
 [[files]]
-file = "config/openloader/data/spawningfix/data/pixelmon/tags/worldgen/biome/evil.json"
+file = "config/openloader/data/spawningfix/data/pixelmon/tags/worldgen/biome/spawning/evil.json"
 hash = "1cb5289e70fa22d3076d0ae8d746e86d7d2b37eda99b1832ca33f6061d47d03e"
 
 [[files]]
-file = "config/openloader/data/spawningfix/data/pixelmon/tags/worldgen/biome/flowery.json"
+file = "config/openloader/data/spawningfix/data/pixelmon/tags/worldgen/biome/spawning/flowery.json"
 hash = "0edd6731d0422b094fbfa038f8892ebe720a4146c0846a0b3ef2533ad7e9075a"
 
 [[files]]
-file = "config/openloader/data/spawningfix/data/pixelmon/tags/worldgen/biome/forests.json"
+file = "config/openloader/data/spawningfix/data/pixelmon/tags/worldgen/biome/spawning/forests.json"
 hash = "ae196065cde806719fa5d4dd99f73cc31ec3ca3edc09514bdbb0e7712f85311d"
 
 [[files]]
-file = "config/openloader/data/spawningfix/data/pixelmon/tags/worldgen/biome/freezing.json"
+file = "config/openloader/data/spawningfix/data/pixelmon/tags/worldgen/biome/spawning/freezing.json"
 hash = "23afd1f0b1e762ae977117d0ad878c5851f6e91a7e6bd358d7f7fc3ccb725b34"
 
 [[files]]
-file = "config/openloader/data/spawningfix/data/pixelmon/tags/worldgen/biome/freezing_forests.json"
+file = "config/openloader/data/spawningfix/data/pixelmon/tags/worldgen/biome/spawning/freezing_forests.json"
 hash = "17cc39e01a87af2e311b0a6de4231f251d42b4fd185e90c21db87bd864ebd639"
 
 [[files]]
-file = "config/openloader/data/spawningfix/data/pixelmon/tags/worldgen/biome/freezing_mountains.json"
+file = "config/openloader/data/spawningfix/data/pixelmon/tags/worldgen/biome/spawning/freezing_mountains.json"
 hash = "e1bc31daecd59aeaa21b0f8c54fbaefd1b0ca3ef12d368e94a83cea3d049cd2c"
 
 [[files]]
-file = "config/openloader/data/spawningfix/data/pixelmon/tags/worldgen/biome/hellish.json"
+file = "config/openloader/data/spawningfix/data/pixelmon/tags/worldgen/biome/spawning/hellish.json"
 hash = "6ec0e76e909669087ed01ebce8c0d8252fbf232967868e89c76fbb59183d801c"
 
 [[files]]
-file = "config/openloader/data/spawningfix/data/pixelmon/tags/worldgen/biome/hills.json"
+file = "config/openloader/data/spawningfix/data/pixelmon/tags/worldgen/biome/spawning/hills.json"
 hash = "b60d07b21bb8f1b660e2029a20efe807e3a142a88e9d7c7e83c2d235d7e362df"
 
 [[files]]
-file = "config/openloader/data/spawningfix/data/pixelmon/tags/worldgen/biome/jungles.json"
-hash = "950fc7cd3146e52011a320bf47a24be7713b28d1aeb2d780f8125a5370c8a01e"
+file = "config/openloader/data/spawningfix/data/pixelmon/tags/worldgen/biome/spawning/jungles.json"
+hash = "d39ab6411903b02a25003df1c31807d2bd6300e51ccd94c7cf1e45e7a0047951"
 
 [[files]]
-file = "config/openloader/data/spawningfix/data/pixelmon/tags/worldgen/biome/lakes.json"
+file = "config/openloader/data/spawningfix/data/pixelmon/tags/worldgen/biome/spawning/lakes.json"
 hash = "a12ff10b9d8fc16aab40cb0ed3fa256b4d966631a2fbf45c1f70dd35b0e2c567"
 
 [[files]]
-file = "config/openloader/data/spawningfix/data/pixelmon/tags/worldgen/biome/magical.json"
+file = "config/openloader/data/spawningfix/data/pixelmon/tags/worldgen/biome/spawning/magical.json"
 hash = "3cbbcec14a8300867a3e141cb20b94084e8411eb5208a710a8e4ed3a07c45cfa"
 
 [[files]]
-file = "config/openloader/data/spawningfix/data/pixelmon/tags/worldgen/biome/mesas.json"
+file = "config/openloader/data/spawningfix/data/pixelmon/tags/worldgen/biome/spawning/mesas.json"
 hash = "57ded635cf5f22fac9b8ad169f45229155576ae7f41e49fe5c738707662a11cc"
 
 [[files]]
-file = "config/openloader/data/spawningfix/data/pixelmon/tags/worldgen/biome/mountainous.json"
+file = "config/openloader/data/spawningfix/data/pixelmon/tags/worldgen/biome/spawning/mountainous.json"
 hash = "1e874dccdf09cb2dd0db8a1e3326096ee72b01d1a6602de72ceb918a56fd6454"
 
 [[files]]
-file = "config/openloader/data/spawningfix/data/pixelmon/tags/worldgen/biome/mountainous_forests.json"
+file = "config/openloader/data/spawningfix/data/pixelmon/tags/worldgen/biome/spawning/mountainous_forests.json"
 hash = "70cc4533defa9f0b86937bd4e23ffd73c276a51f86f692224c04f0262d8efb66"
 
 [[files]]
-file = "config/openloader/data/spawningfix/data/pixelmon/tags/worldgen/biome/mushroom.json"
+file = "config/openloader/data/spawningfix/data/pixelmon/tags/worldgen/biome/spawning/mushroom.json"
 hash = "ad5fd53e6b2f491bb0bdb1378bc01cad43ba791aadc6ba269381aa1a032d651c"
 
 [[files]]
-file = "config/openloader/data/spawningfix/data/pixelmon/tags/worldgen/biome/oceanic.json"
+file = "config/openloader/data/spawningfix/data/pixelmon/tags/worldgen/biome/spawning/oceanic.json"
 hash = "c3acfc31f7b551d8560ddc1bb04d91e674b7e3ecefd4daceaf3385d490040614"
 
 [[files]]
-file = "config/openloader/data/spawningfix/data/pixelmon/tags/worldgen/biome/plains.json"
+file = "config/openloader/data/spawningfix/data/pixelmon/tags/worldgen/biome/spawning/plains.json"
 hash = "6c1abf87587304b3650414feb84858892cd1ad8d4c1a1401d4bca96183e462a7"
 
 [[files]]
-file = "config/openloader/data/spawningfix/data/pixelmon/tags/worldgen/biome/redwoods.json"
+file = "config/openloader/data/spawningfix/data/pixelmon/tags/worldgen/biome/spawning/redwoods.json"
 hash = "1320010d7987f8a688799fb9c2efecf96db56dcf13a767d951952b7d1c7bb13e"
 
 [[files]]
-file = "config/openloader/data/spawningfix/data/pixelmon/tags/worldgen/biome/roofed.json"
+file = "config/openloader/data/spawningfix/data/pixelmon/tags/worldgen/biome/spawning/roofed.json"
 hash = "8021bdc73d1a73ef61592aa73409978d87fb6d99b5c4b78d7b17fa2fef4efc3c"
 
 [[files]]
-file = "config/openloader/data/spawningfix/data/pixelmon/tags/worldgen/biome/savannas.json"
+file = "config/openloader/data/spawningfix/data/pixelmon/tags/worldgen/biome/spawning/savannas.json"
 hash = "c6eff176602d528135cce4553190a98a41dbcb0a1b14d631e2f02255d7a4749c"
 
 [[files]]
-file = "config/openloader/data/spawningfix/data/pixelmon/tags/worldgen/biome/swamps.json"
+file = "config/openloader/data/spawningfix/data/pixelmon/tags/worldgen/biome/spawning/swamps.json"
 hash = "d007311064c2ba21454fbcf6bd3b3170747fc996589927f37867dee7c7d98747"
 
 [[files]]
-file = "config/openloader/data/spawningfix/data/pixelmon/tags/worldgen/biome/taigas.json"
+file = "config/openloader/data/spawningfix/data/pixelmon/tags/worldgen/biome/spawning/taigas.json"
 hash = "aaf9168abc559bda6e18d0b3e82b57b678c22c729aeb9d4b8e3ab3fd65274471"
 
 [[files]]
-file = "config/openloader/data/spawningfix/data/pixelmon/tags/worldgen/biome/volcanic.json"
+file = "config/openloader/data/spawningfix/data/pixelmon/tags/worldgen/biome/spawning/volcanic.json"
 hash = "d229cfcb633f764c3b644aa99c51e40c423f28eed0ea5b495e69d13e9e8b86c1"
 
 [[files]]
