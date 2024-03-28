@@ -3,7 +3,7 @@
 rarity = "RARE"
 #The number of levels of the enchantment.
 #Range: 1 ~ 5
-levels = 1
+levels = 5
 #If enabled, the enchantment is considered a treasure enchantment.
 isTreasure = false
 #If enabled, the enchantment can be offered by villagers for trade.
@@ -13,7 +13,7 @@ isLootable = false
 #If enabled, the enchantment can be applied at the enchantment table.
 canApplyAtEnchantingTable = false
 #If enabled, the enchantment can be applied on books.
-canApplyOnBooks = false
+canApplyOnBooks = true
 #The minimum enchantability required for the first enchantment level.
 #Range: 1 ~ 100
 minEnchantabilityBase = 15

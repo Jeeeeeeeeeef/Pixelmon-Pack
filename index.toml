@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "88463a5a5a791968a547939f61d148da35f22e1b917bb7a4c801dacee4a68e7a"
+hash = "707abc43251044215cc5707f60e7ef72241cf78c8a36370175e90ccdca20b13c"
 
 [[files]]
 file = "config/fancymenu/config.txt"
@@ -246,11 +246,11 @@ hash = "c6204c13fbeb37db57bb5e3c03049704c692246c7cf195514e4ae608047b5f77"
 
 [[files]]
 file = "config/veinmining-common.toml"
-hash = "0edad785a368a4b71a1410ae47198f16cc0cebaa5c40409548180cbad1403f75"
+hash = "ab8015ec1f7dc443d33b65f4d5b4f9780ab8814b6170703d43611706171f3ed1"
 
 [[files]]
 file = "config/veinmining-server.toml"
-hash = "215e63f6cb523d62e59ce57d765f3693729a4b8c2a83396dda229c3981f20bd5"
+hash = "df1601dea49dfbdf0c181a19ddaf4241e8cf85c870109a3ddcbfb3a1acf65b2a"
 
 [[files]]
 file = "config/xaerominimap-common.txt"

@@ -8,7 +8,7 @@ requireCorrectTool = true
 maxBlocksBase = 0
 #The maximum number of blocks to vein mine per level of the enchantment.
 #Range: 1 ~ 1000
-maxBlocksPerLevel = 50
+maxBlocksPerLevel = 10
 #If enabled, vein mining can mine diagonally.
 diagonalMining = true
 #If enabled, vein mining will stop when the tool can no longer be used.
