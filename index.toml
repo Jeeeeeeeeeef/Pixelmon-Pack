@@ -298,11 +298,6 @@ hash = "86f7110c58dca6677c1cf680039b6ff62de126618ae4c87a17120a00884b76ca"
 metafile = true
 
 [[files]]
-file = "mods/fancymenu.pw.toml"
-hash = "089050832950a6eaf7eba371e0fb8de8a6c81728db0b9185c36447443f835718"
-metafile = true
-
-[[files]]
 file = "mods/ftb-library-forge-2002.1.1.jar"
 hash = "f942a0861075c851ca204c0481a0ec7e7b1a29674d5d0e35e51972af46556834"
 
