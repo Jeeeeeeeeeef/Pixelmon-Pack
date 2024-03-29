@@ -417,7 +417,3 @@ metafile = true
 file = "resourcepacks/xaeros-minimap-pixelmon-support-updated-for-latest-version.pw.toml"
 hash = "87573e4c47a81bbaaea983a22eec591edd9d41d0d670cf3ab84722be814f91fd"
 metafile = true
-
-[[files]]
-file = "unsup.toml"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
