@@ -379,6 +379,11 @@ hash = "b47ebf78bbdadf013e512774e4cfc65426f262e9ac53373f3766895fb4ea4cbd"
 metafile = true
 
 [[files]]
+file = "mods/tpa.pw.toml"
+hash = "20fc95ab424be24e528f9cd7b87440bb5385feefe05b07466289ae3c8aea3c1c"
+metafile = true
+
+[[files]]
 file = "mods/vein-mining.pw.toml"
 hash = "e4814bcbdb98e52a7af843a19c18b5a8487d890e1c3d91a46801618b73dbc8a9"
 metafile = true

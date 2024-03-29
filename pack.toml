@@ -1,12 +1,12 @@
 name = "Pixelmon Pack"
 author = "Jeef"
-version = "1.0.31"
+version = "1.0.32"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "cb587472157698ab9dc1d37e155567be44b45d643fa3114ab0d91b06baaf0d22"
+hash = "ff6421652a4f8042786aab46ca6cde64f842af7b5f7dd3bd7ab6b60030cbfcc6"
 
 [versions]
 forge = "48.1.0"
