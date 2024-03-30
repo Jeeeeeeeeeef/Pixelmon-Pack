@@ -1,19 +1,25 @@
 {
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
-    {
-      "type": "forge:nbt",
-      "item": "pixelmon:poke_ball_lid",
-      "nbt": {
-        "PokeBallID": "ultra_ball"
+    [
+      {
+        "type": "forge:nbt",
+        "item": "pixelmon:poke_ball_lid",
+        "nbt": {
+          "PokeBallID": "ultra_ball"
+        }
       }
-    },
-    {
-      "item": "minecraft:stone_button"
-    },
-    {
-      "item": "pixelmon:platinum_base"
-    }
+    ],
+    [
+      {
+        "item": "minecraft:stone_button"
+      }
+    ],
+    [
+      {
+        "item": "pixelmon:platinum_base"
+      }
+    ]
   ],
   "result": {
     "item": "pixelmon:poke_ball",

@@ -11,8 +11,8 @@
   "result": {
     "item": "pixelmon:poke_ball_lid",
     "count": 3,
-	"nbt": {
-        "PokeBallID": "love_ball"
+    "nbt": {
+      "PokeBallID": "love_ball"
     }
   }
 }

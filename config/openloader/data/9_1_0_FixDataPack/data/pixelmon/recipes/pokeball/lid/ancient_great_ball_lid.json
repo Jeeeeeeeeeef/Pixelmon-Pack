@@ -13,7 +13,7 @@
     }
   },
   "result": {
-	"item": "pixelmon:poke_ball_lid",
+    "item": "pixelmon:poke_ball_lid",
     "count": 3,
     "nbt": {
       "PokeBallID": "ancient_great_ball"

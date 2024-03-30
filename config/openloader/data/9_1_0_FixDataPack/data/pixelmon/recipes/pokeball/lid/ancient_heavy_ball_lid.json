@@ -13,10 +13,11 @@
     }
   },
   "result": {
-	"item": "pixelmon:poke_ball_lid",
+    "item": "pixelmon:poke_ball_lid",
     "count": 5,
     "nbt": {
       "PokeBallID": "ancient_heavy_ball"
     }
   }
 }
+

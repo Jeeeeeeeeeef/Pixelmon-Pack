@@ -350,7 +350,7 @@ hash = "8af019ab743de69326dfa4f31d953045595d6fe76074e855c7d07b681d350604"
 
 [[files]]
 file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/ball/ultra_ball.json"
-hash = "5c911d54791cf26b410ee173a79cea81dc4b68228f568857f1cab7f247a5a4d1"
+hash = "8450a40c19b8f9e2fcbbdaf6db6e6d17aa1585617c7dc152d4b59cbf16a005e7"
 
 [[files]]
 file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/ball/wing_ball.json"
@@ -378,35 +378,35 @@ hash = "64c23127a25229d699b096c059b470a8e6b2d31b3f47fcf2fb42281fb6ddd5ab"
 
 [[files]]
 file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/lid/ancient_great_ball_lid.json"
-hash = "ab9d7e90e30bb40f0b33663771cd7dabdf181a847958e2e815ecd1069cbd794b"
+hash = "fce17c445130e6b70b435872c24cdb818781b6af1f2b34a2c66da82862c36275"
 
 [[files]]
 file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/lid/ancient_heavy_ball_lid.json"
-hash = "0e33f42667ab6ed9572cc35b763a6c15101237125aa70935a1e54a463daa885b"
+hash = "2815fc79c724b0864fe24352d5ad2c82532d2186afed2fea6d2464b97132d032"
 
 [[files]]
 file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/lid/ancient_poke_ball_lid.json"
-hash = "af99fece3f2145ddc384b533dee956af582ee4f63b1acee5a2fcee3063dea733"
+hash = "1864f38f45513e826b78adc6ebab47b4a21019e36e09d9df72960e3cc46d2d0b"
 
 [[files]]
 file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/lid/ancient_ultra_ball_lid.json"
-hash = "8e42e033b1aeee1838bae4c0fa2350c043b5c7b2251c87a7e7e3c68212d9aa50"
+hash = "9fb4d9d2a9d429b60d5739e6922a838283cf8badb91c1bacf7da4a40bb14dfee"
 
 [[files]]
 file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/lid/dive_ball_lid.json"
-hash = "2ee5ea8edcc50bca7398959f50080de46f8d9de77221b61486da1b4f248ad8b8"
+hash = "8b4faeff0a23c677b06f01ff1917049df2be79d49188123463eba6c542a25bbe"
 
 [[files]]
 file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/lid/dusk_ball_lid.json"
-hash = "ff42f25cf84eb5949e56f54c62ac8e4bda1e73ff37279c64c21caa2d3d9c7a20"
+hash = "4ece602de341f87d4093e6ce9102a30c6b16bc94dc3f100d4823750383e1164f"
 
 [[files]]
 file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/lid/fast_ball_lid.json"
-hash = "28bad6f8fa0a9497e46ff9bb8e0ee0a12a2c9c87d3493696ae6c0d1199c06c06"
+hash = "e0b7fe47352d15454336d8fec87b044c7fd169c9933ce1922eda28fb682299fa"
 
 [[files]]
 file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/lid/feather_ball_lid.json"
-hash = "9c875054079f209954f5d37bdf166a9ed4fca557b5135c0c2ebd2148b6a5d2bc"
+hash = "789e8573b2ababa52a68b4ce9a367e080e7cf48e5453bdedd3dcd0f25600d5f0"
 
 [[files]]
 file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/lid/friend_ball_lid.json"
@@ -422,7 +422,7 @@ hash = "238cd5db3e25b9fb875658a48f9db126c41269059d0e75d537d5d65b386732dd"
 
 [[files]]
 file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/lid/heal_ball_lid.json"
-hash = "d3375cf1982cf37d186414adbf4bc778e25bcdb6e65afbe384b24d828b106357"
+hash = "0d24897dd2e77c8f14da08328d7884a65ae7d024d1f46e62eb3f9e2309522a3e"
 
 [[files]]
 file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/lid/heavy_ball_lid.json"
@@ -442,7 +442,7 @@ hash = "bbad0cd094aef98fae3fb51c76d1619ab40df2f22a51274ffcdf712e1adac40f"
 
 [[files]]
 file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/lid/love_ball_lid.json"
-hash = "af2757e78e52539cada14695a454744e86f27d6644fa9ef5d849302916de04a4"
+hash = "0ee28ce501caa7842e68139c04642280186963ca9b70cfee2d5f58398028466e"
 
 [[files]]
 file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/lid/lure_ball_lid.json"
@@ -466,7 +466,7 @@ hash = "d3801c12e4baea6d7243bf447b6b19e32a94e6c8959e8e8a37f60baf37274c78"
 
 [[files]]
 file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/lid/poke_ball_lid.json"
-hash = "8b3f7b0d92c6e18fc3cdc88cc2ab8ea5605a9daba3f831e7d26404e0067e85c1"
+hash = "2ef1dca33752fd49d3c480706a89e56a2f7d9b3ac477bb91eb266463bd899efd"
 
 [[files]]
 file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/lid/premier_ball_lid.json"
@@ -490,7 +490,7 @@ hash = "349303d4285b58afeb10b7ec4ee9d4f0b32152e4dcbaa84e811db681eddcba1a"
 
 [[files]]
 file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/lid/timer_ball_lid.json"
-hash = "fb212506823635e149188b5f91679bbc7724a2da8b97756919ac50267566daf0"
+hash = "12206d8375172ed8147a54fdfd02c5b83dbeaa62791a945ed0c731c4a14de58f"
 
 [[files]]
 file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/lid/ultra_ball_lid.json"
