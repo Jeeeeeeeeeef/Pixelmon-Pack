@@ -14,7 +14,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/default.txt"
-hash = "9285b454c0fa5938da4df400f9b1fc8eac2a71780fce62f189892358fb365045"
+hash = "afe7d2922450ca17d09eecd04aa0fdf897df24c1ccab8d14bd66c5bc3cf1f354"
 
 [[files]]
 file = "config/fancymenu/locals/de_de.local"
@@ -55,6 +55,454 @@ hash = "d2d55a621e0ca0765db2ffc20084e053b090e9076516e83b88a65b57a6d33557"
 [[files]]
 file = "config/openloader/advanced_options.json"
 hash = "97c64147276f55cad728249dd77602661e2327fa178aeb8e0db12866df448211"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/forge/tags/blocks/dirt.json"
+hash = "64fd7dc2469c3864ca9f8beb090ad7e285c8de374704cef43ea6ceb7eab9226c"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/forge/tags/blocks/ores.json"
+hash = "b2f4302fb8743d0969959df0b504291a047d2bb659909c307863c3c3f17103fc"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/forge/tags/blocks/ores/amethyst.json"
+hash = "3ea250057149c3376e19c49a4d66af5d01c47648828c2e1679a239a445471487"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/forge/tags/blocks/ores/bauxite.json"
+hash = "e705c58b5849a08fdf6888541c15f4a19f92495247a6a5cf253979c097d8dd53"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/forge/tags/blocks/ores/crystal.json"
+hash = "78896f3586d72b11f0bd94185e54b0a4cecec7a6c94a69cae2072e2af8ec7ce4"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/forge/tags/blocks/ores/platinum.json"
+hash = "ac2ca05bfa395014d81055891a4e280345e56c338f08a93e362fa8cd24c89f1e"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/forge/tags/blocks/ores/ruby.json"
+hash = "3c562de98c9073f68bd795ee5cee363bc820d690e8465094ec0b5f596645bb43"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/forge/tags/blocks/ores/sapphire.json"
+hash = "0288420e8edc461490cfc8ed6f3c32d6829ffc8becc5cbc38bb9d1509d394013"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/forge/tags/blocks/ores/silicon.json"
+hash = "e9afbffaf05bf9d83d51e37417c1594e73978e88553bf718859e8cf8c12875b6"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/forge/tags/blocks/ores/silver.json"
+hash = "fad89e9d8e31b7c0fa8f3d2bf7c15c73d2da4ddb4deb598682231a7fa3c5c1d3"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/forge/tags/items/gems.json"
+hash = "edc887724db4419460568ea1c927aa00ec76d2442b08c88f0bd6c86261405e24"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/forge/tags/items/gems/amethyst.json"
+hash = "4c5525a7d05c4c0b212aec4d55ad4baa86a0a97e5946989830da9f48e00467dd"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/forge/tags/items/gems/crystal.json"
+hash = "5db209920a5ac2c61ffcdd865cd417703b676d3e892a9d2a8234076b8420a7a4"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/forge/tags/items/gems/ruby.json"
+hash = "c33a9a5d36c619994a42ac531c5dff79e2f44b1eaba4b941e15d0b69646f0c44"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/forge/tags/items/gems/sapphire.json"
+hash = "e070a107f34f8cd0eef1d08695e24ffb74badf3881940d14eb12397e635915e5"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/forge/tags/items/gems/silicon.json"
+hash = "bff3f4e0f2efb25b6990a2126ae8fc75f529ff39b8c35394f9722a4ed7f98e6c"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/forge/tags/items/ingots.json"
+hash = "5e7e2c468fef38c4b3b33aedbebfb4a3797d94fc80bad5a5c82f6a699ad7a365"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/forge/tags/items/ingots/aluminium.json"
+hash = "5e7e2c468fef38c4b3b33aedbebfb4a3797d94fc80bad5a5c82f6a699ad7a365"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/forge/tags/items/ingots/aluminum.json"
+hash = "5e7e2c468fef38c4b3b33aedbebfb4a3797d94fc80bad5a5c82f6a699ad7a365"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/forge/tags/items/ingots/crystal.json"
+hash = "5db209920a5ac2c61ffcdd865cd417703b676d3e892a9d2a8234076b8420a7a4"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/forge/tags/items/ingots/platinum.json"
+hash = "27e8ac0d412a6f619a0dbc4ed0eda4c953f7126ce995c5746f6e194e61685b21"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/forge/tags/items/ingots/silver.json"
+hash = "8557b9eabfc59d8574bf70670e41d2114508a97bd0f5b329c1356c78e04f9ed6"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/forge/tags/items/ores.json"
+hash = "b2f4302fb8743d0969959df0b504291a047d2bb659909c307863c3c3f17103fc"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/forge/tags/items/ores/amethyst.json"
+hash = "3ea250057149c3376e19c49a4d66af5d01c47648828c2e1679a239a445471487"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/forge/tags/items/ores/bauxite.json"
+hash = "e705c58b5849a08fdf6888541c15f4a19f92495247a6a5cf253979c097d8dd53"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/forge/tags/items/ores/crystal.json"
+hash = "78896f3586d72b11f0bd94185e54b0a4cecec7a6c94a69cae2072e2af8ec7ce4"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/forge/tags/items/ores/platinum.json"
+hash = "ac2ca05bfa395014d81055891a4e280345e56c338f08a93e362fa8cd24c89f1e"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/forge/tags/items/ores/ruby.json"
+hash = "3c562de98c9073f68bd795ee5cee363bc820d690e8465094ec0b5f596645bb43"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/forge/tags/items/ores/sapphire.json"
+hash = "0288420e8edc461490cfc8ed6f3c32d6829ffc8becc5cbc38bb9d1509d394013"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/forge/tags/items/ores/silicon.json"
+hash = "e9afbffaf05bf9d83d51e37417c1594e73978e88553bf718859e8cf8c12875b6"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/forge/tags/items/ores/silver.json"
+hash = "fad89e9d8e31b7c0fa8f3d2bf7c15c73d2da4ddb4deb598682231a7fa3c5c1d3"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/forge/tags/items/plates.json"
+hash = "f136dabd7674c3769b34416c10755356ba3ee99c06ab0591972394ab655ae704"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/forge/tags/items/plates/aluminium.json"
+hash = "f136dabd7674c3769b34416c10755356ba3ee99c06ab0591972394ab655ae704"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/forge/tags/items/plates/aluminum.json"
+hash = "f136dabd7674c3769b34416c10755356ba3ee99c06ab0591972394ab655ae704"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/config/shopitems.json"
+hash = "0a29c147be746a6094e271c04c8670dd8c435ceaa19ebcc1819689139b61a6a3"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/decor/mug_ball.json"
+hash = "a9953d8f3353bb948e31d3be808c349529b2ad32f774e3abe14bda5cb8386512"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/equipment/good_rod.json"
+hash = "685aeec46958110f377bb98e84d62bdf23758cfc43e99c5ca0e7fde51a3bd120"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/equipment/old_rod.json"
+hash = "31930786441fd74086064717561c869a3436cb45eab35abd13fcdd4836b0ad2a"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/machines/trade_holder_left.json"
+hash = "3d36ab20093ad850fcf5bab990c5e5d9a03aa578d8e146a647ef72b3eefd993e"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/machines/trade_holder_right.json"
+hash = "7991b5195e12d39a742c484e233ec26abaec627330c53ece46525028e07e969a"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/poke_display.json"
+hash = "d319217ac4bf20d40d6586b0c88c9108d202962ea7e0536d579a15f34c9f8134"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/poke_gift.json"
+hash = "2c0bbf6052a8ba41b8565fe7ea39ee8bf01feaadb9d7ab1a354db49393fb965a"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/ball/ancient_great_ball.json"
+hash = "9417d8d36e0537e74a2709382d7d4676a1d7565c60490fb689f1b19310cc686a"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/ball/ancient_heavy_ball.json"
+hash = "098371500d223649bf16bfe3449e04a6c8bb2f42584dce9c226b386aa36560df"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/ball/ancient_poke_ball.json"
+hash = "a2c8d94ef1320f7db15cd0050dd3fb97a642e6d8479b86feb658af7589bd7167"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/ball/ancient_ultra_ball.json"
+hash = "1822dc4c0c511afba83e102ac864fd47ac60ba7f7b6c0efd1c58aedcf1433504"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/ball/dive_ball.json"
+hash = "2285a435e948ae8d9cbe1274e96ee9876adc3a104c994af27b6c0a4e9794bd33"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/ball/dream_ball_new.json"
+hash = "efcb6b5ac1ecc442ac9c17ab9cd1c151de9d5424f87e8c5d3f81209eca09f404"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/ball/dusk_ball.json"
+hash = "dd8e850eab4dcd7af66146ec2a94581710f00c1ec5ca6042d6b16f3f84aeb8d0"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/ball/fast_ball.json"
+hash = "f5a17c549bdcc71554adf6ad1a4c2ed0e20d8e32074860acba4b9cc854483118"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/ball/feather_ball.json"
+hash = "716cd61dc13c51d4182ca4f5872098967c7a5af8a9833a73cdafaa7ef5be23e6"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/ball/friend_ball.json"
+hash = "d480445a7128ed07e7fc32184ea542b0a631145034ee9fbce26278c56e0595c6"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/ball/gigaton_ball.json"
+hash = "ff78bbad4438f39483df76fc3e5548da87327b504df825960a9e169d83c1dae3"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/ball/great_ball.json"
+hash = "d87f0129e0df25a390fbb6716669ab4c241f488fc821c22630ae0ed8b2c2bd0c"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/ball/heal_ball.json"
+hash = "8d2c4a765c854805d3e094fb82a68aec0b36c4c73c5925fdfc08af66e3fd9b32"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/ball/heavy_ball.json"
+hash = "521df4138e5738eea79557dbccf6e2e10825dd669d87a07c5ed59981d4adaaef"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/ball/jet_ball.json"
+hash = "517ad4e538bfb9f7e77e5035f05c6700e7607b52316c65cc5bceb241443c7b77"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/ball/leaden_ball.json"
+hash = "f4146b1dc6e0990df6e967fbe1107cb670af28f7c3d56e932dfefc39ec26b6f0"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/ball/level_ball.json"
+hash = "0e17073c09279c3a1da9b8ab3bdb7ca50a2970c16e94b863bdfeffaa272119b2"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/ball/love_ball.json"
+hash = "c228a38c0f48c1c172a3c568fc679d5b5affabb74a85cc41221846bedec13725"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/ball/lure_ball.json"
+hash = "edaf7200431d27517228e3ac50d41858152f330b40ab67325e72e5f094b8a079"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/ball/luxury_ball.json"
+hash = "669e71af0a9aee5bac0af10c900cf4cd29764ec2091fd052540e14d650b00dc1"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/ball/moon_ball.json"
+hash = "411685a7c05f983c753f70cf97a7f004c5f56e8ace423dc6f65fea28c26bc587"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/ball/nest_ball.json"
+hash = "78d9e3e2d24bdc16717ec930ca1b1bab13bc5fab5531bb0c7e75d8c14c709e22"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/ball/net_ball.json"
+hash = "a1c593842188a0d850a54b206985e8f464a8a856be407fbce27fd9a3271c7375"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/ball/park_ball.json"
+hash = "c72936372ad236d9e1484aacfac1814915061f1f3c07ecd86c73741c36ed6d5f"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/ball/poke_ball.json"
+hash = "4d7d73b9cf162a393ffc3b2bdba2b897f88c280f3d15034d9a4283d607b1fd66"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/ball/premier_ball.json"
+hash = "789e6e12b53881ba66924b4b4bba51f6f0b23662e4693942ea081b0d06e6189d"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/ball/quick_ball.json"
+hash = "5e67daeeac2620f3a05bc5be1280c41c66f3fcc707dbebe733a53c3908cf26de"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/ball/repeat_ball.json"
+hash = "9ea9cb323e18686a92f4006aaf37b11df2565b06765414c2a7d4f0443d9063f7"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/ball/safari_ball.json"
+hash = "5708af12f7bcba958e52238018f40d6991d35aee12337ea899e37ee92b0cd54a"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/ball/sport_ball.json"
+hash = "0837ce3d98c003b3be158aae1222c906819f845df32e83c9a351cf78af0e5100"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/ball/timer_ball.json"
+hash = "8af019ab743de69326dfa4f31d953045595d6fe76074e855c7d07b681d350604"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/ball/ultra_ball.json"
+hash = "5c911d54791cf26b410ee173a79cea81dc4b68228f568857f1cab7f247a5a4d1"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/ball/wing_ball.json"
+hash = "7e987bda6b28e4cf95da827515a699a45548cf9cc9525bf7bf2c7411a4ac4031"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/base/aluminum_base.json"
+hash = "c1e31fc4b8b175bdee62cead24de27e17dedfabe8d88154de3163ea00d506e64"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/base/iron_base.json"
+hash = "080e284e4d8dfbdc02f7be33ef6273d204ed24c29c7a3f7c2165b5f47e9f66fa"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/base/platinum_base.json"
+hash = "dcd32cfcc1e22df3f666d2d230206152b5106194120d924b4c98326002ec9357"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/base/silver_base.json"
+hash = "62dff721229c0208be67e1059b9b1bd0bd0875807b9ee74df3c4345da9c92999"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/base/wooden_base.json"
+hash = "64c23127a25229d699b096c059b470a8e6b2d31b3f47fcf2fb42281fb6ddd5ab"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/lid/ancient_great_ball_lid.json"
+hash = "ab9d7e90e30bb40f0b33663771cd7dabdf181a847958e2e815ecd1069cbd794b"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/lid/ancient_heavy_ball_lid.json"
+hash = "0e33f42667ab6ed9572cc35b763a6c15101237125aa70935a1e54a463daa885b"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/lid/ancient_poke_ball_lid.json"
+hash = "af99fece3f2145ddc384b533dee956af582ee4f63b1acee5a2fcee3063dea733"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/lid/ancient_ultra_ball_lid.json"
+hash = "8e42e033b1aeee1838bae4c0fa2350c043b5c7b2251c87a7e7e3c68212d9aa50"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/lid/dive_ball_lid.json"
+hash = "2ee5ea8edcc50bca7398959f50080de46f8d9de77221b61486da1b4f248ad8b8"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/lid/dusk_ball_lid.json"
+hash = "ff42f25cf84eb5949e56f54c62ac8e4bda1e73ff37279c64c21caa2d3d9c7a20"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/lid/fast_ball_lid.json"
+hash = "28bad6f8fa0a9497e46ff9bb8e0ee0a12a2c9c87d3493696ae6c0d1199c06c06"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/lid/feather_ball_lid.json"
+hash = "9c875054079f209954f5d37bdf166a9ed4fca557b5135c0c2ebd2148b6a5d2bc"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/lid/friend_ball_lid.json"
+hash = "19722a71f5ceeaf4b9afd50030bc7015fd5d63f894bd1714b2d5f1ae2b2c6fe9"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/lid/gigaton_ball_lid.json"
+hash = "9cfee7d525868b7492a8e2917794842631761662ba1ace778871c84fb1738297"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/lid/great_ball_lid.json"
+hash = "238cd5db3e25b9fb875658a48f9db126c41269059d0e75d537d5d65b386732dd"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/lid/heal_ball_lid.json"
+hash = "d3375cf1982cf37d186414adbf4bc778e25bcdb6e65afbe384b24d828b106357"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/lid/heavy_ball_lid.json"
+hash = "1517411ed9fbde16104b697aeb3db04377edaf2c6fe41b1fa93eba35b62a57eb"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/lid/jet_ball_lid.json"
+hash = "fbc348a540cb809089d0c7a30a7fa5e885769125454dcb4e3a0d058b1c9d2771"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/lid/leaden_ball_lid.json"
+hash = "f519eb62b41d70aabdc11f1db797183ca755c143596f763b9cf9f6cd4270342b"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/lid/level_ball_lid.json"
+hash = "bbad0cd094aef98fae3fb51c76d1619ab40df2f22a51274ffcdf712e1adac40f"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/lid/love_ball_lid.json"
+hash = "af2757e78e52539cada14695a454744e86f27d6644fa9ef5d849302916de04a4"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/lid/lure_ball_lid.json"
+hash = "4559c3a01d1d934aa5fe40ecab9003f4ca971a234e9a417c0df5630d34bb9521"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/lid/luxury_ball_lid.json"
+hash = "cab72340c7fa5d5f4efb18b76db0d26588c2643f8c6867a3a5089ba7c6af7050"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/lid/moon_ball_lid.json"
+hash = "ab5657145560a7e4287c397537ce8de1fc24e8b494c44de4bcd10c7d7211639f"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/lid/nest_ball_lid.json"
+hash = "f56a1ff1b5340a8c7f80e552f722f1e39e32068a90b3d4072312fead00ee9796"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/lid/net_ball_lid.json"
+hash = "d3801c12e4baea6d7243bf447b6b19e32a94e6c8959e8e8a37f60baf37274c78"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/lid/poke_ball_lid.json"
+hash = "8b3f7b0d92c6e18fc3cdc88cc2ab8ea5605a9daba3f831e7d26404e0067e85c1"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/lid/premier_ball_lid.json"
+hash = "86e8e069bf47666e02a82e376e30b7ec4aba752a5c19d25f859860a36ad09c15"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/lid/quick_ball_lid.json"
+hash = "fed2d07a71391f3b5c6746c2e3211bc89530e34a32d8ee973f2b96cb5d0cdacf"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/lid/repeat_ball_lid.json"
+hash = "e6fd8cfad57d62778745d2ba7e46f582e4d5f65f33b3bf74de2abe736b7bea7c"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/lid/safari_ball_lid.json"
+hash = "b6419ad86f3a6cbefd9d4c0983a10c2cd4b26fb94f31d0efc0caf27a240c7e1e"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/lid/sport_ball_lid.json"
+hash = "349303d4285b58afeb10b7ec4ee9d4f0b32152e4dcbaa84e811db681eddcba1a"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/lid/timer_ball_lid.json"
+hash = "fb212506823635e149188b5f91679bbc7724a2da8b97756919ac50267566daf0"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/lid/ultra_ball_lid.json"
+hash = "839734aa8899febc1504357a7e985a091b7d59fbd93645336fb98050f9ddbc34"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/data/pixelmon/recipes/pokeball/lid/wing_ball_lid.json"
+hash = "512089227646f445f74caf3cf337ab2416f50191f5c8d4be5879e151a994dcb7"
+
+[[files]]
+file = "config/openloader/data/9_1_0_FixDataPack/pack.mcmeta"
+hash = "4745bad6830a67b124c6fc93e3bd11a65061ab8dca96524e7dafa6d021ef3140"
 
 [[files]]
 file = "config/openloader/data/spawningfix/data/pixelmon/tags/worldgen/biome/spawning/all_forests.json"
@@ -298,6 +746,11 @@ hash = "86f7110c58dca6677c1cf680039b6ff62de126618ae4c87a17120a00884b76ca"
 metafile = true
 
 [[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "089050832950a6eaf7eba371e0fb8de8a6c81728db0b9185c36447443f835718"
+metafile = true
+
+[[files]]
 file = "mods/ftb-library-forge-2002.1.1.jar"
 hash = "f942a0861075c851ca204c0481a0ec7e7b1a29674d5d0e35e51972af46556834"
 
@@ -327,6 +780,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "4e5d1d4c070d1d7d41042df79fb3f0425b891bc46f770563cfbda66c9f8ce545"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "e7015da2922ae36a66dbbbd312b830e43d8f8311207e70b44db13d8014b4f2ea"
 metafile = true
 
 [[files]]

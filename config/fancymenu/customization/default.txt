@@ -15,19 +15,29 @@ customization {
 
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
-  action = hidebutton
+  orientation = mid-left
+  x = 343
+  action = movebutton
+  y = 9
 }
 
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
-  action = setbuttonlabel
-  value = Join Server
+  width = 60
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  action = setbuttondescription
+  description = This menu is a bit buggy in this version.%n%Don't add servers, just direct connect%n%You can probably just use Join Server instead
 }
 
 customization {
   orientation = top-left
   hidden = false
-  x = 79
+  x = 106
   width = 268
   action = deep_customization_element:title_screen_forge_top
   actionid = 240b90c9-dc4d-4282-a3d6-1d0f24b1574d1711558560904
@@ -42,36 +52,36 @@ customization {
   width = 108
   action = deep_customization_element:title_screen_branding
   actionid = 07011c66-d322-4916-b32c-a4d32057d3ce1711558560912
-  y = 327
+  y = 206
   height = 40
 }
 
 customization {
   orientation = top-left
   hidden = false
-  x = 198
+  x = 251
   width = 228
   action = deep_customization_element:title_screen_forge_copyright
   actionid = afbd233d-cf86-4381-a2a2-3d2ceec930691711558560912
-  y = 349
+  y = 228
   height = 9
 }
 
 customization {
   orientation = top-left
   hidden = false
-  x = 315
+  x = 342
   width = 14
   action = deep_customization_element:title_screen_realms_notification
   actionid = 14798224-4427-4034-b9bf-9d133288ac671711558560913
-  y = 191
+  y = 161
   height = 14
 }
 
 customization {
   orientation = top-left
   hidden = false
-  x = 76
+  x = 103
   width = 274
   action = deep_customization_element:title_screen_logo
   actionid = 9fbdc9ac-cfbf-4b7d-8ab1-06e13fc88d511711558560913
@@ -97,12 +107,12 @@ customization {
   loopbackgroundanimations = true
   restartbackgroundanimations = true
   orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_singleplayer_button
-  buttonaction = joinserver;9.tcp.ngrok.io:24646%btnaction_splitter_fm%
+  buttonaction = joinserver;artificialdan.centralus.azurecontainer.io%btnaction_splitter_fm%
   x = 0
   width = 200
   action = addbutton
   actionid = 251da824-31f8-4393-b740-ca1eb117f4411711558684877
-  y = 24
+  y = 23
   label = Join Server
   height = 20
 }
