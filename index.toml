@@ -14,7 +14,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/default.txt"
-hash = "afe7d2922450ca17d09eecd04aa0fdf897df24c1ccab8d14bd66c5bc3cf1f354"
+hash = "c8e6bc6bf4020db649c028188038d2adfc2b07192684424a49acda7d3500d0f7"
 
 [[files]]
 file = "config/fancymenu/locals/de_de.local"

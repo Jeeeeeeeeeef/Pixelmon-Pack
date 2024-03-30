@@ -107,7 +107,7 @@ customization {
   loopbackgroundanimations = true
   restartbackgroundanimations = true
   orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_singleplayer_button
-  buttonaction = joinserver;artificialdan.centralus.azurecontainer.io%btnaction_splitter_fm%
+  buttonaction = joinserver;frp-server.thankfulplant-5862973f.centralus.azurecontainerapps.io:25565%btnaction_splitter_fm%
   x = 0
   width = 200
   action = addbutton
