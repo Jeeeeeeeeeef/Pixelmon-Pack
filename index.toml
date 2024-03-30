@@ -14,7 +14,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/default.txt"
-hash = "c8e6bc6bf4020db649c028188038d2adfc2b07192684424a49acda7d3500d0f7"
+hash = "88fdf11744705e2d97ab4eea8b6bc330d3637d875a92c06a26e25c7bf62e765d"
 
 [[files]]
 file = "config/fancymenu/locals/de_de.local"
@@ -435,4 +435,4 @@ metafile = true
 
 [[files]]
 file = "scripts/pokeball.zs"
-hash = "86730367eea8e5f08201560e030dfa32e26018699ef226a4c562d29563548312"
+hash = "9b9082e788eb576f8030c1d739a79f5b76c93a35d6046c5e2a953eab07208a36"

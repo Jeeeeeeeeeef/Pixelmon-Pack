@@ -15,10 +15,11 @@ customization {
 
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
-  orientation = mid-left
-  x = 343
+  orientation = element
+  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_options_button
+  x = 70
   action = movebutton
-  y = 9
+  y = 22
 }
 
 customization {
@@ -37,7 +38,7 @@ customization {
 customization {
   orientation = top-left
   hidden = false
-  x = 106
+  x = 186
   width = 268
   action = deep_customization_element:title_screen_forge_top
   actionid = 240b90c9-dc4d-4282-a3d6-1d0f24b1574d1711558560904
@@ -52,36 +53,36 @@ customization {
   width = 108
   action = deep_customization_element:title_screen_branding
   actionid = 07011c66-d322-4916-b32c-a4d32057d3ce1711558560912
-  y = 206
+  y = 289
   height = 40
 }
 
 customization {
   orientation = top-left
   hidden = false
-  x = 251
+  x = 411
   width = 228
   action = deep_customization_element:title_screen_forge_copyright
   actionid = afbd233d-cf86-4381-a2a2-3d2ceec930691711558560912
-  y = 228
+  y = 311
   height = 9
 }
 
 customization {
   orientation = top-left
   hidden = false
-  x = 342
+  x = 422
   width = 14
   action = deep_customization_element:title_screen_realms_notification
   actionid = 14798224-4427-4034-b9bf-9d133288ac671711558560913
-  y = 161
+  y = 181
   height = 14
 }
 
 customization {
   orientation = top-left
   hidden = false
-  x = 103
+  x = 183
   width = 274
   action = deep_customization_element:title_screen_logo
   actionid = 9fbdc9ac-cfbf-4b7d-8ab1-06e13fc88d511711558560913
