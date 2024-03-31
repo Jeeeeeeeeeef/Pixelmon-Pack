@@ -1,0 +1,13 @@
+name = "Initial Inventory"
+filename = "InitialInventory-forge-1.20.2-12.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/L4ZloL5E/versions/JLBNPlZM/InitialInventory-forge-1.20.2-12.0.3.jar"
+hash-format = "sha1"
+hash = "0a27344ee5d768e1642bd113d1781b72588b2036"
+
+[update]
+[update.modrinth]
+mod-id = "L4ZloL5E"
+version = "JLBNPlZM"

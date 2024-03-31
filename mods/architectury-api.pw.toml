@@ -1,13 +1,13 @@
-name = "Architectury API (Fabric/Forge/NeoForge)"
+name = "Architectury API"
 filename = "architectury-10.1.20-minecraftforge.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/lhGA9TYQ/versions/uo9eXNGR/architectury-10.1.20-minecraftforge.jar"
 hash-format = "sha1"
 hash = "bdf153892ecce71a22b98ba0e71e46397c2c3b9b"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 5194187
-project-id = 419699
+[update.modrinth]
+mod-id = "lhGA9TYQ"
+version = "uo9eXNGR"

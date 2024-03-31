@@ -274,12 +274,17 @@ hash = "6028733f967d0d0f6a80dd236d3dcc7d2446912c719ab9a7d3f83d8624d9b92d"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "75c6b16e97bf25ff87adb717ececc681cec9b049aa6bbbab50ec9f7efbb546c9"
+hash = "4ba572678f8bfe25d8379abb3d4a82f97436be2cd2baa039bb16c52e5dd6764c"
 metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
 hash = "fcce614a6c75a2a7d0710d93707ca40fc21758f32bf6326de9d31d5cb6a89679"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "29809316f13019e54d90ffad302d2704b8a328e8cfc2ea56564d9ec20f12a749"
 metafile = true
 
 [[files]]
@@ -320,13 +325,13 @@ file = "mods/ftb-teams-forge-2002.1.0.jar"
 hash = "6f0bad27971a03fc8aae3882cad66f8d52dc11908dc1cb0db520c5b9afcb3c1c"
 
 [[files]]
-file = "mods/iron-chests.pw.toml"
-hash = "b2beaef03e965bb8bdbf564ed78b6ab82d9ed40672ffc603cb4c574aa34b8a2c"
+file = "mods/initial-inventory.pw.toml"
+hash = "fc4d36dbe60b889fe58f63f5ea04174bacbbc67ba272cec5d14ddf2ca45c497b"
 metafile = true
 
 [[files]]
-file = "mods/jei.pw.toml"
-hash = "546b2fbb38dd9a7f8460ca97325bbc3fcce3fb0bd15092f32875f9997343ab7f"
+file = "mods/iron-chests.pw.toml"
+hash = "b2beaef03e965bb8bdbf564ed78b6ab82d9ed40672ffc603cb4c574aa34b8a2c"
 metafile = true
 
 [[files]]
@@ -384,6 +389,11 @@ hash = "5ba740f9734995e8409fa2b19982cf60596b70b02f0ab9653b36d890f0f28676"
 metafile = true
 
 [[files]]
+file = "mods/rei.pw.toml"
+hash = "bcbb707ecc60e777ad61c5f499215a7826aa727f8111267a77ead2dd7087b855"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "ce780bd0593896b3edb92b6eb2d41d9d07da4f313b4a0ad1fd343e93ad0a9b4c"
 metafile = true
@@ -436,3 +446,7 @@ metafile = true
 [[files]]
 file = "scripts/pokeball.zs"
 hash = "9b9082e788eb576f8030c1d739a79f5b76c93a35d6046c5e2a953eab07208a36"
+
+[[files]]
+file = "scripts/starterkit.zs"
+hash = "a1d9f0ab5d6c5c32816c10abe812dcf44dbaeb5021f163fb9390d6365e5db92a"

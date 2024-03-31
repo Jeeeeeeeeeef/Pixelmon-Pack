@@ -1,0 +1,13 @@
+name = "Cloth Config API"
+filename = "cloth-config-12.0.119-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9s6osm5g/versions/Y51gygcX/cloth-config-12.0.119-forge.jar"
+hash-format = "sha1"
+hash = "59d9b69c26d423fa838765c58364db566d2c6f46"
+
+[update]
+[update.modrinth]
+mod-id = "9s6osm5g"
+version = "Y51gygcX"
