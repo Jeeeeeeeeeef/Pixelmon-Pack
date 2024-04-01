@@ -170,7 +170,7 @@ poke-loot:
     #     - PL
     #     - PU
     #     - TIMED
-    spawn-mode: FCFS
+    spawn-mode: PL
     # How often players can loot PokéLoot chests that are set to have timed loot. This value is in hours.
     loot-time: 24
 poke-stop:

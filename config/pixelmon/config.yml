@@ -248,7 +248,7 @@ berry-juice-crafting: true
 # If enabled, Poké Gifts will remain after players claim them, but each Poké Gift can only be claimed once per player. If disabled, claiming a Poké Gift will cause it to disappear.
 poke-gift-reusable: false
 # The maximum distance that two elevators can link together at.
-elevator-search-range: 10
+elevator-search-range: 35
 # Whether or not players will pick their starter Pokémon immediately upon entering a world.
 starter-on-join: false
 # If the discord rich presence should be enabled

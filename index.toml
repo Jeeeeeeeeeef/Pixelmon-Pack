@@ -218,7 +218,7 @@ hash = "a28144d75cd71a366dc489233d77d525b9471cbd878d9ea41e7a6e09f20c809e"
 
 [[files]]
 file = "config/pixelmon/config.yml"
-hash = "b31c1eb441aedf0ac3309cbd9afabb5bb42298ff7a4c34183dc5139f3ff9747f"
+hash = "3aef124498a63f1b6728c2d010030f737da3c54e6df2e31d3a0691b48684c9c1"
 
 [[files]]
 file = "config/pixelmon/dimensions.yml"
@@ -246,7 +246,7 @@ hash = "5e308f42ae223638fd9977e05f2d486f7b5f00555fdaa2b94ffb6e55f19ddca9"
 
 [[files]]
 file = "config/pixelmon/spawning.yml"
-hash = "1acf1ddf3237be46130fe7cff3165487ce86dd8b08b80207f69f12e165dc241f"
+hash = "bc02bd4144df431996870ece3a57c869627616cff5e95598a4f909fffe538c88"
 
 [[files]]
 file = "config/pixelmon/storage.yml"
