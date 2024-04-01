@@ -423,6 +423,11 @@ hash = "ce780bd0593896b3edb92b6eb2d41d9d07da4f313b4a0ad1fd343e93ad0a9b4c"
 metafile = true
 
 [[files]]
+file = "mods/teleportcraft.pw.toml"
+hash = "5358ab6a671de381d4181d518e31fad909bf49d79183b4bd237316a02a54ba95"
+metafile = true
+
+[[files]]
 file = "mods/terrablender.pw.toml"
 hash = "b47ebf78bbdadf013e512774e4cfc65426f262e9ac53373f3766895fb4ea4cbd"
 metafile = true
