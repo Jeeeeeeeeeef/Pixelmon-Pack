@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "795b100a9ec46af7d469142f7d1e34062ba6a999578915bfb3f977b1c16a009f"
+
+[[files]]
 file = "config/defaultoptions/options.txt"
 hash = "707abc43251044215cc5707f60e7ef72241cf78c8a36370175e90ccdca20b13c"
 
@@ -330,13 +334,33 @@ hash = "fc4d36dbe60b889fe58f63f5ea04174bacbbc67ba272cec5d14ddf2ca45c497b"
 metafile = true
 
 [[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "650e8d6ab7507db00bb6a360f42c02b7677dea241adac286ca3038daeac2c1ce"
+metafile = true
+
+[[files]]
 file = "mods/iron-chests.pw.toml"
 hash = "b2beaef03e965bb8bdbf564ed78b6ab82d9ed40672ffc603cb4c574aa34b8a2c"
 metafile = true
 
 [[files]]
+file = "mods/iron-shulker-boxes.pw.toml"
+hash = "ff3190d1ed5d3e3cfac6edb194a8fba69187519cfbfcfa8d8efb5d7b5f9ef67e"
+metafile = true
+
+[[files]]
 file = "mods/konkrete.pw.toml"
 hash = "8032bb3a9a6098565c8a288d1538b22a1fac2dacbb7f641f371e0b2cd88f0772"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "fab49ce0c16fa78f71c7b39d23a4318055598f1cee0a964781f3b56801e2ed44"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "73eaab91d878f5c2b8211808b673df8b22d5319cdba402aeba8ec6cbefdfdfa1"
 metafile = true
 
 [[files]]
@@ -381,7 +405,7 @@ metafile = true
 
 [[files]]
 file = "mods/pixelretweaked-1.0.0.jar"
-hash = "a02470d247494f9b74dd3b4699475157a9f293e3350ac8157cf7bf5970a7e808"
+hash = "ea3c363733bbfb085abe2b20fb0bfd8911efaf8b2d010b2c7fb63e5b03cf99a3"
 
 [[files]]
 file = "mods/regions-unexplored.pw.toml"
@@ -401,11 +425,6 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "b47ebf78bbdadf013e512774e4cfc65426f262e9ac53373f3766895fb4ea4cbd"
-metafile = true
-
-[[files]]
-file = "mods/tpa.pw.toml"
-hash = "20fc95ab424be24e528f9cd7b87440bb5385feefe05b07466289ae3c8aea3c1c"
 metafile = true
 
 [[files]]
