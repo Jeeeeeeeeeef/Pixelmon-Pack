@@ -293,6 +293,14 @@ file = "config/xaeroworldmap.txt"
 hash = "6028733f967d0d0f6a80dd236d3dcc7d2446912c719ab9a7d3f83d8624d9b92d"
 
 [[files]]
+file = "mods/TaskUtils copy.java"
+hash = "f6719cde181961f3d5f4629ef4b5b77412d6e5e941202051c9ade6df4b6f199f"
+
+[[files]]
+file = "mods/TaskUtils.java"
+hash = "f6719cde181961f3d5f4629ef4b5b77412d6e5e941202051c9ade6df4b6f199f"
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "4ba572678f8bfe25d8379abb3d4a82f97436be2cd2baa039bb16c52e5dd6764c"
 metafile = true
@@ -330,6 +338,11 @@ metafile = true
 [[files]]
 file = "mods/fancymenu.pw.toml"
 hash = "089050832950a6eaf7eba371e0fb8de8a6c81728db0b9185c36447443f835718"
+metafile = true
+
+[[files]]
+file = "mods/fltpot.pw.toml"
+hash = "2fc7c1ba62606b371b9c96f807428901f39413ebf71ee0aee01e6d071ec35448"
 metafile = true
 
 [[files]]
@@ -421,7 +434,7 @@ metafile = true
 
 [[files]]
 file = "mods/pixelretweaked-1.0.0.jar"
-hash = "ea3c363733bbfb085abe2b20fb0bfd8911efaf8b2d010b2c7fb63e5b03cf99a3"
+hash = "34afe156cddde2d8cb75e8caadea3a36455aa2e92303393e429184e80fc09b8b"
 
 [[files]]
 file = "mods/regions-unexplored.pw.toml"
@@ -430,7 +443,7 @@ metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "bcbb707ecc60e777ad61c5f499215a7826aa727f8111267a77ead2dd7087b855"
+hash = "3af8c5940c10346c39cdb437c830aebc2a8c0f131b71fb23607123a106269b8c"
 metafile = true
 
 [[files]]
