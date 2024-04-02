@@ -293,14 +293,6 @@ file = "config/xaeroworldmap.txt"
 hash = "6028733f967d0d0f6a80dd236d3dcc7d2446912c719ab9a7d3f83d8624d9b92d"
 
 [[files]]
-file = "mods/TaskUtils copy.java"
-hash = "f6719cde181961f3d5f4629ef4b5b77412d6e5e941202051c9ade6df4b6f199f"
-
-[[files]]
-file = "mods/TaskUtils.java"
-hash = "f6719cde181961f3d5f4629ef4b5b77412d6e5e941202051c9ade6df4b6f199f"
-
-[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "4ba572678f8bfe25d8379abb3d4a82f97436be2cd2baa039bb16c52e5dd6764c"
 metafile = true
@@ -341,9 +333,8 @@ hash = "089050832950a6eaf7eba371e0fb8de8a6c81728db0b9185c36447443f835718"
 metafile = true
 
 [[files]]
-file = "mods/fltpot.pw.toml"
-hash = "2fc7c1ba62606b371b9c96f807428901f39413ebf71ee0aee01e6d071ec35448"
-metafile = true
+file = "mods/ftb-essentials-forge-2002.2.0.jar"
+hash = "2fc68f14d85bbfb80f3bb8b0dcf65608817593df44f47742dea1edf63494334f"
 
 [[files]]
 file = "mods/ftb-library-forge-2002.1.1.jar"
@@ -363,8 +354,8 @@ hash = "fc4d36dbe60b889fe58f63f5ea04174bacbbc67ba272cec5d14ddf2ca45c497b"
 metafile = true
 
 [[files]]
-file = "mods/inventory-profiles-next.pw.toml"
-hash = "650e8d6ab7507db00bb6a360f42c02b7677dea241adac286ca3038daeac2c1ce"
+file = "mods/inventory-essentials.pw.toml"
+hash = "8742968f378b504b3a5b8ace9667450d30d70fed32bd63a368cf23b7a6b752a1"
 metafile = true
 
 [[files]]
@@ -385,11 +376,6 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "fab49ce0c16fa78f71c7b39d23a4318055598f1cee0a964781f3b56801e2ed44"
-metafile = true
-
-[[files]]
-file = "mods/libipn.pw.toml"
-hash = "73eaab91d878f5c2b8211808b673df8b22d5319cdba402aeba8ec6cbefdfdfa1"
 metafile = true
 
 [[files]]
@@ -449,11 +435,6 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "ce780bd0593896b3edb92b6eb2d41d9d07da4f313b4a0ad1fd343e93ad0a9b4c"
-metafile = true
-
-[[files]]
-file = "mods/teleportcraft.pw.toml"
-hash = "5358ab6a671de381d4181d518e31fad909bf49d79183b4bd237316a02a54ba95"
 metafile = true
 
 [[files]]

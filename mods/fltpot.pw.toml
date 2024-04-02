@@ -1,7 +1,0 @@
-name = "fltpot"
-filename = "fltpot-1.20.2-0.3.1.jar"
-
-[download]
-url = "https://github.com/DroidDude/fltpot/releases/download/1.20.2-0.3.1/fltpot-1.20.2-0.3.1.jar"
-hash-format = "sha256"
-hash = "e37e50469d9d79d662bd8a6b45e360276baa42b4767affaca4ffff20e88e3b6e"
