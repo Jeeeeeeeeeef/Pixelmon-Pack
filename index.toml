@@ -197,6 +197,10 @@ file = "config/openloader/data/spawningfix/data/pixelmon/tags/worldgen/biome/spa
 hash = "d229cfcb633f764c3b644aa99c51e40c423f28eed0ea5b495e69d13e9e8b86c1"
 
 [[files]]
+file = "config/openloader/data/spawningfix/data/pixelmon/tags/worldgen/blocks/spawning/land.json"
+hash = "caace99eaa04c5a7f57743b626a3ecd45035a257bf5e71736222966794086952"
+
+[[files]]
 file = "config/openloader/data/spawningfix/pack.mcmeta"
 hash = "ab3f01bcc367a328d1b65b4b189140f94112be33e82fcb65e0ab3178f1f7f56c"
 
@@ -218,7 +222,7 @@ hash = "a28144d75cd71a366dc489233d77d525b9471cbd878d9ea41e7a6e09f20c809e"
 
 [[files]]
 file = "config/pixelmon/config.yml"
-hash = "3aef124498a63f1b6728c2d010030f737da3c54e6df2e31d3a0691b48684c9c1"
+hash = "270c3aba5120c46b39b70c7cf7e1781417a26d4867f739cee8821a0faa17729f"
 
 [[files]]
 file = "config/pixelmon/dimensions.yml"
@@ -328,8 +332,23 @@ hash = "86f7110c58dca6677c1cf680039b6ff62de126618ae4c87a17120a00884b76ca"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "8a0e88c1e6c4fa8f0737d8f8ac818a9699bb2a5a540023a2fa09f191ccfb1e11"
+metafile = true
+
+[[files]]
+file = "mods/embeddium.pw.toml"
+hash = "29764fb73434f60e619429344638289f74091984a1149797ec4225a8ab1eab95"
+metafile = true
+
+[[files]]
 file = "mods/fancymenu.pw.toml"
 hash = "089050832950a6eaf7eba371e0fb8de8a6c81728db0b9185c36447443f835718"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "4a73f04a8986129d79ea4f283a0a33ce51af17079b6efa23596af5bc685e1c1e"
 metafile = true
 
 [[files]]
@@ -347,6 +366,11 @@ hash = "03eaaca27428741afa397953bfd5aaf807ecd8bb5ccc871b493cc2f7c59a25d9"
 [[files]]
 file = "mods/ftb-teams-forge-2002.1.0.jar"
 hash = "6f0bad27971a03fc8aae3882cad66f8d52dc11908dc1cb0db520c5b9afcb3c1c"
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "1ef40993b8abff2b77e3f5f59874e6de0348e4c39f6b8e5561fa672a8b1c5c0b"
+metafile = true
 
 [[files]]
 file = "mods/initial-inventory.pw.toml"
@@ -376,6 +400,15 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "fab49ce0c16fa78f71c7b39d23a4318055598f1cee0a964781f3b56801e2ed44"
+metafile = true
+
+[[files]]
+file = "mods/lootr-1.20.2-0.7.30.75.jar"
+hash = "a79f23a1e8c209321783534bfae58bafa708535e3d247a6cf7980f9fbc3cb58a"
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "6578e3405efcc6e5502ced4d19728b33c1c45df50c810bf6320e327d190332cb"
 metafile = true
 
 [[files]]

@@ -30,7 +30,7 @@ lake-trio-max-enchants: 3
 # If enabled, battles between players can be initiated by a player throwing a Pokémon's Poké Ball at another player directly (rather than at the other player's Pokémon).
 engage-player-by-poke-ball: true
 # Whether or not aggressive wild Pokémon initiate battles against players.
-enable-wild-aggression: true
+enable-wild-aggression: false
 # Whether Legendary shrines, such as the Legendary Bird or Timespace Trio shrines, can be used multiple times. The Different Modes are as Follows:
 #   - Once - A shrine can only be used once globally
 #   - OncePerPlayer - a shrine may only be used once per player
