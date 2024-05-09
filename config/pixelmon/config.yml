@@ -1,286 +1,152 @@
-# © PixelmonMod 2013-2023
-# For assistance visit https://pixelmonmod.com/wiki/Config
-
-# The amount of PokéDollars the player will have when joining a world for the first time
 starting-balance: 0.0
-# Whether defeating wild pokémon awards the player with the respective pokémon Photo.
 award-tokens: false
-# Whether or not the player can nickname owned Pokémon. On a server, this will prevent nicknames from being visible to other players.
 allow-pokemon-nicknames: true
-# Whether or not regular Minecraft mobs like cows and zombies can spawn naturally. DANGER - can kill you while battling.
-#  Monster spawners containing zombies, skeletons, or spiders will be converted into monsters spawners that spawn pigs if this setting is disabled.
-#  Other monster spawners (including ones that spawn hostile mobs like Blazes, cave spiders, or silverfish) will not be affected, nor will spawn eggs.
-#  The Ender dragon also spawns naturally regardless of this setting. Warning: This setting when not refined with a datapack will use the default
-#   spawning logic instead of the implemented Betterspawner logic, possibly causing mob spam.
-# 
-#    In order to refine the replacement logic, a datapack must be used.
-allow-vanilla-mobs: false
-# Whether or not players are allowed to throw Poké Balls and capture Pokémon outside of battle.
+allow-vanilla-mobs: true
 allow-capture-outside-battle: true
-# If enabled, Pokémon spawned from /pokegive or from any pokespec have the possibility of containing Legendary Pokémon.
 allow-random-pokemon-to-be-legendary: true
-# How much growth varies the size of Pokémon. This value can range from 0-2; if set to 0, growth will have no effect on Pokémon size.
 growth-scale-modifier: 1.0
-# Whether or not Apricorns can be planted by players. This does not remove existing Apricorn trees or prevent natural Apricorn tree generation.
 allow-planting: true
-# Whether or not cloning machines can be crafted and used. Disabling this setting prevents Mewtwo from being legitimately obtainable.
 cloning-machine-enabled: true
-# Sets The number of times a Azelf, Mesprit and Uxie can enchant a ruby.
 lake-trio-max-enchants: 3
-# If enabled, battles between players can be initiated by a player throwing a Pokémon's Poké Ball at another player directly (rather than at the other player's Pokémon).
 engage-player-by-poke-ball: true
-# Whether or not aggressive wild Pokémon initiate battles against players.
-enable-wild-aggression: false
-# Whether Legendary shrines, such as the Legendary Bird or Timespace Trio shrines, can be used multiple times. The Different Modes are as Follows:
-#   - Once - A shrine can only be used once globally
-#   - OncePerPlayer - a shrine may only be used once per player
-#   - OncePerMCDAy a shrine may be used once per Minecraft day (20 minutes)
-#   - OncePerDay - a shrine may only be used once per 24 hours
-#   - Unlimited - a shrine may be used indefinitely
+enable-wild-aggression: true
 shrine-encounter-mode: Once
-# Whether or not players have to be ops to edit Pixelmon spawners. If this option is disabled, any player in Creative mode can edit spawners.
 spawners-op-only: true
-# If set to true, must be opped to use the NPC Editor. If false, must be in Creative mode.
 npc-editor-op-only: true
-# If true, must be opped to use the Quest Editor. If false, must be in Creative mode.
 quest-editor-op-only: true
-# Whether or not traders can be used multiple times. If disabled, traders will disappear after completing their trade offers.
 traders-reusable: false
-# The amount of moves a Move Tutor will have.
 moves-per-tutor: 20
-# Whether or not Minecraft time will sync to real time (as defined by the machine's system time).
 use-system-time-for-world-time: false
-# How often Minecraft time will sync to real time (in seconds) if real time syncing is enabled.
 time-update-interval: 30
-# Whether or not players can use Pokémon editors. When disabled client-side, this will prevent other players from using Pokémon editors on the player with the setting disabled.
 allow-pokemon-editors: true
-# Whether or not players can place statues using a Chisel.
 allow-chisels: true
-# The maximum level that a Pokémon can be.
 max-level: 100
-# Whether or not out-of-battle wild Pokémon can be hurt by minecraft attacks such as punching or swords.
 can-pokemon-be-hit: false
-# Whether or not players will automatically have a Mega ring.
 always-have-mega-ring: false
-# Whether or not players will automatically have a Dynamax band.
 always-have-dynamax-band: false
-# The chance of obtaining a Sir Doofus III from catching a Bidoof with a Luxury Ball. (1/x chance, -1 to disable)
 chance-to-get-special-bidoof: 30
-# Determines if non player owned pokemon's movement is disabled or not.
 disabled-non-player-movement: false
-# Determines the catch formula used in the official game of that generation.
 fallback-capture-method: gen8
-# If enabled, unlocks the Shiny Charm upon Pokédex completion.
 allow-shiny-charm-from-pokedex: true
-# Enables unlocking the Oval Charm upon completion of a regional Pokédex.
 allow-oval-charm-from-pokedex: true
-# Experience multiplier when an Exp. Charm is equipped.
 exp-charm-multiplier: 1.5
-# Multiplier of the chance that a critical capture will occur when a Catching Charm is equipped.
 catching-charm-multiplier: 1.1
-# Number of rolls for a wild Pokémon to gain a mark when a Mark Charm is equipped.
 mark-charm-rolls: 3
-# Multiplier of durability loss for each use of the hammer.
 hammer-durability-loss-multiplier: 3
-# The colour that will appear when the player uses ore sense
 ore-colors:
-    '22':
-        block-id: pixelmon:bauxite_ore
-        color: 13743492
-        pattern: 0
-    '23':
-        block-id: pixelmon:silver_ore
-        color: 14869218
-        pattern: 16
-    '24':
-        block-id: pixelmon:platinum_ore
-        color: 9351922
-        pattern: 17
-    '25':
-        block-id: pixelmon:silicon_ore
-        color: 14868462
-        pattern: 0
-    '26':
-        block-id: pixelmon:fossil
-        color: 4472114
-        pattern: 6
-    '27':
-        block-id: pixelmon:sun_stone_ore
-        color: 15038274
-        pattern: 5
-    '28':
-        block-id: pixelmon:moon_stone_ore
-        color: 5932427
-        pattern: 14
-    '29':
-        block-id: pixelmon:dawn_stone_ore
-        color: 0
-        pattern: 7
-    '30':
-        block-id: pixelmon:dusk_stone_ore
-        color: 0
-        pattern: 7
-    '31':
-        block-id: pixelmon:water_stone_ore
-        color: 6123935
-        pattern: 8
-    '10':
-        block-id: minecraft:deepslate_coal_ore
-        color: 14860458
-        pattern: 22
-    '32':
-        block-id: pixelmon:thunder_stone_ore
-        color: 15793921
-        pattern: 9
     '11':
-        block-id: minecraft:deepslate_iron_ore
-        color: 14860458
-        pattern: 18
-    '33':
-        block-id: pixelmon:leaf_stone_ore
-        color: 8298855
-        pattern: 10
-    '12':
-        block-id: minecraft:deepslate_copper_ore
-        color: 16746303
-        pattern: 24
-    '34':
-        block-id: pixelmon:fire_stone_ore
-        color: 13398322
-        pattern: 11
-    '13':
-        block-id: minecraft:deepslate_gold_ore
-        color: 16576075
-        pattern: 21
-    '35':
-        block-id: pixelmon:shiny_stone_ore
-        color: 16449443
-        pattern: 5
-    '14':
-        block-id: minecraft:deepslate_redstone_ore
-        color: 16711680
-        pattern: 20
-    '36':
-        block-id: pixelmon:ice_stone_ore
-        color: 13217999
-        pattern: 15
-    '15':
-        block-id: minecraft:deepslate_emerald_ore
-        color: 1564002
-        pattern: 19
-    '16':
-        block-id: minecraft:deepslate_diamond_ore
-        color: 6682083
-        pattern: 0
-    '17':
-        block-id: minecraft:deepslate_lapis_ore
-        color: 1594813
-        pattern: 2
-    '19':
-        block-id: pixelmon:ruby_ore
-        color: 14490675
-        pattern: 1
-    '0':
-        block-id: minecraft:coal_ore
-        color: 14860458
-        pattern: 22
-    '1':
-        block-id: minecraft:iron_ore
-        color: 14860458
-        pattern: 18
-    '2':
-        block-id: minecraft:copper_ore
-        color: 16746303
-        pattern: 24
-    '3':
-        block-id: minecraft:gold_ore
-        color: 16576075
-        pattern: 21
-    '4':
-        block-id: minecraft:redstone_ore
-        color: 16711680
-        pattern: 20
-    '5':
-        block-id: minecraft:emerald_ore
-        color: 1564002
-        pattern: 19
-    '6':
-        block-id: minecraft:diamond_ore
-        color: 6682083
-        pattern: 0
-    '7':
-        block-id: minecraft:lapis_ore
-        color: 1594813
-        pattern: 2
-    '8':
-        block-id: minecraft:nether_gold_ore
-        color: 16576075
-        pattern: 23
-    '9':
-        block-id: minecraft:nether_quartz_ore
-        color: 15394270
-        pattern: 3
-    '20':
         block-id: pixelmon:sapphire_ore
         color: 4879335
         pattern: 1
-    '21':
+    '12':
+        block-id: pixelmon:ruby_ore
+        color: 14490675
+        pattern: 1
+    '13':
+        block-id: pixelmon:fossil
+        color: 4472114
+        pattern: 6
+    '14':
         block-id: pixelmon:crystal_ore
         color: 11529966
-        pattern: 1
-# How many ticks it will take for a lure to expire on average.
+        pattern: 4
+    '15':
+        block-id: pixelmon:bauxite_ore
+        color: 13743492
+        pattern: 0
+    '16':
+        block-id: pixelmon:dawn_dusk_ore
+        color: 0
+        pattern: 7
+    '17':
+        block-id: pixelmon:water_stone_ore
+        color: 6123935
+        pattern: 8
+    '18':
+        block-id: pixelmon:thunder_stone_ore
+        color: 15793921
+        pattern: 9
+    '19':
+        block-id: pixelmon:leaf_stone_ore
+        color: 8298855
+        pattern: 10
+    '0':
+        block-id: minecraft:coal_ore
+        color: 14860458
+        pattern: 0
+    '1':
+        block-id: minecraft:iron_ore
+        color: 14860458
+        pattern: 0
+    '2':
+        block-id: minecraft:gold_ore
+        color: 16576075
+        pattern: 0
+    '3':
+        block-id: minecraft:redstone_ore
+        color: 16711680
+        pattern: 0
+    '4':
+        block-id: minecraft:emerald_ore
+        color: 1564002
+        pattern: 0
+    '5':
+        block-id: minecraft:diamond_ore
+        color: 6682083
+        pattern: 0
+    '6':
+        block-id: minecraft:lapis_ore
+        color: 1594813
+        pattern: 2
+    '7':
+        block-id: minecraft:quartz_ore
+        color: 15394270
+        pattern: 3
+    '8':
+        block-id: pixelmon:amethyst_ore
+        color: 9782185
+        pattern: 4
+    '9':
+        block-id: pixelmon:sun_stone_ore
+        color: 15038274
+        pattern: 5
+    '20':
+        block-id: pixelmon:fire_stone_ore
+        color: 13398322
+        pattern: 11
+    '10':
+        block-id: pixelmon:silicon_ore
+        color: 14868462
+        pattern: 0
 average-lure-expiry-ticks: 17920
-# If set to False, this will be based on the remaining inventory of the player.
 limit-shop-keeper-stack-size: true
-# Which dimensions use Gen 7 features (eg. Mega Bosses). Any other dimension will use Gen 8 (eg. Max Raids).
 old-gen-dimensions: []
-# Which dimensions use both Gen 7 and Gen 8 features. Overrides other options that would affect this otherwise.
 both-gen-dimensions:
 - pixelmon:ultra_space
 - pixelmon:drowned
 - minecraft:overworld
 - minecraft:the_nether
 - minecraft:the_end
-# Height of Dynamax and Gigantamax in blocks.
 dynamax-size: 15.0
-# Whether berry juices can be crafted in the infuser or not.
+allow-illegal-shinies: true
 berry-juice-crafting: true
-# If enabled, Poké Gifts will remain after players claim them, but each Poké Gift can only be claimed once per player. If disabled, claiming a Poké Gift will cause it to disappear.
 poke-gift-reusable: false
-# The maximum distance that two elevators can link together at.
-elevator-search-range: 35
-# Whether or not players will pick their starter Pokémon immediately upon entering a world.
-starter-on-join: false
-# If the discord rich presence should be enabled
+elevator-search-range: 10
+starter-on-join: true
 use-discord-rich-presence: true
-# Server Discord Information
-server-discord:
-    # If you want your server's Discord invite to appear in the rich presence, put it here.
-    # This can also accept a URL so you can link to a website instead.
-    # It will only appear when the discord-invite setting is not a blank string.
-    discord-invite: ''
-    # The server name to show on the button
-    server-name: My Pixelmon Server!
 debug:
-    # If this option is enabled, any Pixelmon-related errors on a server will be printed to the server log in detail. If disabled, errors will be much shorter and less detailed.
     print-errors: true
-    # Whether to use the fix for clumping Pokémon around the edges of the world. If you are on Sponge, or don't know what it is, keep it off.
     use-update-entity-with-optional-force-fix: false
-    # Verbose Logging - Keep this off unless you are diagnosing issues.
     verbose: false
 tms:
     allow-t-m-reuse: true
-    allow-t-r-reuse: false
+    allow-t-r-reuse: true
     universal-t-ms: true
     super-universal-t-ms: false
 drops:
-    # Whether or not certain Pokémon can drop items upon defeat.
     pokemon-drops-enabled: true
-    # If enabled, the drops GUI will display after the player defeats a regular wild Pokémon. The drops GUI will always display when defeating NPC Trainers or boss Pokémon, regardless of this setting.
     use-drop-g-u-i: true
-    # Whether or not the "Drop All" button in the Pokémon drops screen will delete the items or drop them on the ground.
     delete-unwanted-drops: false
-    # Number of item drops for each star level in raids.
     den-star-drops:
     - 2
     - 4
@@ -288,51 +154,29 @@ drops:
     - 8
     - 10
 healing:
-    # Whether or not beds will fully heal Pokémon when slept in.
     beds-heal-pokemon: true
-    # Whether to passively heal party Pokémon over time or not.
     use-passive-healer: true
-    # Chance to passively revive a knocked out party Pokémon with each step.
     chance-to-revive-passively: 0.0010000000474974513
-    # Chance to passively heal status effects from a party Pokémon with each step.
     chance-to-heal-status-passively: 0.004999999888241291
-    # Number of steps after which to heal 1 HP from a party Pokémon.
     steps-to-heal-health-passively: 75
-    # Percentage of maximum health that the passive heal can go up to.
     passive-healing-max-health-percentage: 0.25
 afk-handler:
-    # Whether or not the AFK handler is enabled.
     enabled: false
-    # The amount of time (in seconds) that a player can be unresponsive in battle before the AFK handler takes control.
     afk-activate-seconds: 90
-    # The amount of time that the AFK handler takes to make a move.
     afk-timer-turn-seconds: 15
 pokerus:
-    # Whether or not the Pokérus is enabled. This blocks the growth, the spread and the spawning of the Pokérus.
     enabled: true
-    # Pokérus spawn rate (1/x). (0 to disable)
     spawn-rate: 12288.0
-    # Whether or not the player should be informed if their Pokémon got Pokérus.
     inform-players: true
-    # Chance to spread the Pokérus to the near Pokémon after a battle. (1/x) (-1 to disable; 0 to keep always active)
     spread-rate: 5
 riding:
-    # Allow players to ride Pokémon. If false, no Pokémon can be ridden.
     allow-riding: true
-    # A multiplier for the mounting speed of Pokémon. Can be between 0 and 1, where 1 is the default mounting speed.
     riding-speed-multiplier: 1.0
-    # If enabled, this option causes a mounted Pokémon to be steered by moving the camera, matching the directional controls on foot. If disabled, mounted Pokémon are steered using the keybinds for moving left and right.
     enable-point-to-steer: true
-    # If enabled, allows riding Pokémon mounts that do not have the ability to fly or surf.
     land-mount: true
-    # Whether or not Fly or Surf must be known by a water or flying mounted Pokémon in order to mount it. Land mounts are unaffected by this setting.
     require-h-m: false
-    # Sets the flying speed limit for a mounted Pokémon in the new flying system.
     flying-speed-limit: 4.0
 outside-effects:
-    # Whether or not outside effects is enabled or disabled.
     use-outside-effects: true
-    # Amount of steps for effects such as Poison to be applied.
     steps-to-apply-effects: 15
-    # The maximum amount of damage Poison can do outside of battle to a poisoned Pokémon.
     poison-max-damage: 5

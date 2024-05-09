@@ -1,0 +1,13 @@
+name = "FTB Quests (Forge)"
+filename = "ftb-quests-forge-1605.3.7-build.165.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4f472855366391cbd5ac467f68f74e3938fb66a1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4297999
+project-id = 289412

@@ -1,13 +1,13 @@
 name = "Construction Wand"
-filename = "constructionwand-1.20.2-2.12.jar"
+filename = "constructionwand-1.16.5-2.6.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/bV2crgLh/versions/hOOCABkw/constructionwand-1.20.2-2.12.jar"
 hash-format = "sha1"
-hash = "a84aa308615fc7d63fce43837b207b4f06720219"
+hash = "5d3f50a097efacae47b74a0505ce3ea38f55daae"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "bV2crgLh"
-version = "hOOCABkw"
+[update.curseforge]
+file-id = 3562328
+project-id = 399558

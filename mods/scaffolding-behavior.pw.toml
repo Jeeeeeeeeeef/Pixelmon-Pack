@@ -1,0 +1,13 @@
+name = "Speed Building - Scaffolding behavior"
+filename = "scaffoldingpower-1.16.5-1.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "55519a1d1eaa02bf957d4824684624b97c066e9a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3211052
+project-id = 370777

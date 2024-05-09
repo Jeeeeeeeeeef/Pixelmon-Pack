@@ -49,7 +49,4 @@ nightExport:false
 highlightsExport:false
 exportScaleDownSquare:20
 mapWritingDistance:-1
-displayClaims:true
-claimsFillOpacity:46
-claimsBorderOpacity:80
 globalVersion:1

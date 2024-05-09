@@ -1,0 +1,13 @@
+name = "I Like Wood - Biomes O' Plenty Plugin"
+filename = "ilikewoodxbiomesoplenty-1.16.5-6.3.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5aeafe8d1c605952b21ad9606b20803dc65b95e1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3285758
+project-id = 437203

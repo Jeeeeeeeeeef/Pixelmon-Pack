@@ -1,0 +1,13 @@
+name = "AquaPatch (for Pixelmon)"
+filename = "AquaPatch-1.16.5-9.1.11-universal.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a1f0c16827b7f3e96c31a3e09e6125f1a4e3d310"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5243255
+project-id = 999540

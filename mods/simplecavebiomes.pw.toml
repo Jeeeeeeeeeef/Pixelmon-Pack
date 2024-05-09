@@ -1,0 +1,13 @@
+name = "SimpleCaveBiomes"
+filename = "SimpleCaveBiomes-Forge-0.1.5+mc1.16.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "467ca38538a7ab5c975aed56e6bb5af0d67bd305"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5058539
+project-id = 962879

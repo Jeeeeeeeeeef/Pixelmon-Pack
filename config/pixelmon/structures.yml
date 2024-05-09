@@ -1,5 +1,4 @@
-# © PixelmonMod 2013-2023
-# For assistance visit https://pixelmonmod.com/wiki/Config
-
-# Whether or not the player will always spawn in a village when joining the world for the first time
 always-spawn-in-village: true
+ilex-shrine-spawn-rate: 0.005
+ice-shrine-spawn-rates: 0.033330000936985016
+waypoint-spawn-rate: 0.0333000011742115

@@ -1,0 +1,13 @@
+name = "PixelTweaks"
+filename = "PixelTweaks-1.10.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c3bc9f6044a45081aed246ac3b1771dcf171e07a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5290088
+project-id = 860692

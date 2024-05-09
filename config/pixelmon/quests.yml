@@ -1,7 +1,2 @@
-# © PixelmonMod 2013-2023
-# For assistance visit https://pixelmonmod.com/wiki/Config
-
-# The maximum distance a player can get before a quest can be found on a new NPC if not taken.
 quest-max-range: 500
-# Whether to let NPCs be randomly assigned quests or not. This does not affect quests that have already been started.
 quest-random-n-p-cs: true

@@ -1,0 +1,13 @@
+name = "Caves & Cliffs Backport"
+filename = "cavesandcliffs-1.16.5-7.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1e36bd608898135a06dc46ec4102f12a011c63d9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3592876
+project-id = 417430
