@@ -1,6 +1,6 @@
 name = "Pixelpacked"
 author = "Jeef"
-version = "1.0.1"
+version = "1.0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -11,3 +11,4 @@ hash = "1f69dae41e03a9aeb4e639d9af0ccbd788fc27a51790ceee77a3574c96ddc099"
 [versions]
 forge = "36.2.34"
 minecraft = "1.16.5"
+unsup = "0.2.3"
