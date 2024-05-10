@@ -1,12 +1,12 @@
 name = "Pixelpacked"
 author = "Jeef"
-version = "1.0.2"
+version = "1.0.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "1b9952f7e6287e470dcd60bef41b8b7939a2e9af00cc1d63fcaeefcbb960380f"
+hash = "99059b9f85fc6864e225cad710fafc81fd0a1aa2b6f1d13f51f9026f94c5ec25"
 
 [versions]
 forge = "36.2.34"
