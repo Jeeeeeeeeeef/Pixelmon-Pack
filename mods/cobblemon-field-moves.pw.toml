@@ -1,0 +1,13 @@
+name = "Cobblemon Field Moves"
+filename = "cobblemon-field-moves-1.5-forge-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2595df579655fc4e4f9e4c0c1005f726417cd316"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5803735
+project-id = 1024522

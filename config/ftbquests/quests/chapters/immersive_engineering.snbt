@@ -1,0 +1,250 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "immersive_engineering"
+	group: "1AA21A9EA7678A42"
+	icon: "immersiveengineering:manual"
+	id: "79BB465108D7841E"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["048C0B2914D4F8C8"]
+			icon: "immersiveengineering:cokebrick"
+			id: "58392A99CBBE674D"
+			rewards: [{
+				count: 8
+				id: "48D6045914345408"
+				item: "immersiveengineering:coal_coke"
+				type: "item"
+			}]
+			tasks: [
+				{
+					count: 27L
+					id: "6CD6E046BB1A4B93"
+					item: { Count: 27, id: "immersiveengineering:cokebrick" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "259483C5430925AE"
+					item: { Count: 8, id: "minecraft:coal" }
+					type: "item"
+				}
+			]
+			title: "Soda Pop"
+			x: 4.0d
+			y: 0.5d
+		}
+		{
+			id: "048C0B2914D4F8C8"
+			tasks: [{
+				id: "5E1B9C3232EF40DE"
+				item: {
+					Count: 1
+					id: "immersiveengineering:hammer"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Stop!"
+			x: 4.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["58392A99CBBE674D"]
+			description: [
+				"    Steel types drop a Protosteel Ingot, which is a necessary ingredient to creating steel in a blast furnace"
+				"    Protosteel Ingots can be automated later using a Pasture Bin"
+			]
+			icon: "immersiveengineering:blastbrick"
+			id: "02A5167269A4B68F"
+			rewards: [{
+				count: 4
+				id: "12ADE9A76B8DA7DB"
+				item: "immersiveengineering:ingot_steel"
+				type: "item"
+			}]
+			tasks: [
+				{
+					count: 27L
+					id: "32868B534DA7BC7A"
+					item: "immersiveengineering:blastbrick"
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "720BBCDFC03D59AE"
+					item: "kubejs:protosteel_ingot"
+					type: "item"
+				}
+			]
+			title: "Blasting off again"
+			x: 4.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["02A5167269A4B68F"]
+			description: [
+				"    A Pasture Bin will collect items from Pokemon stored in a Pasture Block placed to its immediate north, east, south, or west."
+				"    Steel types will produce Protosteel Ingots in Pasture Bins."
+			]
+			id: "62661A449DCEBC03"
+			rewards: [
+				{
+					id: "203086AD2FC3360A"
+					item: "cobblemon:pasture"
+					type: "item"
+				}
+				{
+					id: "5877EDE29AEDFFEB"
+					item: "pasturecollector:pasture_collector"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "224DA035B3C10A67"
+				item: "pasturecollector:pasture_collector"
+				type: "item"
+			}]
+			title: "Steel from Pastures"
+			x: 5.0d
+			y: 2.5d
+		}
+		{
+			dependencies: [
+				"450334CFEE336A56"
+				"02A5167269A4B68F"
+			]
+			icon: "immersiveengineering:blastfurnace_preheater"
+			id: "32E1A3F251493AC9"
+			rewards: [{
+				count: 16
+				id: "240422FCDB2F63E9"
+				item: "immersiveengineering:ingot_steel"
+				type: "item"
+			}]
+			subtitle: "Requires Thunder Badge"
+			tasks: [
+				{
+					count: 27L
+					id: "07AA09305EBD80BB"
+					item: { Count: 27, id: "immersiveengineering:blastbrick_reinforced" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "3EB0F4A60DC9B8C5"
+					item: { Count: 2, id: "immersiveengineering:blastfurnace_preheater" }
+					type: "item"
+				}
+			]
+			title: "Improved Blast Furnace"
+			x: 5.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["02A5167269A4B68F"]
+			id: "19F415383EFDA279"
+			rewards: [{
+				id: "28E04CD893EC12F0"
+				item: "immersiveengineering:mold_plate"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "2211DD932C44C9B9"
+					item: "minecraft:piston"
+					type: "item"
+				}
+				{
+					id: "33BA190BBF9F27CE"
+					item: "immersiveengineering:rs_engineering"
+					type: "item"
+				}
+				{
+					id: "5EB8EDED7E904DB1"
+					item: "immersiveengineering:heavy_engineering"
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "3CD5148043745E49"
+					item: { Count: 2, id: "immersiveengineering:steel_scaffolding_standard" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "0294DFFFE79BE5F6"
+					item: { Count: 2, id: "immersiveengineering:conveyor_basic" }
+					type: "item"
+				}
+			]
+			title: "Metal Press"
+			x: 4.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["58392A99CBBE674D"]
+			id: "3F719DC4CD14886B"
+			rewards: [{
+				id: "47C6EA3DD61BEEDB"
+				item: {
+					Count: 1
+					id: "immersiveengineering:wirecutter"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "44F82729DA97D2C2"
+				item: "immersiveengineering:workbench"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 2.5d
+		}
+		{
+			dependencies: [
+				"19F415383EFDA279"
+				"3F719DC4CD14886B"
+			]
+			id: "197971C61EB674D3"
+			rewards: [{
+				count: 3
+				id: "096785E7141A9CA9"
+				item: "immersiveengineering:plate_steel"
+				type: "item"
+			}]
+			tasks: [{
+				id: "3D40F73BCD587619"
+				item: "tmtceic:mold_pokeball_frame"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["197971C61EB674D3"]
+			id: "54B29231EEF1ACB4"
+			rewards: [{
+				count: 8
+				id: "762FE7B59E2B60C2"
+				item: "cobblemon:ultra_ball"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4565EDFA0A03491A"
+				item: "tmtceic:aluminum_pokeball_frame"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 4.5d
+		}
+	]
+	title: "Immersive Engineering"
+}

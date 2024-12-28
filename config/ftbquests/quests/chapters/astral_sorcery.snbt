@@ -1,0 +1,299 @@
+{
+	consume_items: true
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "astral_sorcery"
+	group: ""
+	icon: "minecraft:spyglass"
+	id: "66C5CF3C9A7823C4"
+	images: [{
+		height: 10.0d
+		image: "supplementaries:textures/entity/banner/flags/additionalbanners/moon.png"
+		rotation: 0.0d
+		width: 20.0d
+		x: 2.0d
+		y: -2.0d
+	}]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: true
+			icon: "quark:slime_in_a_bucket"
+			id: "27B65F1751D8529B"
+			rewards: [{
+				command: "/ec setLunarEvent enhancedcelestials:super_moon"
+				id: "1E4FBDF62C01D77D"
+				title: "Force a super moon"
+				type: "command"
+			}]
+			tasks: [
+				{
+					id: "1BD7B35AD5923949"
+					item: "quark:slime_in_a_bucket"
+					type: "item"
+				}
+				{
+					id: "3998B93AB9642088"
+					item: "minecraft:spyglass"
+					type: "item"
+				}
+			]
+			title: "Super Moon"
+			x: 0.5d
+			y: -0.5d
+		}
+		{
+			can_repeat: true
+			icon: "minecraft:zombie_head"
+			id: "4F7EF87DA901AB1F"
+			rewards: [{
+				command: "/ec setLunarEvent enhancedcelestials:blood_moon"
+				id: "102479701E8F14F7"
+				title: "Force a blood moon"
+				type: "command"
+			}]
+			tasks: [
+				{
+					id: "14BFB825692CE80A"
+					item: "minecraft:zombie_head"
+					type: "item"
+				}
+				{
+					id: "6134FD5428CCF7B5"
+					item: "minecraft:spyglass"
+					type: "item"
+				}
+			]
+			title: "Blood Moon"
+			x: -1.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: true
+			icon: "minecraft:poisonous_potato"
+			id: "1F8CB31F0A05E74F"
+			rewards: [{
+				command: "/ec setLunarEvent enhancedcelestials:harvest_moon"
+				id: "55CFC322AF5518FD"
+				title: "Force a harvest moon"
+				type: "command"
+			}]
+			tasks: [
+				{
+					id: "1B34034704E64774"
+					item: "minecraft:poisonous_potato"
+					type: "item"
+				}
+				{
+					id: "6428BA59CAA1059E"
+					item: "minecraft:spyglass"
+					type: "item"
+				}
+			]
+			title: "Harvest Moon"
+			x: 1.5d
+			y: -1.5d
+		}
+		{
+			can_repeat: true
+			icon: "minecraft:rabbit_foot"
+			id: "2E8331B012FF7B6F"
+			rewards: [{
+				command: "/ec setLunarEvent enhancedcelestials:blue_moon"
+				id: "7160B80926FEE529"
+				title: "Force a blue moon"
+				type: "command"
+			}]
+			tasks: [
+				{
+					id: "1B055E5C4F2226A5"
+					item: "minecraft:rabbit_foot"
+					type: "item"
+				}
+				{
+					id: "2A19107647125B20"
+					item: "minecraft:spyglass"
+					type: "item"
+				}
+			]
+			title: "Blue Moon"
+			x: 2.0d
+			y: -3.0d
+		}
+		{
+			id: "7278100EB30FF970"
+			rewards: [
+				{
+					id: "3F16A806F68B6461"
+					item: {
+						Count: 1
+						id: "minecraft:iron_sword"
+						tag: {
+							Damage: 0
+							Unbreakable: 1b
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "038757F1B1B300E1"
+					item: {
+						Count: 1
+						id: "minecraft:chainmail_helmet"
+						tag: {
+							Damage: 0
+							Unbreakable: 1b
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2F6019CD70EF456D"
+					item: {
+						Count: 1
+						id: "minecraft:chainmail_chestplate"
+						tag: {
+							Damage: 0
+							Unbreakable: 1b
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4DC47D3B99BB7582"
+					item: {
+						Count: 1
+						id: "minecraft:chainmail_leggings"
+						tag: {
+							Damage: 0
+							Unbreakable: 1b
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "450A830D9A173933"
+					item: {
+						Count: 1
+						id: "minecraft:chainmail_boots"
+						tag: {
+							Damage: 0
+							Unbreakable: 1b
+						}
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					icon: "minecraft:sentry_armor_trim_smithing_template"
+					id: "1441218224D9D289"
+					table_id: 7906370000928067438L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				advancement: "minecraft:adventure/kill_a_mob"
+				criterion: ""
+				id: "32B30320A507EA7A"
+				title: "Slay a monster"
+				type: "advancement"
+			}]
+			title: "Gearing up"
+			x: 0.5d
+			y: 5.0d
+		}
+		{
+			can_repeat: true
+			icon: "minecraft:sentry_armor_trim_smithing_template"
+			id: "51ECC60E399A4B71"
+			rewards: [{
+				icon: "minecraft:sentry_armor_trim_smithing_template"
+				id: "71B8254E07529571"
+				table_id: 7906370000928067438L
+				type: "random"
+			}]
+			tasks: [{
+				entity: "minecraft:zombie"
+				id: "3FB46948CAF9FBB7"
+				type: "kill"
+				value: 50L
+			}]
+			title: "Trim"
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			can_repeat: true
+			icon: "minecraft:music_disc_13"
+			id: "0247ADC319D4922C"
+			rewards: [{
+				exclude_from_claim_all: true
+				icon: "minecraft:music_disc_13"
+				id: "0EC6DE7561FD26C0"
+				table_id: 2397575857484902178L
+				type: "choice"
+			}]
+			tasks: [{
+				entity: "minecraft:skeleton"
+				id: "63ABD90C9EC26EBF"
+				type: "kill"
+				value: 50L
+			}]
+			title: "Disc"
+			x: 1.5d
+			y: 5.5d
+		}
+		{
+			id: "407AF2598CB35AA4"
+			rewards: [{
+				id: "3F8E032C5FB1A2F0"
+				item: "minecraft:anvil"
+				type: "item"
+			}]
+			tasks: [{
+				id: "2E6CE43BFD035689"
+				item: "minecraft:smithing_table"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 4.0d
+		}
+		{
+			id: "2B381E1E98D86737"
+			rewards: [{
+				count: 45
+				id: "19047BDFC8FB792C"
+				item: "minecraft:book"
+				type: "item"
+			}]
+			tasks: [{
+				id: "42D3BE9BE280E6F3"
+				item: "minecraft:enchanting_table"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 3.0d
+		}
+		{
+			id: "696C7AD11314BA97"
+			rewards: [{
+				count: 5
+				id: "10131186B39F46E8"
+				item: "cobblemon:master_ball"
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minecraft:nether/netherite_armor"
+				criterion: ""
+				id: "3A587C1F00A238C3"
+				title: "Wear a full set of Netherite armor"
+				type: "advancement"
+			}]
+			title: "Massive Upgrade"
+			x: -0.5d
+			y: 6.0d
+		}
+	]
+	title: "Take Back the Night"
+}

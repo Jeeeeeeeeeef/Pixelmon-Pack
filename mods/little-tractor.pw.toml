@@ -1,0 +1,13 @@
+name = "Little Tractor"
+filename = "LittleTractor-1.20.1-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "22ce7215ace750e3389a18d80791442cc662ac15"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5630775
+project-id = 1029980

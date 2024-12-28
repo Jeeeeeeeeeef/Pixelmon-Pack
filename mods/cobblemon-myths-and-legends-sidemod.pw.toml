@@ -1,0 +1,13 @@
+name = "Myths and Legends [Cobblemon Sidemod]"
+filename = "Myths_and_Legends-1.6.1-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CaOWby9K/versions/KL20XELF/Myths_and_Legends-1.6.1-forge.jar"
+hash-format = "sha1"
+hash = "9c6c11a86e9fe4eb42cb5ecf8f3910341ff0ea02"
+
+[update]
+[update.modrinth]
+mod-id = "CaOWby9K"
+version = "KL20XELF"

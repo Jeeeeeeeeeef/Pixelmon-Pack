@@ -1,0 +1,1 @@
+execute as @e[type=cobblemon:pokemon] on passengers run ride @s[tag=!canRide] dismount

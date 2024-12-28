@@ -1,0 +1,13 @@
+name = "Cobblemon Hunt"
+filename = "Hunt-1.1.0-forge.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/QMAwqHhY/versions/A2E86sJU/Hunt-1.1.0-forge.jar"
+hash-format = "sha1"
+hash = "c360a796f9b12eb4e578bc0aff89587754bd5242"
+
+[update]
+[update.modrinth]
+mod-id = "QMAwqHhY"
+version = "A2E86sJU"

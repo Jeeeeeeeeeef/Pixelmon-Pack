@@ -1,0 +1,13 @@
+name = "Impactor"
+filename = "Impactor-Forge-5.2.7+1.20.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/LdBYVaPS/versions/WdjyfQPY/Impactor-Forge-5.2.7%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "23f68aeae26df11ee2a045ed448a9983729ef02b"
+
+[update]
+[update.modrinth]
+mod-id = "LdBYVaPS"
+version = "WdjyfQPY"

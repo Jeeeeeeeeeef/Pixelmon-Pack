@@ -1,0 +1,29 @@
+{
+	icon: "minecraft:chest"
+	id: "2145E68A1B70AF22"
+	loot_size: 1
+	order_index: 8
+	rewards: [
+		{ }
+		{ }
+		{ }
+		{ }
+		{ }
+		{ }
+		{ }
+		{ }
+		{ }
+		{ }
+		{ }
+		{ }
+		{ }
+		{ }
+		{ }
+		{ }
+		{ }
+		{ }
+		{ }
+		{ }
+	]
+	title: "disc"
+}

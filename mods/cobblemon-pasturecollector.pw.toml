@@ -1,0 +1,13 @@
+name = "Cobblemon Pasture Collector"
+filename = "cobblemon-pasturecollector-1.5-fabric-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a70092bad00ebc7760f9e5a4014f28e6d0794f5d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5842353
+project-id = 1119207

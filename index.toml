@@ -1,327 +1,1012 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/ftbultimine.snbt"
-hash = "c629f7c6e18ffe60278d6a073497ef94bfe49f506cace5ba21133a8b56948d25"
+file = "config/cobbled_counter.json"
+hash = "8f824726d1c14f85fed963fa4e02d2aa163e8c02e3e4865a974ebd78eae130d0"
 
 [[files]]
-file = "config/losttrinkets/general_common.toml"
-hash = "ac25ce3d16481a6fdb471eb8744dfcb273bf9b7803b958dd644e5968ad4f8da2"
+file = "config/defaultoptions/keybindings.txt"
+hash = "435fba488e55f1ba283478e287e857a2bdd31d782aa3823e4d9acb2e0c11a508"
 
 [[files]]
-file = "config/pixelmon/battle.yml"
-hash = "4194ed984c6162dd22345e6975f8b6e9f6dcdf22a9d43f5104072557afba2108"
+file = "config/ftbquests/quests/chapter_groups.snbt"
+hash = "5afa93256d73a5181e0a24860973d2f56da2e0aab396b6036e8032dd90b1eb25"
 
 [[files]]
-file = "config/pixelmon/breeding.yml"
-hash = "ee512f7a752a9288db258cc783c0ca632abd29e18001dfeb1a7a613bc0c32b7e"
+file = "config/ftbquests/quests/chapters/adventure_awaits.snbt"
+hash = "37c57abadb9c3410e251051a3924d398bca4b199b2ca1a8eaeb003bd19289a2b"
 
 [[files]]
-file = "config/pixelmon/commands.yml"
-hash = "ff81080b45c2a6aebbc9040e22a38a592a27ed78a11caae0a11fa9c9260639dc"
+file = "config/ftbquests/quests/chapters/agriculture.snbt"
+hash = "d1cb4a7f8ef876a07b108bea709fdf3c6993f738b1aaba59a00016139eebdf80"
 
 [[files]]
-file = "config/pixelmon/config.yml"
-hash = "14f4799336fc902a2559d5ab3874cdb6f91f24cf6cca9d33a2052098798fdf00"
+file = "config/ftbquests/quests/chapters/archeology.snbt"
+hash = "c37fb12cbf2c641d982f1e5efed90be7b4e8a3803ba077c7d460e7a20f9033e0"
 
 [[files]]
-file = "config/pixelmon/dimensions.yml"
-hash = "10c345e3f42d6172a92ecd80416b7bf1a7cc25614f92e346c9bedb01bfdfba37"
+file = "config/ftbquests/quests/chapters/astral_sorcery.snbt"
+hash = "01f734b09f02954263acd1ed37d9bc3b29d7ef07892b70b76ff47fdc8ddc0df1"
 
 [[files]]
-file = "config/pixelmon/external_moves.yml"
-hash = "7468845c0a3e53fe98b1b22c2d5986132115338d106f73051c3dc5f9bc513e76"
+file = "config/ftbquests/quests/chapters/immersive_engineering.snbt"
+hash = "f27f74b070d0c45490fb25d313557ab0690faf6edc2489da079755fac2f7720f"
 
 [[files]]
-file = "config/pixelmon/graphics.yml"
-hash = "d68db451d3f8292c984c36e1e3461028c3aa768c8d25e5b96742129a0ad8d3fd"
+file = "config/ftbquests/quests/chapters/journey_mode.snbt"
+hash = "d26edf771d593e9e2b59ceb588b016f2080ff8a3864192ff0e336adddd68a1dc"
 
 [[files]]
-file = "config/pixelmon/quests.yml"
-hash = "b56c4d9712c64c421b47142dfc173e9f8bae36739ff2877319bea939020d771a"
+file = "config/ftbquests/quests/chapters/settling_down.snbt"
+hash = "2512069d5efcaa7af9c91c6ecc44172100385e026c40cfeed264efdbd7c62ad8"
 
 [[files]]
-file = "config/pixelmon/raids.yml"
-hash = "f8d59379041601d3b518a96259018c15cca9a256f9e788ab37c8604ef5300c6b"
+file = "config/ftbquests/quests/data.snbt"
+hash = "b6e3f3fb86bba7f9af4ad9d40dbaf450c18c72fcd312ee79f012d388dc04dd2f"
 
 [[files]]
-file = "config/pixelmon/spawning.yml"
-hash = "038e1cf59a0b1593e24938a5ea47833e2093ccd167907fca3b35493d24a926f4"
+file = "config/ftbquests/quests/reward_tables/2145E68A1B70AF22.snbt"
+hash = "51cac349b0db3dcb2380b5eacb58b0c78e6610050086283894e183c4cbb25706"
 
 [[files]]
-file = "config/pixelmon/storage.yml"
-hash = "2f758d4829755f39eeeb025ff99d6c014c47779666eadeb441f17eb446dda49c"
+file = "config/ftbquests/quests/reward_tables/6DB911A0481F4F6E.snbt"
+hash = "4f4e56e42ced0c881205808c9d328b6ba6c9e949cc280d858a51f3d6b028657b"
 
 [[files]]
-file = "config/pixelmon/structures.yml"
-hash = "953f4992dc401271df05dac6c92d18e0fe9a75af79ace05509da78849b67f180"
+file = "config/ftbquests/quests/reward_tables/biomechanger.snbt"
+hash = "fa01889ac4f9539288797194965ccc46727ee0c913569e4fd6a6809489598245"
 
 [[files]]
-file = "config/pixelmon/tcg.yml"
-hash = "6ac0a636a75e8dce92216307cf8c2433464efc2e022c89117ab73691646934c5"
+file = "config/ftbquests/quests/reward_tables/cavemaps.snbt"
+hash = "c6e58f0f7f9d6f91fd33fce5aaef04ffd1ac5cf8dfa6018b38d477fd2e5b9d57"
 
 [[files]]
-file = "config/simplecavebiomes-common.toml"
-hash = "92cfdbb4809ee03037b05b92927a91dae39b04b109fd7de0c7712865a99e07b0"
+file = "config/ftbquests/quests/reward_tables/dye.snbt"
+hash = "5cda7abecb784c8c212547997e5cb294d5f136a586ddc5fec2816b3f872b510d"
 
 [[files]]
-file = "config/xaerominimap-common.txt"
-hash = "1dcee38470c2939f7265891203775b7631c81822bf2506a451727fcaaf2cc4a2"
+file = "config/ftbquests/quests/reward_tables/dyeables.snbt"
+hash = "470f3351b181cc4f9225d6519d7c0e7af41e1671c934949617bf7e4c00734fcb"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/littletiles.snbt"
+hash = "622b0ff69611c2308e250df33623f0f72a37edae6e2d1c2ed7be06cb47aa3e62"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/sniffer.snbt"
+hash = "aba3c19613e07fe5a471a5fd124abf3ed55405a2895773c7c487e92f844dc71e"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/wood.snbt"
+hash = "1c2181bb88aac0697632b33bf89a50a46db5f061d6c18a09081ed58ee8176a97"
+
+[[files]]
+file = "config/global_data_and_resourcepacks.toml"
+hash = "41f2f64add58a5ee92773de4114cca7664b5c5ab900d0ad4a04c4aef20b4edcb"
+
+[[files]]
+file = "config/quark-common.toml"
+hash = "500f7e3420cdbafa834605f66ab7a712c377ba71fc4f05e5f6c971886244f8ab"
 
 [[files]]
 file = "config/xaerominimap.txt"
-hash = "6942a104960c2079b5cf746326003d0e7c0bc74adc0bf1693042852304d67f3f"
+hash = "3e0ee20dd4023742a6eb44a0ca48512e6d28814825172bc893081543b11b928d"
 
 [[files]]
-file = "config/xaerominimap_entities.json"
-hash = "77804a85cddf0361fcdb2d849bf02dd3c3c7e6e7c25f9c1919e65fc76afdff0f"
+file = "datapacks/additional-cobblemon-spawn-compat.pw.toml"
+hash = "81303aecef7ae7b7d2917b5bd7a13e7d034f4e4d92f6af3d18083b2ffc67122d"
+metafile = true
 
 [[files]]
-file = "config/xaeropatreon.txt"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+file = "datapacks/alexs-cobblemon-caves-compatability.pw.toml"
+hash = "a585cb972082b78e4b865ea88a7d5d910b2b24b84af5ceda76a04a27ceb01e3e"
+metafile = true
 
 [[files]]
-file = "config/xaeroworldmap-common.txt"
-hash = "103979a8e59e396f99fb8646c4f8a690c2d743ca3744a2eb8f663b3102b7498c"
+file = "datapacks/allthemons.pw.toml"
+hash = "049e16bfbfb84a087f3f48f5a4476d37af6373afb2a88f9a446c4a742d4da6c4"
+metafile = true
 
 [[files]]
-file = "config/xaeroworldmap.txt"
-hash = "0adfcc8527e4e56b0ec49dc16c567bb5718426408f328cc41fc4ec14b1f35ae1"
+file = "datapacks/myths-and-legends-datapack.pw.toml"
+hash = "5d9ab860efeedc2fbf5351bf5e061a792ad2f574c88bacc256e8136f14a0583a"
+metafile = true
 
 [[files]]
-file = "mods/aquapatch.pw.toml"
-hash = "270fa700932c6881f851292e39d6d34bb2b01f3ffae4a4f080dccc2bfbda6eae"
+file = "defaultconfigs/ftbranks/ranks.snbt"
+hash = "810c3a3dafd274fcf061445348745f001d39bf809dbe1d6d2f9c239e06f29b9f"
+
+[[files]]
+file = "defaultconfigs/ftbultimine/ftbultimine-server.snbt"
+hash = "c969b07d8e6b45a022a979e7d7592d64784175fae23631e88c252a1d8a96ef3b"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/protosteel_ingot.png"
+hash = "b3d9ecb72ad0c6dff916ae0adbd4881afc9abef7c6ed8ea1e199dd3477e4eaf8"
+
+[[files]]
+file = "kubejs/data/droploottables/loot_tables/gameplay/pokedrops/all.json"
+hash = "c02dae97e14fc09d69c0da96c6a0388aea287d9d191724ebfa152c4aafc8521a"
+
+[[files]]
+file = "kubejs/data/kubejs/functions/main.mcfunction"
+hash = "fbbaebc70512fd515b8dd9ff050bec08e79ef7614e606ac8a28545d61c580bf2"
+
+[[files]]
+file = "kubejs/data/minecraft/tags/functions/tick.json"
+hash = "9a6815253bdb0274faf28bc0c4c4928701971aeeb3b88300dac20ad04f300fc4"
+
+[[files]]
+file = "kubejs/data/pasturecollector/loot_tables/gameplay/pasture_collector/species/aegislash.json"
+hash = "20b33f0a57de1b4c9fed7de1542e18aceac7ca4c775f6f052a74e96a91c148af"
+
+[[files]]
+file = "kubejs/data/pasturecollector/loot_tables/gameplay/pasture_collector/species/aggron.json"
+hash = "20b33f0a57de1b4c9fed7de1542e18aceac7ca4c775f6f052a74e96a91c148af"
+
+[[files]]
+file = "kubejs/data/pasturecollector/loot_tables/gameplay/pasture_collector/species/arceus.json"
+hash = "20b33f0a57de1b4c9fed7de1542e18aceac7ca4c775f6f052a74e96a91c148af"
+
+[[files]]
+file = "kubejs/data/pasturecollector/loot_tables/gameplay/pasture_collector/species/archaludon.json"
+hash = "20b33f0a57de1b4c9fed7de1542e18aceac7ca4c775f6f052a74e96a91c148af"
+
+[[files]]
+file = "kubejs/data/pasturecollector/loot_tables/gameplay/pasture_collector/species/aron.json"
+hash = "20b33f0a57de1b4c9fed7de1542e18aceac7ca4c775f6f052a74e96a91c148af"
+
+[[files]]
+file = "kubejs/data/pasturecollector/loot_tables/gameplay/pasture_collector/species/bastiodon.json"
+hash = "20b33f0a57de1b4c9fed7de1542e18aceac7ca4c775f6f052a74e96a91c148af"
+
+[[files]]
+file = "kubejs/data/pasturecollector/loot_tables/gameplay/pasture_collector/species/beldum.json"
+hash = "20b33f0a57de1b4c9fed7de1542e18aceac7ca4c775f6f052a74e96a91c148af"
+
+[[files]]
+file = "kubejs/data/pasturecollector/loot_tables/gameplay/pasture_collector/species/bisharp.json"
+hash = "20b33f0a57de1b4c9fed7de1542e18aceac7ca4c775f6f052a74e96a91c148af"
+
+[[files]]
+file = "kubejs/data/pasturecollector/loot_tables/gameplay/pasture_collector/species/bronzong.json"
+hash = "20b33f0a57de1b4c9fed7de1542e18aceac7ca4c775f6f052a74e96a91c148af"
+
+[[files]]
+file = "kubejs/data/pasturecollector/loot_tables/gameplay/pasture_collector/species/bronzor.json"
+hash = "20b33f0a57de1b4c9fed7de1542e18aceac7ca4c775f6f052a74e96a91c148af"
+
+[[files]]
+file = "kubejs/data/pasturecollector/loot_tables/gameplay/pasture_collector/species/celesteela.json"
+hash = "20b33f0a57de1b4c9fed7de1542e18aceac7ca4c775f6f052a74e96a91c148af"
+
+[[files]]
+file = "kubejs/data/pasturecollector/loot_tables/gameplay/pasture_collector/species/cobalion.json"
+hash = "20b33f0a57de1b4c9fed7de1542e18aceac7ca4c775f6f052a74e96a91c148af"
+
+[[files]]
+file = "kubejs/data/pasturecollector/loot_tables/gameplay/pasture_collector/species/copperajah.json"
+hash = "20b33f0a57de1b4c9fed7de1542e18aceac7ca4c775f6f052a74e96a91c148af"
+
+[[files]]
+file = "kubejs/data/pasturecollector/loot_tables/gameplay/pasture_collector/species/corviknight.json"
+hash = "20b33f0a57de1b4c9fed7de1542e18aceac7ca4c775f6f052a74e96a91c148af"
+
+[[files]]
+file = "kubejs/data/pasturecollector/loot_tables/gameplay/pasture_collector/species/cufant.json"
+hash = "20b33f0a57de1b4c9fed7de1542e18aceac7ca4c775f6f052a74e96a91c148af"
+
+[[files]]
+file = "kubejs/data/pasturecollector/loot_tables/gameplay/pasture_collector/species/dialga.json"
+hash = "20b33f0a57de1b4c9fed7de1542e18aceac7ca4c775f6f052a74e96a91c148af"
+
+[[files]]
+file = "kubejs/data/pasturecollector/loot_tables/gameplay/pasture_collector/species/doublade.json"
+hash = "20b33f0a57de1b4c9fed7de1542e18aceac7ca4c775f6f052a74e96a91c148af"
+
+[[files]]
+file = "kubejs/data/pasturecollector/loot_tables/gameplay/pasture_collector/species/duraludon.json"
+hash = "20b33f0a57de1b4c9fed7de1542e18aceac7ca4c775f6f052a74e96a91c148af"
+
+[[files]]
+file = "kubejs/data/pasturecollector/loot_tables/gameplay/pasture_collector/species/durant.json"
+hash = "20b33f0a57de1b4c9fed7de1542e18aceac7ca4c775f6f052a74e96a91c148af"
+
+[[files]]
+file = "kubejs/data/pasturecollector/loot_tables/gameplay/pasture_collector/species/empoleon.json"
+hash = "20b33f0a57de1b4c9fed7de1542e18aceac7ca4c775f6f052a74e96a91c148af"
+
+[[files]]
+file = "kubejs/data/pasturecollector/loot_tables/gameplay/pasture_collector/species/escavalier.json"
+hash = "20b33f0a57de1b4c9fed7de1542e18aceac7ca4c775f6f052a74e96a91c148af"
+
+[[files]]
+file = "kubejs/data/pasturecollector/loot_tables/gameplay/pasture_collector/species/excadrill.json"
+hash = "20b33f0a57de1b4c9fed7de1542e18aceac7ca4c775f6f052a74e96a91c148af"
+
+[[files]]
+file = "kubejs/data/pasturecollector/loot_tables/gameplay/pasture_collector/species/ferroseed.json"
+hash = "20b33f0a57de1b4c9fed7de1542e18aceac7ca4c775f6f052a74e96a91c148af"
+
+[[files]]
+file = "kubejs/data/pasturecollector/loot_tables/gameplay/pasture_collector/species/ferrothorn.json"
+hash = "20b33f0a57de1b4c9fed7de1542e18aceac7ca4c775f6f052a74e96a91c148af"
+
+[[files]]
+file = "kubejs/data/pasturecollector/loot_tables/gameplay/pasture_collector/species/forretress.json"
+hash = "20b33f0a57de1b4c9fed7de1542e18aceac7ca4c775f6f052a74e96a91c148af"
+
+[[files]]
+file = "kubejs/data/pasturecollector/loot_tables/gameplay/pasture_collector/species/genesect.json"
+hash = "20b33f0a57de1b4c9fed7de1542e18aceac7ca4c775f6f052a74e96a91c148af"
+
+[[files]]
+file = "kubejs/data/pasturecollector/loot_tables/gameplay/pasture_collector/species/gholdengo.json"
+hash = "20b33f0a57de1b4c9fed7de1542e18aceac7ca4c775f6f052a74e96a91c148af"
+
+[[files]]
+file = "kubejs/data/pasturecollector/loot_tables/gameplay/pasture_collector/species/heatran.json"
+hash = "20b33f0a57de1b4c9fed7de1542e18aceac7ca4c775f6f052a74e96a91c148af"
+
+[[files]]
+file = "kubejs/data/pasturecollector/loot_tables/gameplay/pasture_collector/species/honedge.json"
+hash = "20b33f0a57de1b4c9fed7de1542e18aceac7ca4c775f6f052a74e96a91c148af"
+
+[[files]]
+file = "kubejs/data/pasturecollector/loot_tables/gameplay/pasture_collector/species/ironcrown.json"
+hash = "20b33f0a57de1b4c9fed7de1542e18aceac7ca4c775f6f052a74e96a91c148af"
+
+[[files]]
+file = "kubejs/data/pasturecollector/loot_tables/gameplay/pasture_collector/species/irontreads.json"
+hash = "20b33f0a57de1b4c9fed7de1542e18aceac7ca4c775f6f052a74e96a91c148af"
+
+[[files]]
+file = "kubejs/data/pasturecollector/loot_tables/gameplay/pasture_collector/species/jirachi.json"
+hash = "20b33f0a57de1b4c9fed7de1542e18aceac7ca4c775f6f052a74e96a91c148af"
+
+[[files]]
+file = "kubejs/data/pasturecollector/loot_tables/gameplay/pasture_collector/species/kartana.json"
+hash = "20b33f0a57de1b4c9fed7de1542e18aceac7ca4c775f6f052a74e96a91c148af"
+
+[[files]]
+file = "kubejs/data/pasturecollector/loot_tables/gameplay/pasture_collector/species/kingambit.json"
+hash = "20b33f0a57de1b4c9fed7de1542e18aceac7ca4c775f6f052a74e96a91c148af"
+
+[[files]]
+file = "kubejs/data/pasturecollector/loot_tables/gameplay/pasture_collector/species/klang.json"
+hash = "20b33f0a57de1b4c9fed7de1542e18aceac7ca4c775f6f052a74e96a91c148af"
+
+[[files]]
+file = "kubejs/data/pasturecollector/loot_tables/gameplay/pasture_collector/species/klefki.json"
+hash = "20b33f0a57de1b4c9fed7de1542e18aceac7ca4c775f6f052a74e96a91c148af"
+
+[[files]]
+file = "kubejs/data/pasturecollector/loot_tables/gameplay/pasture_collector/species/klink.json"
+hash = "20b33f0a57de1b4c9fed7de1542e18aceac7ca4c775f6f052a74e96a91c148af"
+
+[[files]]
+file = "kubejs/data/pasturecollector/loot_tables/gameplay/pasture_collector/species/klinklang.json"
+hash = "20b33f0a57de1b4c9fed7de1542e18aceac7ca4c775f6f052a74e96a91c148af"
+
+[[files]]
+file = "kubejs/data/pasturecollector/loot_tables/gameplay/pasture_collector/species/lairon.json"
+hash = "20b33f0a57de1b4c9fed7de1542e18aceac7ca4c775f6f052a74e96a91c148af"
+
+[[files]]
+file = "kubejs/data/pasturecollector/loot_tables/gameplay/pasture_collector/species/lucario.json"
+hash = "20b33f0a57de1b4c9fed7de1542e18aceac7ca4c775f6f052a74e96a91c148af"
+
+[[files]]
+file = "kubejs/data/pasturecollector/loot_tables/gameplay/pasture_collector/species/magearna.json"
+hash = "20b33f0a57de1b4c9fed7de1542e18aceac7ca4c775f6f052a74e96a91c148af"
+
+[[files]]
+file = "kubejs/data/pasturecollector/loot_tables/gameplay/pasture_collector/species/magnemite.json"
+hash = "20b33f0a57de1b4c9fed7de1542e18aceac7ca4c775f6f052a74e96a91c148af"
+
+[[files]]
+file = "kubejs/data/pasturecollector/loot_tables/gameplay/pasture_collector/species/magneton.json"
+hash = "20b33f0a57de1b4c9fed7de1542e18aceac7ca4c775f6f052a74e96a91c148af"
+
+[[files]]
+file = "kubejs/data/pasturecollector/loot_tables/gameplay/pasture_collector/species/magnezone.json"
+hash = "20b33f0a57de1b4c9fed7de1542e18aceac7ca4c775f6f052a74e96a91c148af"
+
+[[files]]
+file = "kubejs/data/pasturecollector/loot_tables/gameplay/pasture_collector/species/mawile.json"
+hash = "20b33f0a57de1b4c9fed7de1542e18aceac7ca4c775f6f052a74e96a91c148af"
+
+[[files]]
+file = "kubejs/data/pasturecollector/loot_tables/gameplay/pasture_collector/species/melmetal.json"
+hash = "20b33f0a57de1b4c9fed7de1542e18aceac7ca4c775f6f052a74e96a91c148af"
+
+[[files]]
+file = "kubejs/data/pasturecollector/loot_tables/gameplay/pasture_collector/species/meltan.json"
+hash = "20b33f0a57de1b4c9fed7de1542e18aceac7ca4c775f6f052a74e96a91c148af"
+
+[[files]]
+file = "kubejs/data/pasturecollector/loot_tables/gameplay/pasture_collector/species/meowth.json"
+hash = "20b33f0a57de1b4c9fed7de1542e18aceac7ca4c775f6f052a74e96a91c148af"
+
+[[files]]
+file = "kubejs/data/pasturecollector/loot_tables/gameplay/pasture_collector/species/metagross.json"
+hash = "20b33f0a57de1b4c9fed7de1542e18aceac7ca4c775f6f052a74e96a91c148af"
+
+[[files]]
+file = "kubejs/data/pasturecollector/loot_tables/gameplay/pasture_collector/species/metang.json"
+hash = "20b33f0a57de1b4c9fed7de1542e18aceac7ca4c775f6f052a74e96a91c148af"
+
+[[files]]
+file = "kubejs/data/pasturecollector/loot_tables/gameplay/pasture_collector/species/necrozma.json"
+hash = "20b33f0a57de1b4c9fed7de1542e18aceac7ca4c775f6f052a74e96a91c148af"
+
+[[files]]
+file = "kubejs/data/pasturecollector/loot_tables/gameplay/pasture_collector/species/orthworm.json"
+hash = "20b33f0a57de1b4c9fed7de1542e18aceac7ca4c775f6f052a74e96a91c148af"
+
+[[files]]
+file = "kubejs/data/pasturecollector/loot_tables/gameplay/pasture_collector/species/pawniard.json"
+hash = "20b33f0a57de1b4c9fed7de1542e18aceac7ca4c775f6f052a74e96a91c148af"
+
+[[files]]
+file = "kubejs/data/pasturecollector/loot_tables/gameplay/pasture_collector/species/perrserker.json"
+hash = "20b33f0a57de1b4c9fed7de1542e18aceac7ca4c775f6f052a74e96a91c148af"
+
+[[files]]
+file = "kubejs/data/pasturecollector/loot_tables/gameplay/pasture_collector/species/probopass.json"
+hash = "20b33f0a57de1b4c9fed7de1542e18aceac7ca4c775f6f052a74e96a91c148af"
+
+[[files]]
+file = "kubejs/data/pasturecollector/loot_tables/gameplay/pasture_collector/species/registeel.json"
+hash = "20b33f0a57de1b4c9fed7de1542e18aceac7ca4c775f6f052a74e96a91c148af"
+
+[[files]]
+file = "kubejs/data/pasturecollector/loot_tables/gameplay/pasture_collector/species/revavroom.json"
+hash = "20b33f0a57de1b4c9fed7de1542e18aceac7ca4c775f6f052a74e96a91c148af"
+
+[[files]]
+file = "kubejs/data/pasturecollector/loot_tables/gameplay/pasture_collector/species/sandshrew.json"
+hash = "20b33f0a57de1b4c9fed7de1542e18aceac7ca4c775f6f052a74e96a91c148af"
+
+[[files]]
+file = "kubejs/data/pasturecollector/loot_tables/gameplay/pasture_collector/species/sandslash.json"
+hash = "20b33f0a57de1b4c9fed7de1542e18aceac7ca4c775f6f052a74e96a91c148af"
+
+[[files]]
+file = "kubejs/data/pasturecollector/loot_tables/gameplay/pasture_collector/species/scizor.json"
+hash = "20b33f0a57de1b4c9fed7de1542e18aceac7ca4c775f6f052a74e96a91c148af"
+
+[[files]]
+file = "kubejs/data/pasturecollector/loot_tables/gameplay/pasture_collector/species/shieldon.json"
+hash = "20b33f0a57de1b4c9fed7de1542e18aceac7ca4c775f6f052a74e96a91c148af"
+
+[[files]]
+file = "kubejs/data/pasturecollector/loot_tables/gameplay/pasture_collector/species/silvally.json"
+hash = "20b33f0a57de1b4c9fed7de1542e18aceac7ca4c775f6f052a74e96a91c148af"
+
+[[files]]
+file = "kubejs/data/pasturecollector/loot_tables/gameplay/pasture_collector/species/skarmory.json"
+hash = "20b33f0a57de1b4c9fed7de1542e18aceac7ca4c775f6f052a74e96a91c148af"
+
+[[files]]
+file = "kubejs/data/pasturecollector/loot_tables/gameplay/pasture_collector/species/solgaleo.json"
+hash = "20b33f0a57de1b4c9fed7de1542e18aceac7ca4c775f6f052a74e96a91c148af"
+
+[[files]]
+file = "kubejs/data/pasturecollector/loot_tables/gameplay/pasture_collector/species/stakataka.json"
+hash = "20b33f0a57de1b4c9fed7de1542e18aceac7ca4c775f6f052a74e96a91c148af"
+
+[[files]]
+file = "kubejs/data/pasturecollector/loot_tables/gameplay/pasture_collector/species/steelix.json"
+hash = "20b33f0a57de1b4c9fed7de1542e18aceac7ca4c775f6f052a74e96a91c148af"
+
+[[files]]
+file = "kubejs/data/pasturecollector/loot_tables/gameplay/pasture_collector/species/stunfisk.json"
+hash = "20b33f0a57de1b4c9fed7de1542e18aceac7ca4c775f6f052a74e96a91c148af"
+
+[[files]]
+file = "kubejs/data/pasturecollector/loot_tables/gameplay/pasture_collector/species/tinkatink.json"
+hash = "20b33f0a57de1b4c9fed7de1542e18aceac7ca4c775f6f052a74e96a91c148af"
+
+[[files]]
+file = "kubejs/data/pasturecollector/loot_tables/gameplay/pasture_collector/species/tinkaton.json"
+hash = "20b33f0a57de1b4c9fed7de1542e18aceac7ca4c775f6f052a74e96a91c148af"
+
+[[files]]
+file = "kubejs/data/pasturecollector/loot_tables/gameplay/pasture_collector/species/tinkatuff.json"
+hash = "20b33f0a57de1b4c9fed7de1542e18aceac7ca4c775f6f052a74e96a91c148af"
+
+[[files]]
+file = "kubejs/data/pasturecollector/loot_tables/gameplay/pasture_collector/species/togedemaru.json"
+hash = "20b33f0a57de1b4c9fed7de1542e18aceac7ca4c775f6f052a74e96a91c148af"
+
+[[files]]
+file = "kubejs/data/pasturecollector/loot_tables/gameplay/pasture_collector/species/varoom.json"
+hash = "20b33f0a57de1b4c9fed7de1542e18aceac7ca4c775f6f052a74e96a91c148af"
+
+[[files]]
+file = "kubejs/data/pasturecollector/loot_tables/gameplay/pasture_collector/species/zacian.json"
+hash = "20b33f0a57de1b4c9fed7de1542e18aceac7ca4c775f6f052a74e96a91c148af"
+
+[[files]]
+file = "kubejs/data/pasturecollector/loot_tables/gameplay/pasture_collector/species/zamazenta.json"
+hash = "20b33f0a57de1b4c9fed7de1542e18aceac7ca4c775f6f052a74e96a91c148af"
+
+[[files]]
+file = "kubejs/data/spawns/spawn_pool_world/0571_zoroark.json"
+hash = "34509483fb4febb6f097d7a82d6852d400fa31c8096ab29467bbba352cf4dd43"
+
+[[files]]
+file = "kubejs/recipes.js"
+hash = "92e9c0efe3261e3fc60c098d9e6d238d51f1d3e6fe8fb8f5bbf942bbccf81ee1"
+
+[[files]]
+file = "kubejs/server_scripts/recipes.js"
+hash = "d3927dfd2ab4083cb2b4444dbee08ca2a1bcbdbb3d5dadc2fc35672b189bc014"
+
+[[files]]
+file = "kubejs/startup_scripts/items.js"
+hash = "6561d35122d8962bf50bb32fe20be184258736570dac963138dba3818c88b7f8"
+
+[[files]]
+file = "kubejs/startup_scripts/stages.js"
+hash = "a9db75bc0726022ad63b13a8aaabfb821e7cbc7b27bd60ffa0beecd1da947e56"
+
+[[files]]
+file = "mods/actually-unbreaking-forge.pw.toml"
+hash = "7be6087625a176c442935b8decb21d5ffda7f59f3f5de8183c03bb77d104f642"
+metafile = true
+
+[[files]]
+file = "mods/alexs-caves.pw.toml"
+hash = "6f864eef65f9a38f57eb0cc6fc71469b36ea70444a10c3e27502d617c5eaf917"
+metafile = true
+
+[[files]]
+file = "mods/amendments.pw.toml"
+hash = "06b855a74316c8f1b5ac9b4b13fbaafc5848502d6ec079a394e7e9db596b3ac1"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "8d0321177fed4a0b48554c40158b43db62f6cdaa768f584ef6a11575dfaa6223"
+metafile = true
+
+[[files]]
+file = "mods/aquaculture.pw.toml"
+hash = "4d444c384244a5bc88deb6a7e3ef1e42366cb4dc20557cff7d85fe5302ffafc2"
 metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "8dcfdd556df68cc338bdd9436a4e8face08a08cb114bffc5c66b43c71d80ddbc"
+hash = "8a27a482bf7dbf9b8a96fe9a3e8bf8e08ca1d376c6cf13bccf49f0d5191d56fa"
 metafile = true
 
 [[files]]
-file = "mods/atlantis-api.pw.toml"
-hash = "f330ec1ceb0b32d66c07d2b5be4d54ab9bd0b31193054f6ed92c46fa27643f65"
+file = "mods/artifacts-delight.pw.toml"
+hash = "ed5da8a79b2b7d8be970671a8f0d683239b78cdbbe9dd79f0910b246b743c7b9"
 metafile = true
 
 [[files]]
-file = "mods/autoreglib.pw.toml"
-hash = "9b2088287d126347cb44a539b7104462e0a4aaa0b871577ca13902398f174f52"
+file = "mods/artifacts.pw.toml"
+hash = "a134318c451f60733047a52f23f5a1eeae0a08bbbda824c010e9b77b0a08a824"
 metafile = true
 
 [[files]]
-file = "mods/biomes-o-plenty.pw.toml"
-hash = "f06255716712432059cdbfef6618fd7f33b8d9521563d8c0705f138a422b5030"
+file = "mods/ascension-megamons.pw.toml"
+hash = "2942989f192d9af284af51d455e5e1adeafb8bcdbb3782ab832acbab98236940"
 metafile = true
 
 [[files]]
-file = "mods/bookshelf.pw.toml"
-hash = "47b90fdea54bb7b8b04680eddcddd2aec88603b0db1832356b54b1484e6df1f3"
+file = "mods/balm.pw.toml"
+hash = "eea88ab63ad928dc51440c15efa4b7a00d9c01a186eb0032cc9506d438ce94c5"
 metafile = true
 
 [[files]]
-file = "mods/caves-and-cliffs-backport.pw.toml"
-hash = "b1bef26c615ce448127cfc1a3c6b3d3097bf2058806fe6039820f22fb5e4fddd"
+file = "mods/better-archeology.pw.toml"
+hash = "2adb8c4c9a368dac1980d99180bec4ff1ec51d8c01d73093bcc2610e95803cd9"
 metafile = true
 
 [[files]]
-file = "mods/caves-cliffs-backport-additions.pw.toml"
-hash = "950621b6f5549e573489726de2b50b5912dd0165912640f27b22c829ce551854"
+file = "mods/better-village-forge.pw.toml"
+hash = "9000c242f5c0d1952a733ef45a6d6256f32fbef8cc6e38ac272410e92b1a9bda"
+metafile = true
+
+[[files]]
+file = "mods/citadel.pw.toml"
+hash = "ab769d9c60cfba798a0538bad596e374dc9c68a9c59ad83684afc66ce4ebfe7f"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "d99e4a7801ef0b1cc54c056235608f5d0f38c3365e2825dfbfc6cc868931cbb7"
+hash = "96204145e12506e0625d8b9bfa05aad54e9a62fd511bae39f0d57fcb5e39f4cc"
 metafile = true
 
 [[files]]
-file = "mods/construction-wand.pw.toml"
-hash = "43c3d098af2f3f60ede43808d64ddeb057a019ae91096c144a3c9ea80d330bb2"
+file = "mods/cobbledollars.pw.toml"
+hash = "5f93b1490c37cce851bad96f4db696a735f44f651f9e503f6dad19c659b86363"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-counter.pw.toml"
+hash = "b69d5be5008d72fa28378a8b8514a1e09a2622da4e2807559b998721c7d99a9f"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-droploottables.pw.toml"
+hash = "063b18a8e28c5a5fbd8a62c78326be1b608c7da318010c0df8d8809668717c39"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-field-moves.pw.toml"
+hash = "037856c3b71862ad92c14d5dc40d3bf0bf5a4a272073f3bbae53b4a0251c696e"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-fight-or-flight.pw.toml"
+hash = "ef0a7e2433686033c615ccea1186639d95fbc3ef8e0199b4ac23b5c1111ea8c5"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-hunt.pw.toml"
+hash = "291f4d2b738eccbbeee023f7b03c6ea7e3beedd98e7f347f299d53990ad6e8d6"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-integrations.pw.toml"
+hash = "90a15548c036aefca495ef5a656e41b9e681c53c11f9f1c762899ac35d11f5e7"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-mike-skills.pw.toml"
+hash = "8d31363386451279ffefd1b6b7dcc2e84128d6254e16b4d76473761923dd2e3b"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-myths-and-legends-sidemod.pw.toml"
+hash = "66650176508f2a788427a09053e8ff2d24695e4cccfcb871a998532d2753f05b"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-pasturecollector.pw.toml"
+hash = "6601beb75a82531c6f1ace9c10e54906b61680caaf94342ca35b64986c732ef7"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-quests.pw.toml"
+hash = "3830658be344b39459fa4733bf102b4eea0fe14ce9ff8726ca97b85477b1e157"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-spawn-notification.pw.toml"
+hash = "260f0884c42670aa74d5e5c7eb27a2c53a12ca3eb90e70c5a679f499f9c9d27d"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-unchained.pw.toml"
+hash = "e9609281b4fc80f4b23cb872070b35f925888038e3068afe83fb100102b2aabf"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon.pw.toml"
+hash = "0621007244610a61d09b567870101acc836b84bf965ff4ce6538d44140bcbffb"
+metafile = true
+
+[[files]]
+file = "mods/cobblemonrider.pw.toml"
+hash = "c4fb28b07b296338715faf16203b04d19e779ea77edb6f27937351d5d809f6a7"
+metafile = true
+
+[[files]]
+file = "mods/cobblemontrainers.pw.toml"
+hash = "22eba104dc71fa3dc2b5e34dd2053d59e6412155f3f0d0e963daa541b0f35768"
+metafile = true
+
+[[files]]
+file = "mods/cobgyms.pw.toml"
+hash = "b81a5ee89462fb714157f9a9dca858e8ce8437efe0f77c5baedaeb468cda3836"
 metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "9f7b30ba4cac4e9b668fd1bd54ce57cdf9e3f3aaf81d23195a330b9a4162e15f"
+hash = "1e56f528d8e21b0cf9c52c3d6deea2a4eafa408170b39a070195dbf66617f373"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-fps-3.4.3+minecraft-1.16.5-forge.jar"
-hash = "8fca78c2f0f85130968dc93a6b986df5745c3b4020c83e650c8e1667d8b20634"
+file = "mods/corgilib.pw.toml"
+hash = "81781a2ccd1c5062eabaa5c84798d805698b14e4ce1eab24e628e1165a4429c3"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "126296e6909419c15709e2458a5a8966ba2b07acaaa0c0692030b6d4de4c84a6"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "750841548ae0990fca6a11691760b394623d3316bc1eaad47ad7ee0ec5a906c9"
+metafile = true
+
+[[files]]
+file = "mods/default-options.pw.toml"
+hash = "1cb1ed842db59e479dc2b21cf8afb8eeb9ff4577d292e6b51ed8df98e24411d5"
+metafile = true
+
+[[files]]
+file = "mods/delightful.pw.toml"
+hash = "fc20d34af9a5f3b8b3b6d9b0f64fe2e6b23a3720c8e64bdd7ae9cf1bf2ff138a"
+metafile = true
+
+[[files]]
+file = "mods/display-delight.pw.toml"
+hash = "14ab9ad331b0c407101a5f9404efa579cc49288c448e49a4ef7e057ace35ca51"
+metafile = true
+
+[[files]]
+file = "mods/drp-global-datapack.pw.toml"
+hash = "e10ad8b56bdc0b6ad36551004d7d5cde964cf6ea232dd356c3d2b99982715a70"
+metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "e5ade4db57b168c7b5ecd3b65c3497dd348605a08bd03ce674f709ed029de81a"
+hash = "a1575677daaaf6ea6dac12e5a10073e34025e5ca2c35b6d36ad4a5a0edbc0e82"
+metafile = true
+
+[[files]]
+file = "mods/engineers-delight.pw.toml"
+hash = "fcce32869824beb18fd42646fdad37a390c815e660213fdee8b11fc0ddd21c51"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-celestials.pw.toml"
+hash = "7da34e928c36859509aee8e84d083f6936d92cefd44ab30ecc3abcb8b5da0018"
+metafile = true
+
+[[files]]
+file = "mods/every-compat.pw.toml"
+hash = "6784fd2fda58aabfc79605291c822dd0965e86578a33bc9736011af3c83b54f0"
+metafile = true
+
+[[files]]
+file = "mods/explorers-compass.pw.toml"
+hash = "0ba2a01934d2de588071ac5a5281dd9a29fc46166fe6b9f99a809a70fe1a6668"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "07048e5b3b88feb43dfe6ec83ed7bc8669bbee1b60e6814ac5b243e252442e3e"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "33a72d14d33abd2bd32d2f2986930ae58a8d6dde581656a08b466df10d0250e8"
 metafile = true
 
 [[files]]
 file = "mods/ferritecore.pw.toml"
-hash = "d31e0d7a5de682cf8456af67efcfb0443a0f5295da54db4f357cba6932c6069c"
+hash = "5bd0506bc0be25116b234f2b5af9447f60d82ae1cb6c5be4e12d8841f6c2501c"
+metafile = true
+
+[[files]]
+file = "mods/festive-delight.pw.toml"
+hash = "865f26c796d9fa6aab98b8e400bf2a67a7a586432317430bef8d8af8cf028a4e"
+metafile = true
+
+[[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "b4d64555fb1bcf9e3b4bf3554a5e77b04ed1db5ca8f11f647f5a458c6439d4c3"
 metafile = true
 
 [[files]]
 file = "mods/ftb-chunks-forge.pw.toml"
-hash = "8ce523776b15b06d6b626be20535469380633e57b2edf521c44d6c25b3cc8fbf"
-metafile = true
-
-[[files]]
-file = "mods/ftb-essentials-forge.pw.toml"
-hash = "94475237f8117fcbc8ed5c7649c4095e8518a2de657340bc507520ffd0a4944b"
+hash = "284814af680b018f2a4e83dcd3dedb77717177530df21de58e191d36e3e35a37"
 metafile = true
 
 [[files]]
 file = "mods/ftb-library-forge.pw.toml"
-hash = "d0a16178788e4654888451ccd63ab9162f615415878c4252016f47194fc03ce5"
+hash = "6e12f6c7549e2a4029c61d6849b187d6ec26c286ac216ad2db64178c0f495615"
 metafile = true
 
 [[files]]
 file = "mods/ftb-quests-forge.pw.toml"
-hash = "18d5f2986bb65ff6675b5e367a0bcca9d375766d3e3e94f9ed2026e9e28cf058"
+hash = "f40a0b281164f4d406e19ff256d88e1a96f9c380f47699ad6cea30926699dc5a"
+metafile = true
+
+[[files]]
+file = "mods/ftb-ranks-forge.pw.toml"
+hash = "6d4a92463401c5452fd11c1f71f7b049b3564b1f53f69a74b54302e981415465"
 metafile = true
 
 [[files]]
 file = "mods/ftb-teams-forge.pw.toml"
-hash = "ebbac41c71dd200a717260e4993be59c0d2ac6c9e9a784aa8c84a21cf27c9924"
+hash = "76c3828b4e7288b79d6b0ca1418410539082a749650f9c85c6b03cf53ed1221e"
 metafile = true
 
 [[files]]
 file = "mods/ftb-ultimine-forge.pw.toml"
-hash = "e0e30a4e0d7f65fb27c9d8b395c49d6e8dca35040e7572b8382b698e1a3d5def"
+hash = "5d5819b14f3e0088d99e82f2a6b2f77df2b566726c9380b89b858b4246c69d25"
 metafile = true
 
 [[files]]
-file = "mods/game-stages.pw.toml"
-hash = "0725a8cfd4588fd15b5ee149124a93a388cfafddad5a78bbc5626ba4c5053c76"
+file = "mods/gooeylibs.pw.toml"
+hash = "ee677affd70a368b19bf75587dfdeacc197911bf98c34ee22ec868a0b65a6a12"
 metafile = true
 
 [[files]]
-file = "mods/i-like-wood-biomes-o-plenty-plugin.pw.toml"
-hash = "014d0aae54eae8902fd56a8416a695a67dd8a449b02aae4c0820936f0734b8d5"
+file = "mods/hourglass.pw.toml"
+hash = "fbb371c2bb573d6d84600f10937f535b7f19f7df6e536f25b7b4e46471c32904"
 metafile = true
 
 [[files]]
-file = "mods/i-like-wood.pw.toml"
-hash = "30035d21c32f02e154de55f0a5b82a7f66c3e6ca5df337b083379fa7098a5224"
+file = "mods/immersive-engineering.pw.toml"
+hash = "5508a5c035dffcb22c6ff5b2a52235f753fc4361221be8b97c25b8650efefba6"
+metafile = true
+
+[[files]]
+file = "mods/immersive-paintings.pw.toml"
+hash = "9bd757c1ac41f77280b388da33a76fec9712c8f15cf914a13e5e664773191d1a"
+metafile = true
+
+[[files]]
+file = "mods/impactor.pw.toml"
+hash = "71eeaa928425e0dbd48aa2caa5a8b36e18c263ba57522ba510927d2a88ba9a49"
 metafile = true
 
 [[files]]
 file = "mods/item-filters.pw.toml"
-hash = "3a2ad9ada10bb2b86ebce984b6755129b22dcca2d9d03faded820be2bed5c368"
+hash = "ff92eddb2bf6f1afe9fa7fc73d63ea9419e0cff77fbd4fd2936b51525fe9340c"
 metafile = true
 
 [[files]]
-file = "mods/lazy-dfu-forge.pw.toml"
-hash = "4cbade87fef39ba34f9b459b8d238fa761901c4817db0564ef4dae1a06e4b832"
+file = "mods/jade.pw.toml"
+hash = "de3310ed1f65e3efa94a7112501307d6439822c7b080c472363e4a3b7eb2e94c"
 metafile = true
 
 [[files]]
-file = "mods/lollipop.pw.toml"
-hash = "791824d4a79bdaf7927ca25af047dce4e952250574c71e3bfa1c10ccbe480b6a"
+file = "mods/jei.pw.toml"
+hash = "60813bd83b6042f9c218e718a990e81757681f19d6a4b9b3860f529c8b651960"
+metafile = true
+
+[[files]]
+file = "mods/joy-of-painting.pw.toml"
+hash = "7142644b6ee70047ec0eec880a44050cf4fd7e42c94f93dbe85ea7630f2d4500"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "ba6600d024f257ff40d4fca84e87fc553d5853b6c71f666d8597891d611b62f0"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "40026875ee9b7d25a4ece48faa2b70a338100e87a689d5a8d4ba1ee608b878f6"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "873d23ad2ce05e3e92a05e011f3f9a375a745a4ca6ed4c9fffb0518fc8255bf7"
+metafile = true
+
+[[files]]
+file = "mods/large-meals-an-add-on-for-farmers-delight.pw.toml"
+hash = "d9e28a88298365e72968ede3fb229d77ea8ca80b6878ff5b84bd807e783538d9"
+metafile = true
+
+[[files]]
+file = "mods/library-ferret-forge.pw.toml"
+hash = "207ea5c3ad00aee495de4d614c504d443c141068a2ddf0554f5a7829923cfeec"
+metafile = true
+
+[[files]]
+file = "mods/little-tractor.pw.toml"
+hash = "18dad459fb2cc7a443e4b754c838493b2f0ff74ea14fc600e8ff1504a03d0dd4"
+metafile = true
+
+[[files]]
+file = "mods/littletiles.pw.toml"
+hash = "e66049288552e1717f96d80f92cb14cbd99d4b615165d079a2bfcfb6e78f50d9"
 metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "a72158e9e5097394b74262435d7c616b1f7a80c2344533e22f574f5e26ae20a3"
+hash = "cd4fe8b667d14c946028050cf9e4c3367868f79d9f429ec18eb47cce34e021a3"
 metafile = true
 
 [[files]]
-file = "mods/lost-trinkets.pw.toml"
-hash = "7d40fa371131ed154d94b1437a5972eecf4522f31668a937625637017fba6191"
+file = "mods/melody.pw.toml"
+hash = "0b9cc190139b0eb2d5f0153f05717ed53edd499ad2a3eeee99ea75d22fd0ef1c"
 metafile = true
 
 [[files]]
-file = "mods/modernfix.pw.toml"
-hash = "51dc53e992f2316e8e7533b4352227d2cf7324b565cd59a5e6fd697f0dc6460e"
+file = "mods/miners-delight-plus.pw.toml"
+hash = "8a459a2534f09d18581fa154a84f428b1eaf1721fc8493ebe1e80df490e7502c"
 metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "04a92a819f7c3dff89382baf5c5fb25c1386da08ead8510ea009aa1ccc8daf02"
+hash = "e72f73611904e14d915418f0e3c6cb483cdc600e211375c2eceb393fec5b80f1"
 metafile = true
 
 [[files]]
-file = "mods/open-loader.pw.toml"
-hash = "4f3908766646751f4e44742f087ab2ca71b808967e50cc4ba6e41d692164a343"
+file = "mods/natures-compass.pw.toml"
+hash = "464e83a35e22e9bbdf7be38cf7a7a98c39462a0a50b01d2a1355bcae9167ea7a"
 metafile = true
 
 [[files]]
-file = "mods/pixelcringe-pixelmon-patches.pw.toml"
-hash = "3aeb0a39086e39c1c5dfdc09214497fe46029eda50db07f60e518e765521accb"
+file = "mods/octo-lib.pw.toml"
+hash = "299d07d605497fd0f4cc5f32a76cf657fda8a84813816fa24c4a05d9f846c3cb"
 metafile = true
 
 [[files]]
-file = "mods/pixelmon.pw.toml"
-hash = "6f05a6370d2a8d88a41038654718e426f261dc6f3169669d4ec0f6d6d575e8e6"
+file = "mods/oculus.pw.toml"
+hash = "5ef885f9912ff6aa73db254b63a3cd22520f06261bc3c38e7c92f449806a9044"
 metafile = true
 
 [[files]]
-file = "mods/pixeltweaks.pw.toml"
-hash = "50f33253e1282724f1fab4e6da4f32b524ae72c3f47d1b9b64a55ffe2079a86f"
+file = "mods/patchouli.pw.toml"
+hash = "3a7eaa64434e7449e5fe6bd089bc784499432dae7d6ca07174b55b10a3b32ec8"
 metafile = true
 
 [[files]]
-file = "mods/placebo.pw.toml"
-hash = "8909f6b209fce7c52d625bc9ad4cb5b2116e4823dd75a71e9a8f5a546d1d0f94"
+file = "mods/pkgbadges.pw.toml"
+hash = "84d01d5821db0caed01738ccdc693d34e23bc098d65754f366f3708c5e28018f"
 metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "6d7e21afb6345e8f99bae1903c69141134fd10a773d5f431145a1f83cd1887ae"
+hash = "d92b242de1f5ba59226bbe69a6567493434874ecb63413fec62d82b43f081f4e"
 metafile = true
 
 [[files]]
-file = "mods/roughly-enough-items.pw.toml"
-hash = "6685b6a156df8850e8c677e44c6bc2e605381b898b031236fd1f5e0edd9b4dde"
+file = "mods/rac-compat.pw.toml"
+hash = "2ede7f8e9ed0c1f77cd2c4cc777733f2687fb2af310b34ae477887d19ef791fa"
 metafile = true
 
 [[files]]
-file = "mods/scaffolding-behavior.pw.toml"
-hash = "bb8563cfbc42954702ca8f999996f811d9c4ad405aebcd8fd36aec26c928c580"
+file = "mods/rar-compat.pw.toml"
+hash = "b5ea11a7331ba6b6237fdc3c9dc07a172e064dcec56fa5824aee616de8bc827c"
+metafile = true
+
+[[files]]
+file = "mods/rctmod.pw.toml"
+hash = "ac15e123b26aa1886220889fd9ab8fd24f0cefb38f249f7b86db7b438ef945f3"
+metafile = true
+
+[[files]]
+file = "mods/regions-unexplored.pw.toml"
+hash = "90b121a91bd521fbe23b396f7211da0ffe0aecaa003394604fe8e69dab29ed9c"
+metafile = true
+
+[[files]]
+file = "mods/relics-mod.pw.toml"
+hash = "ff89a9e8c6f80a1fcf53e218d5c8864e6080502f8943731e17cd66ffa5363f04"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "d218175a2fc0fd2fdb907ed55a214f0163d9bcabb75b47ccdb6f4704c3bd5dd0"
 metafile = true
 
 [[files]]
 file = "mods/searchables.pw.toml"
-hash = "d330360e64d17b89882a0374519fb81c42c850a9c7a9b05454a348ceb132890f"
+hash = "2cb8dd9a3944a6430b49916a4fe1b6cf0bd7efd907054f8e679a02717149404f"
 metafile = true
 
 [[files]]
-file = "mods/simplecavebiomes.pw.toml"
-hash = "689bee61af212fd1bd75ff944bd0de12a6b7b5c5821d469f57a6c75345b23702"
+file = "mods/selene.pw.toml"
+hash = "9602873bec29d5f1b682bb24eb54a64a0e549e54af657ab8138302237d642fe8"
 metafile = true
 
 [[files]]
-file = "mods/terraforged.pw.toml"
-hash = "7bbf54434862a6dd542312aad3b18ae97a52a6c3aa09abaff23015ccb50674e0"
+file = "mods/simpletms-tms-and-trs-for-cobblemon.pw.toml"
+hash = "8ba1d854f55045e94436ee9dcec2eba987b22a4d89790c70ac3405dceda2ee71"
 metafile = true
 
 [[files]]
-file = "mods/toast-control.pw.toml"
-hash = "bad023f10c1f3d68273578e04239f7f97abd8af557744c36c848583b3996fc67"
+file = "mods/sinytra-connector.pw.toml"
+hash = "0eab5a7036d1f06d6a7d4679685eaec5723a5c21469f519de1cd1e0ff416ade3"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "1abd27aa185c9b2719bf95c12b10413dd5076f4a8cb5640e414982f7bd739053"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "b3b3e57782d4b17c41bd2e5c3da7cc11cb836b8c42f96e0042dbe0074448620d"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage.pw.toml"
+hash = "61d30025a317d3bed53b25258c87d4ef181aca16aecf7cfa036a7a03832e3409"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "3eede8a7ebafb69840153ff51dbc879b0232799e90a834ab6d71274b1316179f"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "723383140ebcc04db20bb47a2d5dc5667894ed4f12605ec63488dba9de608eaf"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "97175f71f202d2d47a5828568c9f53339952a1c20b09378bdf5ad34557a8b4be"
+metafile = true
+
+[[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "7961f44c96ad9f6f5f127611959c4b89f60be54ad103a2c436157d7c62a1393e"
+metafile = true
+
+[[files]]
+file = "mods/tomtarus-cobblemon-farmers-delight-tweaks.pw.toml"
+hash = "94b405d30a1741f15d0da6a64dd570c6313f4bc1582b0aabd002c191a0a9ef0c"
+metafile = true
+
+[[files]]
+file = "mods/tomtarus-cobblemon-immersive-engineering-tweaks.pw.toml"
+hash = "9e10a95eb088962ed1a748af74b7beff45cbe736ca99a67ac0d3d681b311df51"
+metafile = true
+
+[[files]]
+file = "mods/torchmaster.pw.toml"
+hash = "51e82d9320effbd610ccfe4571c048c7d0f9c98362b9884faabfaa6f63aa9737"
 metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "4931c4e65980ea1a95a61b35b18e7e893d59befce9c0764c387aa7773c44b15f"
+hash = "82ef1258b8647dd8ce061f25f35e8913fa3e98fe291157ef4a13eac42fa7f2b8"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap-world-map-waystones-compability.pw.toml"
+hash = "8d36634238df44d710194c2e7bd99a58387e15a0a1a0d25edd1edc1829a00650"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "987f80c0128d1364d3580ec1dab6aa5bdd7e5585f45a26c047cb83b20a5fef6f"
+hash = "f1b130bfacad77032c6dc45119ecda63ea7189a71206853a1ba6c344d77d2280"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "efdb77d82fa0320f8b5ac03e3d9b7f0bb30a170d60bf7819c71b449d7f3f9538"
+hash = "54ad33cf1eb06e8bd5179706f90eedbda07eb60216f1bd40017c205caa2fbf4e"
 metafile = true
 
 [[files]]
 file = "mods/yungs-api.pw.toml"
-hash = "d3631df0e5d46e75045a781efe2eda7ccbadc70c775dea298f6f5516e4f4dd74"
+hash = "d0d14c38427cf19c6f1244d4a6a0d05ad1a3d22d9f8b4f0eb083cef7f2ad407d"
 metafile = true
 
 [[files]]
-file = "mods/yungs-better-caves.pw.toml"
-hash = "079d56336fdf5fd836e31f067fe0cc1c38e8465274aea6e5ebed53397560513b"
+file = "mods/zeta.pw.toml"
+hash = "583961055f3e588845076ace49394c9ca830706a73eb1b4a4cbfe4db9f0950e9"
 metafile = true
 
 [[files]]
-file = "unsup.toml"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+file = "resourcepacks/allthemons.pw.toml"
+hash = "049e16bfbfb84a087f3f48f5a4476d37af6373afb2a88f9a446c4a742d4da6c4"
+metafile = true
+
+[[files]]
+file = "resourcepacks/rct-trainer-textures-plus.pw.toml"
+hash = "c647e5ee1dd9d683ce0a5442eb0248aab7df65d06c4ed9dba5fe48a125baf6a0"
+metafile = true
+
+[[files]]
+file = "resourcepacks/xaeroscobblemon.pw.toml"
+hash = "ede809a0206f2ba11837685bb475d1a2a708a2ed642da95bacbd858f852ddbf2"
+metafile = true
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.3.zip.txt"
+hash = "6d29652f223e58b49a561abf54c4f5a576fd1df31cc4584ef836984d76d31565"
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "59da31b1a0add66422b1e86676db55efe0864c91abc6706203282f213062269a"
+metafile = true

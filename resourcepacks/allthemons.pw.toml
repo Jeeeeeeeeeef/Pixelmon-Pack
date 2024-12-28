@@ -1,0 +1,13 @@
+name = "AllTheMons [Cobblemon Addon]"
+filename = "AllTheMons Release 8.1 V127.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JV5dvqVX/versions/gIswYSHF/AllTheMons%20Release%208.1%20V127.zip"
+hash-format = "sha1"
+hash = "35de0192b2b2ef2aecfc3fd4186c8055ee6aa592"
+
+[update]
+[update.modrinth]
+mod-id = "JV5dvqVX"
+version = "gIswYSHF"

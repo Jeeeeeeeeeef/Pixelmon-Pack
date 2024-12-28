@@ -1,14 +1,16 @@
-name = "Pixelpacked"
+name = "CobblePacked"
 author = "Jeef"
-version = "1.0.3"
+version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "99059b9f85fc6864e225cad710fafc81fd0a1aa2b6f1d13f51f9026f94c5ec25"
+hash = "7398b75a6ed80ac62740fd9399308c58109e440f72e7d35cb9ccaf82096114de"
 
 [versions]
-forge = "36.2.34"
-minecraft = "1.16.5"
-unsup = "0.2.3"
+forge = "47.3.12"
+minecraft = "1.20.1"
+
+[options]
+datapack-folder = "datapacks/"

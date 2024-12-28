@@ -1,0 +1,13 @@
+name = "PKGBadges / CobbleBadges (Fabric & Forge)"
+filename = "PKGBadges 5.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dad324ac43f5b36c17d5adee8e1764a7acc3a82f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5441760
+project-id = 889895

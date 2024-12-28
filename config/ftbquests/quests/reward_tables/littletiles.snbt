@@ -1,0 +1,79 @@
+{
+	id: "400D4EAF222961C2"
+	loot_size: 1
+	order_index: 3
+	rewards: [
+		{
+			item: {
+				Count: 1
+				id: "littletiles:hammer"
+				tag: { }
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "littletiles:chisel"
+				tag: {
+					element: {
+						c: -1
+						s: "minecraft:stone"
+					}
+				}
+			}
+		}
+		{
+			count: 16
+			item: {
+				Count: 1
+				id: "littletiles:blueprint"
+				tag: {
+					c: { }
+				}
+			}
+		}
+		{ item: "littletiles:bag" }
+		{
+			item: {
+				Count: 1
+				id: "littletiles:glove"
+				tag: {
+					element: {
+						c: -1
+						s: "minecraft:stone"
+					}
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "littletiles:paint_brush"
+				tag: {
+					color: -1
+				}
+			}
+		}
+		{ item: "littletiles:saw" }
+		{
+			item: {
+				Count: 1
+				id: "littletiles:screwdriver"
+				tag: { }
+			}
+		}
+		{ item: "littletiles:wrench" }
+		{
+			item: {
+				Count: 1
+				id: "littletiles:premade"
+				tag: {
+					s: {
+						id: "workbench"
+					}
+				}
+			}
+		}
+	]
+	title: "littletiles"
+}

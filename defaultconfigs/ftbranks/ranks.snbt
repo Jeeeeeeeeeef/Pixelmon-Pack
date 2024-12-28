@@ -1,0 +1,17 @@
+{
+	member: {
+		name: "Member"
+		power: 1
+		condition: "always_active"
+	}
+	ultimine_upgrade1: {
+		name: "ultimine_upgrade1"
+		power: 2
+		ftbultimine.max_blocks: 16
+	}
+	ultimine_upgrade2: {
+		name: "ultimine_upgrade2"
+		power: 3
+		ftbultimine.max_blocks: 64
+	}
+}

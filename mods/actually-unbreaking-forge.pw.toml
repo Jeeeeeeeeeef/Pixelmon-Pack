@@ -1,0 +1,13 @@
+name = "Actually Unbreaking [Forge]"
+filename = "actuallyunbreaking-1.20.1-0.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "21b3ca30390073d88db19e7d9baef3b7c6e1a966"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5216493
+project-id = 440049

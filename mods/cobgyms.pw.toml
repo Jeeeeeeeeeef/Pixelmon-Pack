@@ -1,0 +1,13 @@
+name = "CobGyms - Unofficial Cobblemon Gyms"
+filename = "cobgyms-forge-2.0.2+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f9c060601ea89e2b6c40258a7f1b7ddbfd95ee34"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5779109
+project-id = 1106950

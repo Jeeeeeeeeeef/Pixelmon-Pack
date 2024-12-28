@@ -1,0 +1,10 @@
+{
+	id: "304FBF22A13BD7A7"
+	loot_size: 1
+	order_index: 5
+	rewards: [
+		{ count: 8, item: "minecraft:torchflower_seeds" }
+		{ count: 8, item: "minecraft:pitcher_pod" }
+	]
+	title: "sniffer"
+}

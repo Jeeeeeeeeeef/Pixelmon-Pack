@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:generic",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "droploottables:pokemon_type",
+          "element": "steel"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "kubejs:protosteel_ingot",
+          "weight": 1
+        }
+      ],
+      "rolls": 1.0
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+name = "Cobblemon: Biosphere Expanded"
+filename = "Additional Biome Mods Compat.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/X3MPimby/versions/68wPEBLj/Additional%20Biome%20Mods%20Compat.zip"
+hash-format = "sha1"
+hash = "ed2567c1665f0ba11f391849e950e4d6f0b4450b"
+
+[update]
+[update.modrinth]
+mod-id = "X3MPimby"
+version = "68wPEBLj"

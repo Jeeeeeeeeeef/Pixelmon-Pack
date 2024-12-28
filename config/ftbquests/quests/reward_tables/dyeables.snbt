@@ -1,0 +1,25 @@
+{
+	id: "07E0CD0E750176F9"
+	loot_size: 1
+	order_index: 1
+	rewards: [
+		{ count: 64, item: "minecraft:white_wool" }
+		{ count: 64, item: "minecraft:terracotta" }
+		{ count: 64, item: "minecraft:white_concrete" }
+		{ count: 64, item: "minecraft:white_concrete_powder" }
+		{ count: 64, item: "minecraft:glass" }
+		{ count: 64, item: "minecraft:candle" }
+		{ count: 16, item: "minecraft:white_banner" }
+		{ count: 64, item: "minecraft:white_glazed_terracotta" }
+		{ count: 64, item: "littletiles:colored_clean" }
+		{ count: 64, item: "littletiles:colored_floor" }
+		{ count: 64, item: "littletiles:colored_grainy_big" }
+		{ count: 64, item: "littletiles:colored_grainy" }
+		{ count: 64, item: "littletiles:colored_grainy_low" }
+		{ count: 64, item: "littletiles:colored_brick" }
+		{ count: 64, item: "littletiles:colored_brick_big" }
+		{ count: 64, item: "littletiles:colored_bordered" }
+		{ count: 64, item: "littletiles:colored_chiseled" }
+	]
+	title: "dyeables"
+}

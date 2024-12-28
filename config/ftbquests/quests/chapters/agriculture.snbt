@@ -1,0 +1,2183 @@
+{
+	default_hide_dependency_lines: true
+	default_quest_shape: ""
+	filename: "agriculture"
+	group: ""
+	icon: "cobblemon:vivichoke_seeds"
+	id: "696C4D3F4046BC1E"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["4B13C89F6A919D78"]
+			id: "7FA6BA4D276E17BB"
+			rewards: [
+				{
+					id: "6F27D5D4EDF90409"
+					item: "cobblemon:relic_coin_pouch"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "0034F71A69DDA55F"
+					item: "cobblemon:relic_coin"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "390DAA6115517102"
+				item: "cobblemon:aguav_berry"
+				type: "item"
+			}]
+			x: 12.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["4B13C89F6A919D78"]
+			id: "3EEA87AB5ED62291"
+			rewards: [
+				{
+					id: "76811C1FE7B1CA05"
+					item: "cobblemon:relic_coin_pouch"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "35A394A1FA6E384B"
+					item: "cobblemon:relic_coin"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "5D71A56AEEA1BF00"
+				item: "cobblemon:apicot_berry"
+				type: "item"
+			}]
+			x: 14.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["4B13C89F6A919D78"]
+			id: "3CE99A76351658E5"
+			rewards: [
+				{
+					id: "2E4809CE467462BC"
+					item: "cobblemon:relic_coin_pouch"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "218CC9E1A424F37E"
+					item: "cobblemon:relic_coin"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "46F98D726EFFB57D"
+				item: "cobblemon:aspear_berry"
+				type: "item"
+			}]
+			x: 17.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["4B13C89F6A919D78"]
+			id: "59FE67C97D90576C"
+			rewards: [
+				{
+					id: "2753A5A82D742318"
+					item: "cobblemon:relic_coin_pouch"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "71D2F2FB06A599F9"
+					item: "cobblemon:relic_coin"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "10023414AE800FF8"
+				item: "cobblemon:babiri_berry"
+				type: "item"
+			}]
+			x: 20.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["4B13C89F6A919D78"]
+			id: "0CACD0765CD01111"
+			rewards: [
+				{
+					id: "598CE0F61E6DA058"
+					item: "cobblemon:relic_coin_pouch"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "78DDB2B3CC698267"
+					item: "cobblemon:relic_coin"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "77BD515A129C11B3"
+				item: "cobblemon:belue_berry"
+				type: "item"
+			}]
+			x: 15.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["4B13C89F6A919D78"]
+			id: "66D2B9B2604AAA1B"
+			rewards: [
+				{
+					id: "3C6F8DAD459E1381"
+					item: "cobblemon:relic_coin_pouch"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "12CA213EDCD8E42B"
+					item: "cobblemon:relic_coin"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "07F5F51BF701D837"
+				item: "cobblemon:bluk_berry"
+				type: "item"
+			}]
+			x: 14.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["4B13C89F6A919D78"]
+			id: "12BB84328B2AFDA0"
+			rewards: [
+				{
+					id: "662553D00808152B"
+					item: "cobblemon:relic_coin_pouch"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "248484B017288ABF"
+					item: "cobblemon:relic_coin"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "3431BB493034E134"
+				item: "cobblemon:charti_berry"
+				type: "item"
+			}]
+			x: 16.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["4B13C89F6A919D78"]
+			id: "62306A3D5308F7C8"
+			rewards: [
+				{
+					id: "1627A3505003B465"
+					item: "cobblemon:relic_coin_pouch"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "0ADD058289FD2AF3"
+					item: "cobblemon:relic_coin"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "301C027B45FED402"
+				item: "cobblemon:cheri_berry"
+				type: "item"
+			}]
+			x: 12.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["4B13C89F6A919D78"]
+			id: "0A4067BE5AD91480"
+			rewards: [
+				{
+					id: "04BE5AB66719F383"
+					item: "cobblemon:relic_coin_pouch"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "47316327CAD3F77A"
+					item: "cobblemon:relic_coin"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "186D5020950ABDE6"
+				item: "cobblemon:chesto_berry"
+				type: "item"
+			}]
+			x: 16.0d
+			y: 10.5d
+		}
+		{
+			dependencies: ["4B13C89F6A919D78"]
+			id: "0BB7E5987331F79B"
+			rewards: [
+				{
+					id: "6EB7FF0AEDB5E530"
+					item: "cobblemon:relic_coin_pouch"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "5F255E851536F96E"
+					item: "cobblemon:relic_coin"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "7025A615524F54B6"
+				item: "cobblemon:chilan_berry"
+				type: "item"
+			}]
+			x: 17.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["4B13C89F6A919D78"]
+			id: "11DAE4AADA79A254"
+			rewards: [
+				{
+					id: "40C7ECAF159A0C29"
+					item: "cobblemon:relic_coin_pouch"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "220DF4711DF3F8CA"
+					item: "cobblemon:relic_coin"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "29652AE6D25CA6EB"
+				item: "cobblemon:chople_berry"
+				type: "item"
+			}]
+			x: 17.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["4B13C89F6A919D78"]
+			id: "2F00340EE919265D"
+			rewards: [
+				{
+					id: "0B82C12FBA58558C"
+					item: "cobblemon:relic_coin_pouch"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "299968398217F4EF"
+					item: "cobblemon:relic_coin"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "65BF73A899B6F3DC"
+				item: "cobblemon:coba_berry"
+				type: "item"
+			}]
+			x: 18.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["4B13C89F6A919D78"]
+			id: "3D60378BFB3B2EA5"
+			rewards: [
+				{
+					id: "7CC7E56F0CEDBC53"
+					item: "cobblemon:relic_coin_pouch"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "2D81E1DFD04ED2E0"
+					item: "cobblemon:relic_coin"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "4E30CE21BDE45A5D"
+				item: "cobblemon:colbur_berry"
+				type: "item"
+			}]
+			x: 17.0d
+			y: 8.5d
+		}
+		{
+			dependencies: ["4B13C89F6A919D78"]
+			id: "278682B9B51A0529"
+			rewards: [
+				{
+					id: "27F36AADF901D85F"
+					item: "cobblemon:relic_coin_pouch"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "06C5BA28DB6646FB"
+					item: "cobblemon:relic_coin"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "6CDD3F2668D66ECE"
+				item: "cobblemon:cornn_berry"
+				type: "item"
+			}]
+			x: 18.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["4B13C89F6A919D78"]
+			id: "4D980E268B9717FA"
+			rewards: [
+				{
+					id: "758E736847781CF7"
+					item: "cobblemon:relic_coin_pouch"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "7E2E550965CCB12C"
+					item: "cobblemon:relic_coin"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "4CEB668E3C81DDAF"
+				item: "cobblemon:custap_berry"
+				type: "item"
+			}]
+			x: 11.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["4B13C89F6A919D78"]
+			id: "33B00167E9B3DC5E"
+			rewards: [
+				{
+					id: "03446E4F2E48332C"
+					item: "cobblemon:relic_coin_pouch"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "0C63AE2DDFF8187D"
+					item: "cobblemon:relic_coin"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "7F668BA6FADC1375"
+				item: "cobblemon:durin_berry"
+				type: "item"
+			}]
+			x: 20.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["4B13C89F6A919D78"]
+			id: "22BF437F852A2A68"
+			rewards: [
+				{
+					id: "178FB831F17F8D32"
+					item: "cobblemon:relic_coin_pouch"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "20AA12BD8743D020"
+					item: "cobblemon:relic_coin"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "764135B9218D9CF1"
+				item: "cobblemon:enigma_berry"
+				type: "item"
+			}]
+			x: 13.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["4B13C89F6A919D78"]
+			id: "1FA1F95DE563D868"
+			rewards: [
+				{
+					id: "3E82B1A5F729AE54"
+					item: "cobblemon:relic_coin_pouch"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "56DC92214B71C787"
+					item: "cobblemon:relic_coin"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "11A72DC090FA3CE6"
+				item: "cobblemon:figy_berry"
+				type: "item"
+			}]
+			x: 22.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["4B13C89F6A919D78"]
+			id: "1B4E62A63887C178"
+			rewards: [
+				{
+					id: "0393396CB16B61B2"
+					item: "cobblemon:relic_coin_pouch"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "59D295E001160D94"
+					item: "cobblemon:relic_coin"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "3CAF389A089F9477"
+				item: "cobblemon:ganlon_berry"
+				type: "item"
+			}]
+			x: 18.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["4B13C89F6A919D78"]
+			id: "6B2D3ABCE9560A2F"
+			rewards: [
+				{
+					id: "17D604C48D8F5B78"
+					item: "cobblemon:relic_coin_pouch"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "4F0CAD0CB39575C8"
+					item: "cobblemon:relic_coin"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "7BCD56928EF788FE"
+				item: "cobblemon:grepa_berry"
+				type: "item"
+			}]
+			x: 14.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["4B13C89F6A919D78"]
+			id: "612A4238210EF990"
+			rewards: [
+				{
+					id: "0140366989678BAD"
+					item: "cobblemon:relic_coin_pouch"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "6498CE378818F042"
+					item: "cobblemon:relic_coin"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "2C384ED99E821BD9"
+				item: "cobblemon:haban_berry"
+				type: "item"
+			}]
+			x: 14.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["4B13C89F6A919D78"]
+			id: "0B36B0361E24503C"
+			rewards: [
+				{
+					id: "13EE91DC516937A8"
+					item: "cobblemon:relic_coin_pouch"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "52814D57E169BD31"
+					item: "cobblemon:relic_coin"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "5C55DB983E60C19E"
+				item: "cobblemon:hondew_berry"
+				type: "item"
+			}]
+			x: 12.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["4B13C89F6A919D78"]
+			id: "2C496A0A0F9A60CA"
+			rewards: [
+				{
+					id: "2E4E6732B59777B0"
+					item: "cobblemon:relic_coin_pouch"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "26DEE1540B763EE9"
+					item: "cobblemon:relic_coin"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "7F7C24D8A997FD94"
+				item: "cobblemon:hopo_berry"
+				type: "item"
+			}]
+			x: 20.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["4B13C89F6A919D78"]
+			id: "2ED762BB05A308C1"
+			rewards: [
+				{
+					id: "4C81D7630AAF068E"
+					item: "cobblemon:relic_coin_pouch"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "7FEF846A16A27DA8"
+					item: "cobblemon:relic_coin"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "6D511EB2E082A762"
+				item: "cobblemon:iapapa_berry"
+				type: "item"
+			}]
+			x: 20.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["4B13C89F6A919D78"]
+			id: "5800EAA46290840A"
+			rewards: [
+				{
+					id: "3469D705C380724C"
+					item: "cobblemon:relic_coin_pouch"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "7DB1226ED74BF224"
+					item: "cobblemon:relic_coin"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "62545422F723112A"
+				item: "cobblemon:jaboca_berry"
+				type: "item"
+			}]
+			x: 16.0d
+			y: 8.5d
+		}
+		{
+			dependencies: ["4B13C89F6A919D78"]
+			id: "15D3D84EA63C096E"
+			rewards: [
+				{
+					id: "111999441C759C89"
+					item: "cobblemon:relic_coin_pouch"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "48A1803A9EEFE00F"
+					item: "cobblemon:relic_coin"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "2877118D2431C495"
+				item: "cobblemon:kasib_berry"
+				type: "item"
+			}]
+			x: 14.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["4B13C89F6A919D78"]
+			id: "08354C1AA7C71736"
+			rewards: [
+				{
+					id: "5DEA729813360FA8"
+					item: "cobblemon:relic_coin_pouch"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "6F72E73E65A616B0"
+					item: "cobblemon:relic_coin"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "18C94D46ACE73B83"
+				item: "cobblemon:kebia_berry"
+				type: "item"
+			}]
+			x: 15.0d
+			y: 8.5d
+		}
+		{
+			dependencies: ["4B13C89F6A919D78"]
+			id: "4B3B742C60AC2BD8"
+			rewards: [
+				{
+					id: "7B172F52FA81D350"
+					item: "cobblemon:relic_coin_pouch"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "4C172B12643A474C"
+					item: "cobblemon:relic_coin"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "4ABD2F53B7A24817"
+				item: "cobblemon:kee_berry"
+				type: "item"
+			}]
+			x: 21.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["4B13C89F6A919D78"]
+			id: "57E24D295145BFA4"
+			rewards: [
+				{
+					id: "50FBBA17A9E250ED"
+					item: "cobblemon:relic_coin_pouch"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "5E91A9E5BCA64595"
+					item: "cobblemon:relic_coin"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "4F8F1974511D2ECB"
+				item: "cobblemon:kelpsy_berry"
+				type: "item"
+			}]
+			x: 15.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["4B13C89F6A919D78"]
+			id: "512F3ADDF96913C4"
+			rewards: [
+				{
+					id: "7433125E07E3482E"
+					item: "cobblemon:relic_coin_pouch"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "440710979A106489"
+					item: "cobblemon:relic_coin"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "71D4256F1C4F127A"
+				item: "cobblemon:lansat_berry"
+				type: "item"
+			}]
+			x: 12.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4B13C89F6A919D78"]
+			id: "7F6830F15B556E90"
+			rewards: [
+				{
+					id: "75F26D0DEE3A2C7B"
+					item: "cobblemon:relic_coin_pouch"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "39EFC9D317ADF07A"
+					item: "cobblemon:relic_coin"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "72AD4DF0DE94B513"
+				item: "cobblemon:leppa_berry"
+				type: "item"
+			}]
+			x: 16.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["4B13C89F6A919D78"]
+			id: "44617D2A6AB2563A"
+			rewards: [
+				{
+					id: "621988722FDF7CAA"
+					item: "cobblemon:relic_coin_pouch"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "2FBE8F70483EA141"
+					item: "cobblemon:relic_coin"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "3CC051DBB17F6E69"
+				item: "cobblemon:liechi_berry"
+				type: "item"
+			}]
+			x: 13.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["4B13C89F6A919D78"]
+			id: "3596B371AFA2CF47"
+			rewards: [
+				{
+					id: "56B817D19A176118"
+					item: "cobblemon:relic_coin_pouch"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "67C06BED9DFC38F3"
+					item: "cobblemon:relic_coin"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "4599B2896E52FA14"
+				item: "cobblemon:lum_berry"
+				type: "item"
+			}]
+			x: 13.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["4B13C89F6A919D78"]
+			id: "74E9BD6F1AFD2800"
+			rewards: [
+				{
+					id: "0BF874DACC33668F"
+					item: "cobblemon:relic_coin_pouch"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "362B3168A45350C6"
+					item: "cobblemon:relic_coin"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "714ADCC95E08CFE8"
+				item: "cobblemon:mago_berry"
+				type: "item"
+			}]
+			x: 16.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["4B13C89F6A919D78"]
+			id: "6B7F5A8FCB839D7D"
+			rewards: [
+				{
+					id: "6ECC975972188070"
+					item: "cobblemon:relic_coin_pouch"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "2A5CAE6C2145C2BF"
+					item: "cobblemon:relic_coin"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "3E8A09A6D21A31B3"
+				item: "cobblemon:magost_berry"
+				type: "item"
+			}]
+			x: 19.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["4B13C89F6A919D78"]
+			id: "2BFE7955F7843D9D"
+			rewards: [
+				{
+					id: "3F212826DED8FFE4"
+					item: "cobblemon:relic_coin_pouch"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "3223DEF80A722250"
+					item: "cobblemon:relic_coin"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "4AB24204F6949627"
+				item: "cobblemon:maranga_berry"
+				type: "item"
+			}]
+			x: 15.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["4B13C89F6A919D78"]
+			id: "3023AE99BED9C345"
+			rewards: [
+				{
+					id: "69637A9D2B080116"
+					item: "cobblemon:relic_coin_pouch"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "30AC3892DB30E943"
+					item: "cobblemon:relic_coin"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "1C963AC51C83E002"
+				item: "cobblemon:micle_berry"
+				type: "item"
+			}]
+			x: 19.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4B13C89F6A919D78"]
+			id: "523F267D7C3E5B58"
+			rewards: [
+				{
+					id: "1FBE30218850D6F4"
+					item: "cobblemon:relic_coin_pouch"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "6BF65BAC0C38F6B3"
+					item: "cobblemon:relic_coin"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "4F36820D6D36C977"
+				item: "cobblemon:nanab_berry"
+				type: "item"
+			}]
+			x: 12.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["4B13C89F6A919D78"]
+			id: "3CA7CB0EE97D1836"
+			rewards: [
+				{
+					id: "378817DE9E086BEE"
+					item: "cobblemon:relic_coin_pouch"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "79B6465F9A7A1FF8"
+					item: "cobblemon:relic_coin"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "411B77C9D368EB24"
+				item: "cobblemon:nomel_berry"
+				type: "item"
+			}]
+			x: 10.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["4B13C89F6A919D78"]
+			id: "5E5B6A3750FD5AC7"
+			rewards: [
+				{
+					id: "529D27D9E36F9E46"
+					item: "cobblemon:relic_coin_pouch"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "451F9BCFF7E899F0"
+					item: "cobblemon:relic_coin"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "129ECDAF203312D6"
+				item: "cobblemon:occa_berry"
+				type: "item"
+			}]
+			x: 16.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["4B13C89F6A919D78"]
+			id: "5E616EECC97F15C9"
+			rewards: [
+				{
+					id: "1C1FC0DFA7D1532D"
+					item: "cobblemon:relic_coin_pouch"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "2EC604B16841AAE3"
+					item: "cobblemon:relic_coin"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "6CB4C35FCC422980"
+				item: "cobblemon:pamtre_berry"
+				type: "item"
+			}]
+			x: 21.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["4B13C89F6A919D78"]
+			id: "41FE764369EC60FB"
+			rewards: [
+				{
+					id: "6D0C879AAFAFBCA5"
+					item: "cobblemon:relic_coin_pouch"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "2BD7E0FDB8912959"
+					item: "cobblemon:relic_coin"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "54F892E832B6D15F"
+				item: "cobblemon:passho_berry"
+				type: "item"
+			}]
+			x: 10.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["4B13C89F6A919D78"]
+			id: "220E8F7896EC310F"
+			rewards: [
+				{
+					id: "69AEA6389CBFAAAF"
+					item: "cobblemon:relic_coin_pouch"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "3BA4CF06E62A369C"
+					item: "cobblemon:relic_coin"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "23736A1A389BC28F"
+				item: "cobblemon:payapa_berry"
+				type: "item"
+			}]
+			x: 15.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["4B13C89F6A919D78"]
+			id: "28BA6B9AA3884C45"
+			rewards: [
+				{
+					id: "57CD74F47306DD18"
+					item: "cobblemon:relic_coin_pouch"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "7CB316BEE42B4026"
+					item: "cobblemon:relic_coin"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "0B429818BA882A85"
+				item: "cobblemon:pecha_berry"
+				type: "item"
+			}]
+			x: 22.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["4B13C89F6A919D78"]
+			id: "2F5E67F0231EEC37"
+			rewards: [
+				{
+					id: "2EA61D03BD773DA6"
+					item: "cobblemon:relic_coin_pouch"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "47FB8CEF5DC6C15C"
+					item: "cobblemon:relic_coin"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "01C5EAD1D55E7B92"
+				item: "cobblemon:persim_berry"
+				type: "item"
+			}]
+			x: 13.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["4B13C89F6A919D78"]
+			id: "577C7B67366BA040"
+			rewards: [
+				{
+					id: "6DE66D5103C08116"
+					item: "cobblemon:relic_coin_pouch"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "215FB4E5687B1AA4"
+					item: "cobblemon:relic_coin"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "5B2C3C7E4745AC65"
+				item: "cobblemon:petaya_berry"
+				type: "item"
+			}]
+			x: 19.5d
+			y: 9.0d
+		}
+		{
+			dependencies: ["4B13C89F6A919D78"]
+			id: "5D35250FE1AE2DE7"
+			rewards: [
+				{
+					id: "0DB5A5FE1FD4346A"
+					item: "cobblemon:relic_coin_pouch"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "48CDEE47047A2EDD"
+					item: "cobblemon:relic_coin"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "37F431236BBAE787"
+				item: "cobblemon:pinap_berry"
+				type: "item"
+			}]
+			x: 14.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["4B13C89F6A919D78"]
+			id: "58DF001B9D681205"
+			rewards: [
+				{
+					id: "7E432F2491297A5D"
+					item: "cobblemon:relic_coin_pouch"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "252A4C9388078C85"
+					item: "cobblemon:relic_coin"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "7BB724119359AADE"
+				item: "cobblemon:pomeg_berry"
+				type: "item"
+			}]
+			x: 16.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["4B13C89F6A919D78"]
+			id: "3A2FAC5606CBD5CE"
+			rewards: [
+				{
+					id: "6F81156EE9966ACA"
+					item: "cobblemon:relic_coin_pouch"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "235E01F5DAA8D436"
+					item: "cobblemon:relic_coin"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "7A544567ADB8572D"
+				item: "cobblemon:qualot_berry"
+				type: "item"
+			}]
+			x: 19.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["4B13C89F6A919D78"]
+			id: "7243896BD9B1A7C1"
+			rewards: [
+				{
+					id: "3D433CC5415CC90B"
+					item: "cobblemon:relic_coin_pouch"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "4A29C6470EBC45F3"
+					item: "cobblemon:relic_coin"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "2AAE18709688D070"
+				item: "cobblemon:rabuta_berry"
+				type: "item"
+			}]
+			x: 18.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["4B13C89F6A919D78"]
+			id: "7DFAAEC0FE351D50"
+			rewards: [
+				{
+					id: "49BBD9391F75C32A"
+					item: "cobblemon:relic_coin_pouch"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "527F63CE468B5606"
+					item: "cobblemon:relic_coin"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "280AFCBC145FC903"
+				item: "cobblemon:rawst_berry"
+				type: "item"
+			}]
+			x: 15.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["4B13C89F6A919D78"]
+			id: "2ED9C3BAF48A4192"
+			rewards: [
+				{
+					id: "7D3AD0F9D75CA52D"
+					item: "cobblemon:relic_coin_pouch"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "7C7E367F9177898A"
+					item: "cobblemon:relic_coin"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "1DFEC470A332E9DA"
+				item: "cobblemon:razz_berry"
+				type: "item"
+			}]
+			x: 17.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["4B13C89F6A919D78"]
+			id: "06EFC00704326C57"
+			rewards: [
+				{
+					id: "4346848B2A1648E0"
+					item: "cobblemon:relic_coin_pouch"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "1C13F791F7DD1108"
+					item: "cobblemon:relic_coin"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "6358A8FA5E82D948"
+				item: "cobblemon:rindo_berry"
+				type: "item"
+			}]
+			x: 15.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["4B13C89F6A919D78"]
+			id: "34E1625C3B10BC3B"
+			rewards: [
+				{
+					id: "5E76BABB603C75AF"
+					item: "cobblemon:relic_coin_pouch"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "19DBDDD3337D130B"
+					item: "cobblemon:relic_coin"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "7379B30E4047E126"
+				item: "cobblemon:roseli_berry"
+				type: "item"
+			}]
+			x: 13.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["4B13C89F6A919D78"]
+			id: "48A1404CC3FDFE9C"
+			rewards: [
+				{
+					id: "49871BD4605DCC54"
+					item: "cobblemon:relic_coin_pouch"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "6E845961607A3843"
+					item: "cobblemon:relic_coin"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "698E3741F0E14E05"
+				item: "cobblemon:rowap_berry"
+				type: "item"
+			}]
+			x: 10.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["4B13C89F6A919D78"]
+			id: "6D536BC6B4C405BF"
+			rewards: [
+				{
+					id: "082A214A1F307301"
+					item: "cobblemon:relic_coin_pouch"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "22C15B5C93B09060"
+					item: "cobblemon:relic_coin"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "0249E7F1AE666690"
+				item: "cobblemon:salac_berry"
+				type: "item"
+			}]
+			x: 18.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["4B13C89F6A919D78"]
+			id: "6B113AEC2B77CD98"
+			rewards: [
+				{
+					id: "50D198C06DDB0A2F"
+					item: "cobblemon:relic_coin_pouch"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "105BB8FF46C4812B"
+					item: "cobblemon:relic_coin"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "601C489EF5A50524"
+				item: "cobblemon:shuca_berry"
+				type: "item"
+			}]
+			x: 20.5d
+			y: 8.0d
+		}
+		{
+			dependencies: ["4B13C89F6A919D78"]
+			id: "6FBB6E2A337D4294"
+			rewards: [
+				{
+					id: "4FF8C068657F09FE"
+					item: "cobblemon:relic_coin_pouch"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "11A0E476F043B2E9"
+					item: "cobblemon:relic_coin"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "59548E80BD4165C5"
+				item: "cobblemon:sitrus_berry"
+				type: "item"
+			}]
+			x: 18.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["4B13C89F6A919D78"]
+			id: "1CF8F5FDB8CCBA5B"
+			rewards: [
+				{
+					id: "0CCFBA3ADBD93B5B"
+					item: "cobblemon:relic_coin_pouch"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "5866B87E26753B41"
+					item: "cobblemon:relic_coin"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "5E7AA300CFDB3698"
+				item: "cobblemon:spelon_berry"
+				type: "item"
+			}]
+			x: 17.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["4B13C89F6A919D78"]
+			id: "45CDBA759FBBC742"
+			rewards: [
+				{
+					id: "2BD53779288FD262"
+					item: "cobblemon:relic_coin_pouch"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "41557B82A1409680"
+					item: "cobblemon:relic_coin"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "50D5F63F52943867"
+				item: "cobblemon:starf_berry"
+				type: "item"
+			}]
+			x: 19.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["4B13C89F6A919D78"]
+			id: "65073714183464A5"
+			rewards: [
+				{
+					id: "2D832B8BB9885AFF"
+					item: "cobblemon:relic_coin_pouch"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "27E4A05104735E56"
+					item: "cobblemon:relic_coin"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "2CF3DE72936590E0"
+				item: "cobblemon:tamato_berry"
+				type: "item"
+			}]
+			x: 19.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["4B13C89F6A919D78"]
+			id: "679EC41ADA1D490A"
+			rewards: [
+				{
+					id: "69916CDB731A7C98"
+					item: "cobblemon:relic_coin_pouch"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "5F6D86CB6DA85458"
+					item: "cobblemon:relic_coin"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "310159F13697E256"
+				item: "cobblemon:tanga_berry"
+				type: "item"
+			}]
+			x: 16.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["4B13C89F6A919D78"]
+			id: "4D3E244670665B93"
+			rewards: [
+				{
+					id: "30B5A0D746C52889"
+					item: "cobblemon:relic_coin_pouch"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "1C843FD167F88784"
+					item: "cobblemon:relic_coin"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "489B4D58ACD61242"
+				item: "cobblemon:touga_berry"
+				type: "item"
+			}]
+			x: 12.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["4B13C89F6A919D78"]
+			id: "0683EB893EF853CB"
+			rewards: [
+				{
+					id: "0ECD13567465B164"
+					item: "cobblemon:relic_coin_pouch"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "29049CB4E50A529F"
+					item: "cobblemon:relic_coin"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "36922F9CD3C221B4"
+				item: "cobblemon:wacan_berry"
+				type: "item"
+			}]
+			x: 18.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["4B13C89F6A919D78"]
+			id: "109729EE8AF9FB66"
+			rewards: [
+				{
+					id: "0C5C0E115ADFD39D"
+					item: "cobblemon:relic_coin_pouch"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "6409BF0BBB6DBE02"
+					item: "cobblemon:relic_coin"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "77B4A7F65792B3B4"
+				item: "cobblemon:watmel_berry"
+				type: "item"
+			}]
+			x: 18.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["4B13C89F6A919D78"]
+			id: "58D1DBBCA0CFB7B3"
+			rewards: [
+				{
+					id: "02807B540176EDC9"
+					item: "cobblemon:relic_coin_pouch"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "071D76D229DB71C9"
+					item: "cobblemon:relic_coin"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "61AE87785B97811F"
+				item: "cobblemon:wepear_berry"
+				type: "item"
+			}]
+			x: 12.5d
+			y: 9.0d
+		}
+		{
+			dependencies: ["4B13C89F6A919D78"]
+			id: "54071901BB58682E"
+			rewards: [
+				{
+					id: "4D0F100F55187025"
+					item: "cobblemon:relic_coin_pouch"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "03D814E29AF3E685"
+					item: "cobblemon:relic_coin"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "3457F9A2AC6B6B7F"
+				item: "cobblemon:wiki_berry"
+				type: "item"
+			}]
+			x: 18.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["4B13C89F6A919D78"]
+			id: "2C31B774BA91B8EB"
+			rewards: [
+				{
+					id: "2C6A1C4EE205E109"
+					item: "cobblemon:relic_coin_pouch"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "0FB714F541E3FD85"
+					item: "cobblemon:relic_coin"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "2370EECA70B8A382"
+				item: "cobblemon:yache_berry"
+				type: "item"
+			}]
+			x: 11.5d
+			y: 8.0d
+		}
+		{
+			dependencies: ["4B13C89F6A919D78"]
+			id: "38FCCE22F602687D"
+			rewards: [
+				{
+					id: "67766FFE1B1A144B"
+					item: "cobblemon:relic_coin_pouch"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "276389D69A4C3BB7"
+					item: "cobblemon:relic_coin"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "3A4629FCB900BA19"
+				item: "cobblemon:oran_berry"
+				type: "item"
+			}]
+			x: 10.0d
+			y: 5.0d
+		}
+		{
+			description: [
+				"    This berry hungry Meowth is willing to share it's wealth, granted you have the right kind of berries."
+				"    Many of these berries need to come from berry mutations, check JEI."
+			]
+			id: "4B13C89F6A919D78"
+			rewards: [{
+				count: 33
+				id: "4DFF875BCB0E56AE"
+				item: "cobblemon:relic_coin"
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				action: "obtain"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "02B026245090433F"
+				poke_ball_used: ""
+				pokemon: "cobblemon:meowth"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			title: "Berry Hungry"
+			x: 16.0d
+			y: 4.5d
+		}
+		{
+			id: "7CE4E4CDB8404AF5"
+			rewards: [{
+				count: 8
+				id: "240A9E90584111CD"
+				item: "cobblemon:rare_candy"
+				type: "item"
+			}]
+			tasks: [{
+				id: "73725FC6B2D1985C"
+				item: "cobblemon:pep_up_flower"
+				type: "item"
+			}]
+			x: 27.5d
+			y: 5.5d
+		}
+		{
+			id: "7D43C389DD81D580"
+			rewards: [{
+				count: 8
+				id: "6A79AB3A9DB71FE2"
+				item: "cobblemon:rare_candy"
+				type: "item"
+			}]
+			tasks: [{
+				id: "7F7E2D92F2C6E9AC"
+				item: "cobblemon:big_root"
+				type: "item"
+			}]
+			x: 29.5d
+			y: 5.5d
+		}
+		{
+			id: "376C6F75CAFFC727"
+			rewards: [{
+				count: 8
+				id: "712388985A26A3C4"
+				item: "cobblemon:rare_candy"
+				type: "item"
+			}]
+			tasks: [{
+				id: "3EE9959B44781E5D"
+				item: "cobblemon:energy_root"
+				type: "item"
+			}]
+			x: 28.5d
+			y: 5.5d
+		}
+		{
+			id: "58FAC6C6B684905F"
+			rewards: [{
+				count: 8
+				id: "337689D39229D9D3"
+				item: "cobblemon:rare_candy"
+				type: "item"
+			}]
+			tasks: [{
+				id: "34C3BD56D69E39BD"
+				item: "cobblemon:red_mint_seeds"
+				type: "item"
+			}]
+			x: 25.5d
+			y: 4.5d
+		}
+		{
+			id: "51879E26802AADE3"
+			rewards: [{
+				count: 8
+				id: "06B28118CC66F8C4"
+				item: "cobblemon:rare_candy"
+				type: "item"
+			}]
+			tasks: [{
+				id: "70953BD787711111"
+				item: "cobblemon:blue_mint_seeds"
+				type: "item"
+			}]
+			x: 26.5d
+			y: 4.5d
+		}
+		{
+			id: "09B15BBA21A98C11"
+			rewards: [{
+				count: 8
+				id: "2BF17CB91F4FC707"
+				item: "cobblemon:rare_candy"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0EAA06FF1FD13EDF"
+				item: "cobblemon:cyan_mint_seeds"
+				type: "item"
+			}]
+			x: 27.5d
+			y: 4.5d
+		}
+		{
+			id: "7BB95BBECCAC40E3"
+			rewards: [{
+				count: 8
+				id: "71AC42116DBEB244"
+				item: "cobblemon:rare_candy"
+				type: "item"
+			}]
+			tasks: [{
+				id: "78D77272AB59F94F"
+				item: "cobblemon:pink_mint_seeds"
+				type: "item"
+			}]
+			x: 28.5d
+			y: 4.5d
+		}
+		{
+			id: "44AF1234B17BB410"
+			rewards: [{
+				count: 8
+				id: "73D8F58CF6FB6C9A"
+				item: "cobblemon:rare_candy"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4F51408CB44EB729"
+				item: "cobblemon:green_mint_seeds"
+				type: "item"
+			}]
+			x: 29.5d
+			y: 4.5d
+		}
+		{
+			id: "6F171049AD222174"
+			rewards: [{
+				count: 8
+				id: "1681D67FE5D016B7"
+				item: "cobblemon:rare_candy"
+				type: "item"
+			}]
+			tasks: [{
+				id: "2A3DD350DAD0658E"
+				item: "cobblemon:white_mint_seeds"
+				type: "item"
+			}]
+			x: 30.5d
+			y: 4.5d
+		}
+		{
+			id: "56241BDF0E6DC5F8"
+			rewards: [{
+				count: 8
+				id: "03A9E9F4735DF435"
+				item: "cobblemon:rare_candy"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4AA206ED51627152"
+				item: "cobblemon:white_apricorn_seed"
+				type: "item"
+			}]
+			x: 31.5d
+			y: 3.5d
+		}
+		{
+			id: "355C0FCF30BCBAEC"
+			rewards: [{
+				count: 8
+				id: "7EF1557010248EAE"
+				item: "cobblemon:rare_candy"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0C06C453AC899B09"
+				item: "cobblemon:red_apricorn_seed"
+				type: "item"
+			}]
+			x: 25.5d
+			y: 3.5d
+		}
+		{
+			id: "05178F4049A83150"
+			rewards: [{
+				count: 8
+				id: "27AE4C5302E61203"
+				item: "cobblemon:rare_candy"
+				type: "item"
+			}]
+			tasks: [{
+				id: "190BC4327CF9505C"
+				item: "cobblemon:yellow_apricorn_seed"
+				type: "item"
+			}]
+			x: 26.5d
+			y: 3.5d
+		}
+		{
+			id: "055C75A8F59B1A6B"
+			rewards: [{
+				count: 8
+				id: "37D55D66B8C0474C"
+				item: "cobblemon:rare_candy"
+				type: "item"
+			}]
+			tasks: [{
+				id: "218F7A252DDE3DDD"
+				item: "cobblemon:green_apricorn_seed"
+				type: "item"
+			}]
+			x: 27.5d
+			y: 3.5d
+		}
+		{
+			id: "3390C2104A0191D4"
+			rewards: [{
+				count: 8
+				id: "549AFC8A7966FF14"
+				item: "cobblemon:rare_candy"
+				type: "item"
+			}]
+			tasks: [{
+				id: "29B9B3287FB6EA78"
+				item: "cobblemon:blue_apricorn_seed"
+				type: "item"
+			}]
+			x: 28.5d
+			y: 3.5d
+		}
+		{
+			id: "0D6C93ADFCEB1638"
+			rewards: [{
+				count: 8
+				id: "4D57D944E863E0AF"
+				item: "cobblemon:rare_candy"
+				type: "item"
+			}]
+			tasks: [{
+				id: "60E148DDE3DEEDEF"
+				item: "cobblemon:pink_apricorn_seed"
+				type: "item"
+			}]
+			x: 29.5d
+			y: 3.5d
+		}
+		{
+			id: "65F501932301A9DD"
+			rewards: [{
+				count: 8
+				id: "6F441282FB2B8A10"
+				item: "cobblemon:rare_candy"
+				type: "item"
+			}]
+			tasks: [{
+				id: "3FB63A4DD7314C4E"
+				item: "cobblemon:vivichoke_seeds"
+				type: "item"
+			}]
+			x: 25.5d
+			y: 5.5d
+		}
+		{
+			id: "20325E16F26B9682"
+			rewards: [{
+				count: 8
+				id: "37B8E3F1CAB88C0F"
+				item: "cobblemon:rare_candy"
+				type: "item"
+			}]
+			tasks: [{
+				id: "7884DEDB005473C3"
+				item: "cobblemon:medicinal_leek"
+				type: "item"
+			}]
+			x: 26.5d
+			y: 5.5d
+		}
+		{
+			id: "1F41A82EE2F18D23"
+			rewards: [{
+				count: 8
+				id: "2EF1FD1EF0013386"
+				item: "cobblemon:rare_candy"
+				type: "item"
+			}]
+			tasks: [{
+				id: "2E968A7917F47F11"
+				item: "cobblemon:black_apricorn_seed"
+				type: "item"
+			}]
+			x: 30.5d
+			y: 3.5d
+		}
+		{
+			id: "19C5A5EAAE2AC12A"
+			rewards: [{
+				count: 8
+				id: "4620E718C42EFD52"
+				item: "cobblemon:rare_candy"
+				type: "item"
+			}]
+			tasks: [{
+				id: "12FE78421955C39F"
+				item: "minecraft:nether_wart"
+				type: "item"
+			}]
+			x: 5.5d
+			y: 2.0d
+		}
+		{
+			id: "1AA56E174CB03706"
+			rewards: [{
+				count: 8
+				id: "79F0D552899C2DB5"
+				item: "cobblemon:rare_candy"
+				type: "item"
+			}]
+			tasks: [{
+				id: "57025DBD9AE31A2B"
+				item: "minecraft:wheat_seeds"
+				type: "item"
+			}]
+			x: 6.5d
+			y: 3.5d
+		}
+		{
+			id: "37B90A549EF1180E"
+			rewards: [{
+				count: 8
+				id: "55A6A2AA2869B136"
+				item: "cobblemon:rare_candy"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4CAFB2F56DEF6E80"
+				item: "minecraft:pumpkin_seeds"
+				type: "item"
+			}]
+			x: 6.5d
+			y: 4.5d
+		}
+		{
+			id: "607A26B6F9B48C1F"
+			rewards: [{
+				count: 8
+				id: "6C4E891E8FF32E77"
+				item: "cobblemon:rare_candy"
+				type: "item"
+			}]
+			tasks: [{
+				id: "22108B4FB974FA2B"
+				item: "minecraft:melon_seeds"
+				type: "item"
+			}]
+			x: 6.5d
+			y: 5.5d
+		}
+		{
+			id: "01CFA2C59F228E8D"
+			rewards: [{
+				count: 8
+				id: "12587F253259BA2E"
+				item: "cobblemon:rare_candy"
+				type: "item"
+			}]
+			tasks: [{
+				id: "141350A0995B40C0"
+				item: "minecraft:beetroot_seeds"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 5.5d
+		}
+		{
+			id: "46126164BDBD8912"
+			rewards: [{
+				count: 8
+				id: "312D62B57C42CB66"
+				item: "cobblemon:rare_candy"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1E04A495197BE5FB"
+				item: "supplementaries:flax_seeds"
+				type: "item"
+			}]
+			x: 5.5d
+			y: 3.5d
+		}
+		{
+			id: "070CFCCEAEC40F39"
+			rewards: [{
+				count: 8
+				id: "36226B631795B5C1"
+				item: "cobblemon:rare_candy"
+				type: "item"
+			}]
+			tasks: [{
+				id: "5E10D43E5EF74E19"
+				item: "immersiveengineering:seed"
+				type: "item"
+			}]
+			x: 5.5d
+			y: 4.5d
+		}
+		{
+			id: "733FC42BD827127E"
+			rewards: [{
+				count: 8
+				id: "7084205C91770BE6"
+				item: "cobblemon:rare_candy"
+				type: "item"
+			}]
+			tasks: [{
+				id: "3240312C34B3B7A0"
+				item: "farmersdelight:cabbage_seeds"
+				type: "item"
+			}]
+			x: 5.5d
+			y: 5.5d
+		}
+		{
+			id: "4ABFFADEC971ABF3"
+			rewards: [{
+				count: 8
+				id: "5DC8A84FEFD6AC7D"
+				item: "cobblemon:rare_candy"
+				type: "item"
+			}]
+			tasks: [{
+				id: "7C778512D75B72CB"
+				item: "farmersdelight:tomato_seeds"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 3.5d
+		}
+		{
+			id: "681FCE3B2FA989A3"
+			rewards: [{
+				count: 8
+				id: "6B4895E791D140E5"
+				item: "cobblemon:rare_candy"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1C1BF9156E77A1B1"
+				item: "delightful:cantaloupe_seeds"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 4.5d
+		}
+		{
+			can_repeat: true
+			dependencies: [
+				"37B90A549EF1180E"
+				"4ABFFADEC971ABF3"
+				"1AA56E174CB03706"
+				"01CFA2C59F228E8D"
+				"607A26B6F9B48C1F"
+				"46126164BDBD8912"
+				"733FC42BD827127E"
+				"681FCE3B2FA989A3"
+				"070CFCCEAEC40F39"
+			]
+			icon: "liltractor:liltractor"
+			id: "5CAE0C07ABAD2505"
+			rewards: [{
+				id: "25E3F9FAC864DCF5"
+				item: "liltractor:liltractor"
+				type: "item"
+			}]
+			subtitle: "Requires the 9 seed quests to the right"
+			tasks: [{
+				consume_items: true
+				count: 8L
+				id: "1F5F902D0C21B9EF"
+				item: { Count: 8, id: "minecraft:iron_ingot" }
+				type: "item"
+			}]
+			title: "Tractor"
+			x: 3.0d
+			y: 4.5d
+		}
+	]
+	title: "Agriculture"
+}

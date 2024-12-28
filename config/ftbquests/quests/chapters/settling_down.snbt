@@ -1,0 +1,970 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "settling_down"
+	group: "1AA21A9EA7678A42"
+	icon: "minecraft:white_bed"
+	id: "1B6145B7D0380068"
+	images: [
+		{
+			height: 1.17d
+			image: "minecraft:block/cobblestone"
+			rotation: 0.0d
+			width: 1.17d
+			x: -3.0d
+			y: -0.5d
+		}
+		{
+			height: 1.17d
+			image: "minecraft:block/oak_log"
+			rotation: 0.0d
+			width: 1.17d
+			x: 3.0d
+			y: -1.5d
+		}
+		{
+			height: 1.17d
+			image: "minecraft:block/oak_planks"
+			rotation: 0.0d
+			width: 1.17d
+			x: 2.0d
+			y: -4.5d
+		}
+		{
+			height: 1.17d
+			image: "minecraft:block/oak_door_bottom"
+			rotation: 0.0d
+			width: 1.17d
+			x: -3.0d
+			y: -1.5d
+		}
+		{
+			height: 1.17d
+			image: "minecraft:block/oak_door_top"
+			rotation: 0.0d
+			width: 1.17d
+			x: -3.0d
+			y: -2.5d
+		}
+		{
+			height: 1.17d
+			image: "minecraft:block/cobblestone"
+			rotation: 0.0d
+			width: 1.17d
+			x: -2.0d
+			y: -0.5d
+		}
+		{
+			height: 1.17d
+			image: "minecraft:block/cobblestone"
+			rotation: 0.0d
+			width: 1.17d
+			x: 1.0d
+			y: -0.5d
+		}
+		{
+			height: 1.17d
+			image: "minecraft:block/cobblestone"
+			rotation: 0.0d
+			width: 1.17d
+			x: -1.0d
+			y: -0.5d
+		}
+		{
+			height: 1.17d
+			image: "minecraft:block/cobblestone"
+			rotation: 0.0d
+			width: 1.17d
+			x: 0.0d
+			y: -0.5d
+		}
+		{
+			height: 1.17d
+			image: "minecraft:block/cobblestone"
+			rotation: 0.0d
+			width: 1.17d
+			x: 2.0d
+			y: -0.5d
+		}
+		{
+			height: 1.17d
+			image: "minecraft:block/cobblestone"
+			rotation: 0.0d
+			width: 1.17d
+			x: 3.0d
+			y: -0.5d
+		}
+		{
+			height: 1.17d
+			image: "minecraft:block/oak_log"
+			rotation: 0.0d
+			width: 1.17d
+			x: 3.0d
+			y: -2.5d
+		}
+		{
+			height: 1.17d
+			image: "minecraft:block/oak_log"
+			rotation: 0.0d
+			width: 1.17d
+			x: 3.0d
+			y: -3.5d
+		}
+		{
+			height: 1.17d
+			image: "minecraft:block/oak_log"
+			rotation: 0.0d
+			width: 1.17d
+			x: -3.0d
+			y: -3.5d
+		}
+		{
+			height: 1.17d
+			image: "minecraft:block/oak_planks"
+			rotation: 0.0d
+			width: 1.17d
+			x: 1.0d
+			y: -4.5d
+		}
+		{
+			height: 1.17d
+			image: "minecraft:block/oak_planks"
+			rotation: 0.0d
+			width: 1.17d
+			x: 0.0d
+			y: -4.5d
+		}
+		{
+			height: 1.17d
+			image: "minecraft:block/oak_planks"
+			rotation: 0.0d
+			width: 1.17d
+			x: -1.0d
+			y: -4.5d
+		}
+		{
+			height: 1.17d
+			image: "minecraft:block/oak_planks"
+			rotation: 0.0d
+			width: 1.17d
+			x: -2.0d
+			y: -4.5d
+		}
+		{
+			height: 1.17d
+			image: "minecraft:block/oak_log"
+			rotation: 0.0d
+			width: 1.17d
+			x: -3.0d
+			y: -4.5d
+		}
+		{
+			height: 1.17d
+			image: "minecraft:block/oak_log"
+			rotation: 0.0d
+			width: 1.17d
+			x: 3.0d
+			y: -4.5d
+		}
+		{
+			height: 1.17d
+			image: "minecraft:block/grass_block_side"
+			rotation: 0.0d
+			width: 1.17d
+			x: -4.0d
+			y: -0.5d
+		}
+		{
+			height: 1.17d
+			image: "minecraft:block/grass_block_side"
+			rotation: 0.0d
+			width: 1.17d
+			x: -5.0d
+			y: -0.5d
+		}
+		{
+			height: 1.17d
+			image: "minecraft:block/grass_block_side"
+			rotation: 0.0d
+			width: 1.17d
+			x: -6.0d
+			y: -0.5d
+		}
+		{
+			height: 1.17d
+			image: "minecraft:block/grass_block_side"
+			rotation: 0.0d
+			width: 1.17d
+			x: -7.0d
+			y: -0.5d
+		}
+		{
+			height: 1.17d
+			image: "minecraft:block/grass_block_side"
+			rotation: 0.0d
+			width: 1.17d
+			x: 4.0d
+			y: -0.5d
+		}
+		{
+			height: 1.17d
+			image: "minecraft:block/grass_block_side"
+			rotation: 0.0d
+			width: 1.17d
+			x: 5.0d
+			y: -0.5d
+		}
+		{
+			height: 1.17d
+			image: "minecraft:block/grass_block_side"
+			rotation: 0.0d
+			width: 1.17d
+			x: 6.0d
+			y: -0.5d
+		}
+		{
+			height: 1.17d
+			image: "minecraft:block/grass_block_side"
+			rotation: 0.0d
+			width: 1.17d
+			x: 7.0d
+			y: -0.5d
+		}
+		{
+			height: 1.17d
+			image: "minecraft:block/iron_block"
+			rotation: 0.0d
+			width: 1.17d
+			x: 5.0d
+			y: -1.5d
+		}
+		{
+			height: 1.17d
+			image: "minecraft:block/iron_block"
+			rotation: 0.0d
+			width: 1.17d
+			x: 6.0d
+			y: -1.5d
+		}
+		{
+			height: 1.17d
+			image: "minecraft:block/iron_block"
+			rotation: 0.0d
+			width: 1.17d
+			x: 7.0d
+			y: -1.5d
+		}
+		{
+			height: 1.17d
+			image: "minecraft:block/grass_block_side"
+			rotation: 0.0d
+			width: 1.17d
+			x: 8.0d
+			y: -0.5d
+		}
+	]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["6F40F34D0DABA20F"]
+			id: "1E870249D76463EE"
+			rewards: [{
+				count: 16
+				id: "0BE780D0BB80D01F"
+				item: "minecraft:coal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "224EB6ED23FD8CD2"
+				item: "minecraft:blast_furnace"
+				type: "item"
+			}]
+			x: -0.5d
+			y: -2.5d
+		}
+		{
+			id: "3592740CA673D80D"
+			rewards: [
+				{
+					id: "1C6184EB99ADAAA8"
+					item: {
+						Count: 1
+						id: "sophisticatedstorage:copper_chest"
+						tag: {
+							BlockEntityTag: {
+								ForgeCaps: { }
+								displayName: "{\"text\":\"Complementary Home in a Box\"}"
+								id: "sophisticatedstorage:chest"
+								packed: 0b
+								storageWrapper: {
+									contents: {
+										inventory: {
+											Items: [
+												{
+													Count: 1b
+													Slot: 22
+													id: "minecraft:oak_log"
+													realCount: 1
+												}
+												{
+													Count: 1b
+													Slot: 26
+													id: "minecraft:oak_log"
+													realCount: 1
+												}
+												{
+													Count: 1b
+													Slot: 28
+													id: "waystones:waystone"
+													realCount: 1
+												}
+												{
+													Count: 1b
+													Slot: 31
+													id: "minecraft:oak_door"
+													realCount: 1
+												}
+												{
+													Count: 1b
+													Slot: 35
+													id: "minecraft:oak_log"
+													realCount: 1
+												}
+												{
+													Count: 1b
+													Slot: 36
+													id: "minecraft:grass_block"
+													realCount: 1
+												}
+												{
+													Count: 1b
+													Slot: 37
+													id: "minecraft:grass_block"
+													realCount: 1
+												}
+												{
+													Count: 1b
+													Slot: 38
+													id: "minecraft:grass_block"
+													realCount: 1
+												}
+												{
+													Count: 1b
+													Slot: 39
+													id: "minecraft:grass_block"
+													realCount: 1
+												}
+												{
+													Count: 1b
+													Slot: 30
+													id: "supplementaries:doormat"
+													realCount: 1
+												}
+												{
+													Count: 1b
+													Slot: 5
+													id: "minecraft:oak_slab"
+													realCount: 1
+												}
+												{
+													Count: 1b
+													Slot: 7
+													id: "minecraft:oak_slab"
+													realCount: 1
+												}
+												{
+													Count: 1b
+													Slot: 6
+													id: "minecraft:oak_slab"
+													realCount: 1
+												}
+												{
+													Count: 1b
+													Slot: 13
+													id: "minecraft:oak_stairs"
+													realCount: 1
+												}
+												{
+													Count: 1b
+													Slot: 17
+													id: "minecraft:oak_stairs"
+													realCount: 1
+												}
+												{
+													Count: 1b
+													Slot: 41
+													id: "minecraft:cobblestone"
+													realCount: 1
+												}
+												{
+													Count: 1b
+													Slot: 42
+													id: "minecraft:cobblestone"
+													realCount: 1
+												}
+												{
+													Count: 1b
+													Slot: 43
+													id: "minecraft:cobblestone"
+													realCount: 1
+												}
+												{
+													Count: 1b
+													Slot: 44
+													id: "minecraft:cobblestone"
+													realCount: 1
+												}
+												{
+													Count: 1b
+													Slot: 32
+													id: "supplementaries:planter"
+													realCount: 1
+												}
+												{
+													Count: 1b
+													Slot: 23
+													id: "minecraft:rose_bush"
+													realCount: 1
+												}
+												{
+													Count: 1b
+													Slot: 25
+													id: "minecraft:smoker"
+													realCount: 1
+												}
+												{
+													Count: 1b
+													Slot: 34
+													id: "minecraft:furnace"
+													realCount: 1
+												}
+												{
+													Count: 1b
+													Slot: 15
+													id: "minecraft:painting"
+													realCount: 1
+													tag: {
+														EntityTag: {
+															variant: "minecraft:graham"
+														}
+													}
+												}
+												{
+													Count: 1b
+													Slot: 33
+													id: "minecraft:red_bed"
+													realCount: 1
+												}
+												{
+													Count: 1b
+													Slot: 16
+													id: "supplementaries:hat_stand"
+													realCount: 1
+												}
+												{
+													Count: 1b
+													Slot: 40
+													id: "minecraft:cobblestone"
+													realCount: 1
+												}
+											]
+											Size: 45
+										}
+										partitioner: {
+											baseIndexes: [I;0]
+											inventoryPartNames: ["default"]
+										}
+									}
+									numberOfInventorySlots: 45
+									numberOfUpgradeSlots: 1
+									renderInfo: {
+										upgradeItems: [{
+											Count: 1b
+											id: "minecraft:air"
+										}]
+									}
+									sortBy: "name"
+								}
+								updateBlockRender: 1b
+								woodType: "spruce"
+							}
+							RepairCost: 0
+							display: {
+								Lore: ["\"(+NBT)\""]
+								Name: "{\"text\":\"Complementary Home in a Box\"}"
+							}
+							woodType: "spruce"
+						}
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7F6264AD95FF412E"
+					table_id: 6704862232940478092L
+					type: "choice"
+				}
+			]
+			tasks: [{
+				id: "03588ED057E5CED4"
+				item: "minecraft:crafting_table"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -1.5d
+		}
+		{
+			description: ["The Hourglass mod replaces the vanilla sleep functionality with a smooth and natural transition to morning by accelerating the passage of time while you're in bed. In multiplayer, time will pass faster depending on the percentage of players who are currently sleeping. This removes the need for any sleep voting system or player threshold, as any number of players can have an impact on the duration of the night."]
+			icon: "minecraft:red_bed"
+			id: "584A425285A396CD"
+			rewards: [{
+				id: "114E69F583C7327A"
+				item: "supplementaries:hourglass"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:red_bed"
+				id: "7CE9B7299D66225A"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "minecraft:beds"
+					}
+				}
+				title: "Any Bed"
+				type: "item"
+			}]
+			title: "Hourglass"
+			x: 1.5d
+			y: -1.5d
+		}
+		{
+			can_repeat: true
+			description: [
+				"    Use a Nature's Compass to find a suitable biome to live in."
+				"    &4Warning&f: do not try to search for Alex's Caves biomes with a Nature's Compass, instead use a cave biome map"
+			]
+			icon: {
+				Count: 1
+				id: "naturescompass:naturescompass"
+				tag: { }
+			}
+			id: "6CDCEE1B21CD5B69"
+			rewards: [{
+				id: "390946F94CD82813"
+				item: {
+					Count: 1
+					id: "naturescompass:naturescompass"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "6E01277CB734F4FF"
+				type: "checkmark"
+			}]
+			title: "Find your Home"
+			x: -6.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["3592740CA673D80D"]
+			id: "6F40F34D0DABA20F"
+			rewards: [{
+				id: "7EFDD82A59031C6E"
+				item: "sophisticatedbackpacks:smelting_upgrade"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4A7C4B9807B96942"
+				item: "minecraft:furnace"
+				type: "item"
+			}]
+			x: -0.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["450334CFEE336A56"]
+			description: [""]
+			icon: "torchmaster:megatorch"
+			id: "5D02DA3CE0584877"
+			rewards: [{
+				id: "62CEEE37F904942D"
+				item: "cobblemon:shiny_stone"
+				type: "item"
+			}]
+			subtitle: "Requires Thunder Badge"
+			tasks: [{
+				id: "14884FCD166384DA"
+				item: "torchmaster:megatorch"
+				type: "item"
+			}]
+			title: "Mega Torch"
+			x: 0.0d
+			y: -5.5d
+		}
+		{
+			description: [
+				"You can shift right click the abra line to use teleport to take you to open the waystone menu"
+				"or you can wait out the cooldown to use a warp stone!"
+			]
+			id: "3145345E440F374B"
+			rewards: [{
+				id: "05E33B1ECAC4F56F"
+				item: {
+					Count: 1
+					id: "waystones:warp_stone"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "You can shift right click the abra line to use teleport to take you to open the waystone menu!"
+			tasks: [{
+				action: "catch"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "1A5E761641E85939"
+				poke_ball_used: ""
+				pokemon: "cobblemon:abra,cobblemon:kadabra,cobblemon:alakazam"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			title: "Teleport Field Move"
+			x: -6.0d
+			y: -1.5d
+		}
+		{
+			id: "4F47D8AB4153F209"
+			rewards: [{
+				id: "275FC6F330B14E70"
+				item: "sophisticatedbackpacks:gold_backpack"
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "lootr:10loot"
+				criterion: ""
+				id: "29B73BF2EE5E0F10"
+				title: "Open 10 Lootr Chests"
+				type: "advancement"
+			}]
+			title: "You will probably need this"
+			x: -1.5d
+			y: -2.5d
+		}
+		{
+			icon: "toms_storage:ts.crafting_terminal"
+			id: "7B751B386BA309DE"
+			rewards: [
+				{
+					id: "568EC6CE20400074"
+					item: "toms_storage:ts.crafting_terminal"
+					type: "item"
+				}
+				{
+					id: "0DDCF4F0270AE230"
+					item: "sophisticatedstorage:controller"
+					type: "item"
+				}
+			]
+			tasks: [{
+				action: "obtain"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "1F2627EA9007A5F6"
+				poke_ball_used: ""
+				pokemon: "cobblemon:gimmighoul"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			title: "Storage System"
+			x: 3.0d
+			y: -2.5d
+		}
+		{
+			icon: "minecraft:beacon"
+			id: "2B1F5C28A73742FB"
+			rewards: [
+				{
+					id: "1DC72F33C48FE346"
+					item: "toms_storage:ts.adv_wireless_terminal"
+					type: "item"
+				}
+				{
+					id: "28A764FDBDC5A6B6"
+					item: "minecraft:beacon"
+					type: "item"
+				}
+			]
+			tasks: [{
+				action: "obtain"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "1939359DFCC0CB10"
+				poke_ball_used: ""
+				pokemon: "cobblemon:gholdengo"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			title: "Unlimited Range"
+			x: 6.0d
+			y: -2.5d
+		}
+		{
+			can_repeat: true
+			description: ["Contains a Healing Machine and a PC"]
+			icon: "cobblemon:healing_machine"
+			id: "44929F024FF5BBA5"
+			rewards: [{
+				id: "143B1E8B38543BBE"
+				item: {
+					Count: 1
+					id: "sophisticatedstorage:iron_chest"
+					tag: {
+						BlockEntityTag: {
+							ForgeCaps: { }
+							id: "sophisticatedstorage:chest"
+							packed: 0b
+							storageWrapper: {
+								accentColor: 16383998
+								contents: {
+									inventory: {
+										Items: [
+											{
+												Count: 1b
+												Slot: 38
+												id: "minecraft:quartz_block"
+												realCount: 1
+											}
+											{
+												Count: 1b
+												Slot: 42
+												id: "minecraft:quartz_block"
+												realCount: 1
+											}
+											{
+												Count: 1b
+												Slot: 33
+												id: "minecraft:quartz_block"
+												realCount: 1
+											}
+											{
+												Count: 1b
+												Slot: 24
+												id: "minecraft:quartz_block"
+												realCount: 1
+											}
+											{
+												Count: 1b
+												Slot: 36
+												id: "waystones:waystone"
+												realCount: 1
+											}
+											{
+												Count: 1b
+												Slot: 30
+												id: "cobblemon:healing_machine"
+												realCount: 1
+											}
+											{
+												Count: 1b
+												Slot: 32
+												id: "cobblemon:pc"
+												realCount: 1
+											}
+											{
+												Count: 1b
+												Slot: 39
+												id: "minecraft:red_wool"
+												realCount: 1
+											}
+											{
+												Count: 1b
+												Slot: 40
+												id: "minecraft:red_wool"
+												realCount: 1
+											}
+											{
+												Count: 1b
+												Slot: 41
+												id: "minecraft:red_wool"
+												realCount: 1
+											}
+											{
+												Count: 1b
+												Slot: 45
+												id: "minecraft:grass_block"
+												realCount: 1
+											}
+											{
+												Count: 1b
+												Slot: 47
+												id: "minecraft:grass_block"
+												realCount: 1
+											}
+											{
+												Count: 1b
+												Slot: 48
+												id: "minecraft:grass_block"
+												realCount: 1
+											}
+											{
+												Count: 1b
+												Slot: 49
+												id: "minecraft:grass_block"
+												realCount: 1
+											}
+											{
+												Count: 1b
+												Slot: 50
+												id: "minecraft:grass_block"
+												realCount: 1
+											}
+											{
+												Count: 1b
+												Slot: 51
+												id: "minecraft:grass_block"
+												realCount: 1
+											}
+											{
+												Count: 1b
+												Slot: 52
+												id: "minecraft:grass_block"
+												realCount: 1
+											}
+											{
+												Count: 1b
+												Slot: 53
+												id: "minecraft:grass_block"
+												realCount: 1
+											}
+											{
+												Count: 1b
+												Slot: 46
+												id: "minecraft:grass_block"
+												realCount: 1
+											}
+											{
+												Count: 1b
+												Slot: 15
+												id: "minecraft:quartz_block"
+												realCount: 1
+											}
+											{
+												Count: 1b
+												Slot: 3
+												id: "minecraft:quartz_slab"
+												realCount: 1
+											}
+											{
+												Count: 1b
+												Slot: 4
+												id: "minecraft:quartz_slab"
+												realCount: 1
+											}
+											{
+												Count: 1b
+												Slot: 5
+												id: "minecraft:quartz_slab"
+												realCount: 1
+											}
+											{
+												Count: 1b
+												Slot: 13
+												id: "cobblemon:poke_ball"
+												realCount: 1
+											}
+											{
+												Count: 1b
+												Slot: 14
+												id: "minecraft:quartz_block"
+												realCount: 1
+											}
+											{
+												Count: 1b
+												Slot: 11
+												id: "minecraft:quartz_block"
+												realCount: 1
+											}
+											{
+												Count: 1b
+												Slot: 12
+												id: "minecraft:quartz_block"
+												realCount: 1
+											}
+										]
+										Size: 54
+									}
+									partitioner: {
+										baseIndexes: [I;0]
+										inventoryPartNames: ["default"]
+									}
+								}
+								mainColor: 16383998
+								numberOfInventorySlots: 54
+								numberOfUpgradeSlots: 2
+								renderInfo: {
+									upgradeItems: [
+										{
+											Count: 1b
+											id: "minecraft:air"
+										}
+										{
+											Count: 1b
+											id: "minecraft:air"
+										}
+									]
+								}
+								sortBy: "name"
+							}
+							updateBlockRender: 1b
+						}
+						RepairCost: 0
+						accentColor: 16383998
+						display: {
+							Lore: ["\"(+NBT)\""]
+							Name: "{\"text\":\"Pokecenter in a Box\"}"
+						}
+						mainColor: 16383998
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 5L
+				id: "687B950B7900A02A"
+				item: "minecraft:iron_ingot"
+				type: "item"
+			}]
+			title: "Pokecenter in a Box"
+			x: 0.5d
+			y: -1.5d
+		}
+	]
+	title: "Settling Down"
+}

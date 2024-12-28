@@ -1,0 +1,13 @@
+name = "GooeyLibs"
+filename = "GooeyLibs-Forge-3.0.0+1.20.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/KzjvlKEN/versions/b9N761Pj/GooeyLibs-Forge-3.0.0%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "efd8845e3ae41071291370350acbe38dbcad41eb"
+
+[update]
+[update.modrinth]
+mod-id = "KzjvlKEN"
+version = "b9N761Pj"

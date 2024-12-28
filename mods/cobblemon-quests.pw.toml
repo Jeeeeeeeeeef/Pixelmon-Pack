@@ -1,0 +1,13 @@
+name = "Cobblemon Quests"
+filename = "cobblemon_quests-[1.20.1]-forge-1.1.11.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c0b615b40e9dfc34f0e6bfdabd9480fda6a0e32f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5640001
+project-id = 922979

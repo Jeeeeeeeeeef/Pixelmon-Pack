@@ -1,0 +1,13 @@
+name = "Alex's Cobblemon Caves Compatability"
+filename = "Alex's Cobblemon Caves Compatability.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "74b3346885b21edf5c4a37847ccc170981ea184a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5897257
+project-id = 1138872

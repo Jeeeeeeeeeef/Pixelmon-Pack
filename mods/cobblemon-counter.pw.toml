@@ -1,0 +1,13 @@
+name = "Cobblemon Counter"
+filename = "cobblemon-counter-1.5-forge-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6ceff984f48049b383207b9aab6d9445897fa489"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5535270
+project-id = 900238

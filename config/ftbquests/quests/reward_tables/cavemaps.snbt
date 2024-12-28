@@ -1,0 +1,86 @@
+{
+	id: "48872094BEACEF84"
+	loot_size: 1
+	order_index: 4
+	rewards: [
+		{
+			item: {
+				Count: 1
+				id: "alexscaves:cave_map"
+				tag: {
+					BiomeTargetResourceKey: "alexscaves:magnetic_caves"
+					RepairCost: 0
+					display: {
+						Name: "{\"text\":\"Magnetic Caves Map\"}"
+					}
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "alexscaves:cave_map"
+				tag: {
+					BiomeTargetResourceKey: "alexscaves:primordial_caves"
+					RepairCost: 0
+					display: {
+						Name: "{\"text\":\"Primordial Caves Map\"}"
+					}
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "alexscaves:cave_map"
+				tag: {
+					BiomeTargetResourceKey: "alexscaves:toxic_caves"
+					RepairCost: 0
+					display: {
+						Name: "{\"text\":\"Toxic Caves Map\"}"
+					}
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "alexscaves:cave_map"
+				tag: {
+					BiomeTargetResourceKey: "alexscaves:abyssal_chasm"
+					RepairCost: 0
+					display: {
+						Name: "{\"text\":\"Abyssal Chasm Map\"}"
+					}
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "alexscaves:cave_map"
+				tag: {
+					BiomeTargetResourceKey: "alexscaves:forlorn_hollows"
+					RepairCost: 0
+					display: {
+						Name: "{\"text\":\"Forlorn Hollows Map\"}"
+					}
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "alexscaves:cave_map"
+				tag: {
+					BiomeTargetResourceKey: "alexscaves:candy_cavity"
+					RepairCost: 0
+					display: {
+						Name: "{\"text\":\"Candy Cavity Map\"}"
+					}
+				}
+			}
+		}
+	]
+	title: "cavemaps"
+}

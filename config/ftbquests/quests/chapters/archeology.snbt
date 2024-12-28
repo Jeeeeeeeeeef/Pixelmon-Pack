@@ -1,0 +1,452 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "archeology"
+	group: ""
+	icon: {
+		Count: 1
+		id: "minecraft:brush"
+		tag: {
+			Damage: 0
+		}
+	}
+	id: "2E4D946A830F4323"
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: true
+			dependencies: [
+				"7E83C93F25034EBE"
+				"219B2EB595D45928"
+				"5E7D0833374504C8"
+				"40DF60317106447C"
+				"1F573251FF05860D"
+				"33A99096C8DECEDF"
+			]
+			icon: {
+				Count: 1
+				id: "explorerscompass:explorerscompass"
+				tag: { }
+			}
+			id: "0547F3C171F146B6"
+			rewards: [{
+				id: "3BB813DEBB95BFEA"
+				item: {
+					Count: 1
+					id: "explorerscompass:explorerscompass"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "130C09E51C8FB372"
+				type: "checkmark"
+			}]
+			x: -0.5d
+			y: 0.5d
+		}
+		{
+			id: "7E83C93F25034EBE"
+			rewards: [{
+				id: "3115EDAA8CFABC5B"
+				item: {
+					Count: 1
+					id: "relics:jellyfish_necklace"
+					tag: {
+						abilities: {
+							paralysis: {
+								points: 0
+								stats: {
+									duration: 0.59349d
+								}
+							}
+							shock: {
+								points: 0
+								stats: {
+									damage: 1.09149d
+								}
+								temp: {
+									ticking: 1b
+								}
+							}
+						}
+					}
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					biome: "alexscaves:abyssal_chasm"
+					icon: "alexscaves:submarine"
+					id: "4AECF8C1DF3D52EC"
+					title: "Visit an Abyssal Chasm biome"
+					type: "biome"
+				}
+				{
+					action: "catch"
+					amount: 1L
+					biome: ""
+					dimension: ""
+					form: ""
+					gender: ""
+					id: "1DB3CAB85602D736"
+					poke_ball_used: ""
+					pokemon: "cobblemon:frillish"
+					pokemon_type: ""
+					region: ""
+					shiny: false
+					time_max: 24000L
+					time_min: 0L
+					type: "cobblemon_tasks:cobblemon_task"
+				}
+			]
+			title: "Abyssal Chasm"
+			x: -0.5d
+			y: -0.5d
+		}
+		{
+			id: "1F573251FF05860D"
+			rewards: [{
+				count: 32
+				id: "4C084E1257319B52"
+				item: "cobblemon:rare_candy"
+				type: "item"
+			}]
+			tasks: [
+				{
+					biome: "alexscaves:candy_cavity"
+					icon: "alexscaves:large_peppermint"
+					id: "620E37E665219C88"
+					title: "Visit a Candy Cavity Biome"
+					type: "biome"
+				}
+				{
+					action: "catch"
+					amount: 1L
+					biome: ""
+					dimension: ""
+					form: ""
+					gender: ""
+					id: "5BC9D448A6F339C4"
+					poke_ball_used: ""
+					pokemon: "cobblemon:milcery"
+					pokemon_type: ""
+					region: ""
+					shiny: false
+					time_max: 24000L
+					time_min: 0L
+					type: "cobblemon_tasks:cobblemon_task"
+				}
+			]
+			title: "Candy Cavity"
+			x: 0.5d
+			y: -0.5d
+		}
+		{
+			can_repeat: false
+			id: "5E7D0833374504C8"
+			rewards: [{
+				id: "358B66DAE55058C6"
+				item: {
+					Count: 1
+					id: "raccompat:desolate_pendant"
+					tag: {
+						abilities: {
+							desolate: {
+								points: 0
+								stats: {
+									chance: 0.0685d
+									damage: 0.15745d
+								}
+							}
+							devastate: {
+								points: 0
+								stats: {
+									cooldown: 31.99207d
+									count: 2.0813d
+								}
+							}
+						}
+					}
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					biome: "alexscaves:forlorn_hollows"
+					icon: "alexscaves:peering_coprolith"
+					id: "62646ABD6FE7040F"
+					title: "Visit a Forlorn Hollows Biome"
+					type: "biome"
+				}
+				{
+					action: "catch"
+					amount: 1L
+					biome: ""
+					dimension: ""
+					form: ""
+					gender: ""
+					id: "256CF49C9950707F"
+					poke_ball_used: ""
+					pokemon: "cobblemon:cubone"
+					pokemon_type: ""
+					region: ""
+					shiny: false
+					time_max: 24000L
+					time_min: 0L
+					type: "cobblemon_tasks:cobblemon_task"
+				}
+			]
+			title: "Forlorn Hollows"
+			x: -1.5d
+			y: -1.5d
+		}
+		{
+			id: "40DF60317106447C"
+			rewards: [{
+				id: "5519E5C9337E35BB"
+				item: {
+					Count: 1
+					id: "raccompat:vine_ring"
+					tag: {
+						abilities: {
+							vine: {
+								points: 0
+								stats: {
+									cooldown: 23.56247d
+									length: 12.14822d
+								}
+							}
+						}
+					}
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					biome: "alexscaves:primordial_caves"
+					icon: "alexscaves:flytrap"
+					id: "2F30F3DAC99A7FC2"
+					title: "Visit a Primordial Caves biome"
+					type: "biome"
+				}
+				{
+					action: "catch"
+					amount: 1L
+					biome: ""
+					dimension: ""
+					form: ""
+					gender: ""
+					id: "052022D7100DEF46"
+					poke_ball_used: ""
+					pokemon: "cobblemon:cranidos"
+					pokemon_type: ""
+					region: ""
+					shiny: false
+					time_max: 24000L
+					time_min: 0L
+					type: "cobblemon_tasks:cobblemon_task"
+				}
+			]
+			title: "Primordial Caves"
+			x: -1.5d
+			y: -0.5d
+		}
+		{
+			id: "219B2EB595D45928"
+			rewards: [{
+				id: "32DA7F68F5EBABB2"
+				item: {
+					Count: 1
+					id: "raccompat:acid_walker"
+					tag: {
+						abilities: {
+							walking: {
+								points: 0
+								stats: {
+									duration: 13.27982d
+								}
+							}
+						}
+					}
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					biome: "alexscaves:toxic_caves"
+					icon: "alexscaves:waste_drum"
+					id: "2C31AD756510082D"
+					title: "Visit a Toxic Caves biome"
+					type: "biome"
+				}
+				{
+					action: "catch"
+					amount: 1L
+					biome: ""
+					dimension: ""
+					form: ""
+					gender: ""
+					id: "01170ABEA528CDD4"
+					poke_ball_used: ""
+					pokemon: "cobblemon:koffing"
+					pokemon_type: ""
+					region: ""
+					shiny: false
+					time_max: 24000L
+					time_min: 0L
+					type: "cobblemon_tasks:cobblemon_task"
+				}
+			]
+			title: "Toxic Caves"
+			x: -0.5d
+			y: -1.5d
+		}
+		{
+			id: "33A99096C8DECEDF"
+			rewards: [{
+				id: "58DD79137FB8E900"
+				item: "artifacts:universal_attractor"
+				type: "item"
+			}]
+			tasks: [
+				{
+					biome: "alexscaves:magnetic_caves"
+					icon: "alexscaves:scarlet_magnet"
+					id: "341483ECB69F3930"
+					title: "Visit a Magnetic Caves biome"
+					type: "biome"
+				}
+				{
+					action: "catch"
+					amount: 1L
+					biome: ""
+					dimension: ""
+					form: ""
+					gender: ""
+					id: "50DFC8766EE101F3"
+					poke_ball_used: ""
+					pokemon: "cobblemon:magnemite"
+					pokemon_type: ""
+					region: ""
+					shiny: false
+					time_max: 24000L
+					time_min: 0L
+					type: "cobblemon_tasks:cobblemon_task"
+				}
+			]
+			title: "Magnetic Caves"
+			x: 0.5d
+			y: -1.5d
+		}
+		{
+			can_repeat: false
+			id: "425A9E06D6BFAB06"
+			rewards: [{
+				id: "646B0126713E8C50"
+				item: "alexscaves:cave_book"
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: false
+				id: "427947D72B88B86E"
+				item: {
+					Count: 1
+					id: "alexscaves:cave_tablet"
+					tag: { }
+				}
+				match_nbt: false
+				type: "item"
+			}]
+			x: -0.5d
+			y: -3.5d
+		}
+		{
+			can_repeat: true
+			dependencies: [
+				"425A9E06D6BFAB06"
+				"450334CFEE336A56"
+			]
+			id: "4FE6B50D370E2F63"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3B13914EA18ABB78"
+				table_id: 5226181715813003140L
+				type: "choice"
+			}]
+			tasks: [{
+				id: "65585CA6B1EF44EE"
+				item: "cobblemon:shiny_stone"
+				type: "item"
+			}]
+			title: "Find the Caves"
+			x: -0.5d
+			y: -2.5d
+		}
+		{
+			id: "165D98D4738AF776"
+			tasks: [{
+				id: "4B9DEFB0539F7174"
+				item: "minecraft:sniffer_egg"
+				type: "item"
+			}]
+			x: 3.0d
+			y: -3.0d
+		}
+		{
+			can_repeat: true
+			dependencies: ["165D98D4738AF776"]
+			icon: "minecraft:torchflower"
+			id: "07FA94F0F5EFFBB5"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "030DB30E5C4AA3A8"
+				table_id: 3481211192435529639L
+				type: "choice"
+			}]
+			tasks: [{
+				id: "6484E2E4846D8A37"
+				type: "checkmark"
+			}]
+			title: "Ancient Seeds"
+			x: 3.0d
+			y: -2.0d
+		}
+		{
+			id: "12F8F799C77E4804"
+			rewards: [{
+				id: "2FECD8C41637A891"
+				item: {
+					Count: 1
+					id: "quark:forgotten_hat"
+					tag: {
+						Damage: 0
+						Enchantments: [{
+							id: "minecraft:protection"
+							lvl: 4s
+						}]
+						Unbreakable: 1b
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				entity: "quark:forgotten"
+				icon: {
+					Count: 1
+					id: "quark:forgotten_hat"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "0B52071CB67933E5"
+				type: "kill"
+				value: 1L
+			}]
+			x: -4.0d
+			y: -2.5d
+		}
+	]
+	title: "Archeology"
+}

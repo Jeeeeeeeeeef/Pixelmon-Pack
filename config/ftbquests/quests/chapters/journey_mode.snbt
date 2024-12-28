@@ -1,0 +1,301 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "journey_mode"
+	group: "1AA21A9EA7678A42"
+	icon: "minecraft:crafting_table"
+	id: "12C086347CE8626A"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: true
+			dependencies: ["739BD3B928D64719"]
+			icon: "minecraft:red_dye"
+			id: "1FABE8ADD2FFE639"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "35CDBCB2F9E6A2C8"
+				table_id: 7516459477861447114L
+				type: "choice"
+			}]
+			tasks: [{
+				id: "319BDEDA8903EB0F"
+				type: "checkmark"
+			}]
+			title: "Tie dye"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "739BD3B928D64719"
+			tasks: [
+				{
+					action: "catch"
+					amount: 1L
+					biome: ""
+					dimension: ""
+					form: ""
+					gender: ""
+					id: "5C2C0AA10BE976AA"
+					poke_ball_used: "cobblemon:poke_ball,cobblemon:ancient_poke_ball"
+					pokemon: ""
+					pokemon_type: "normal,fire,fighting"
+					region: ""
+					shiny: false
+					time_max: 24000L
+					time_min: 0L
+					type: "cobblemon_tasks:cobblemon_task"
+				}
+				{
+					action: "catch"
+					amount: 1L
+					biome: ""
+					dimension: ""
+					form: ""
+					gender: ""
+					icon: "cobblemon:citrine_ball"
+					id: "1B38E65DEA38612C"
+					poke_ball_used: "cobblemon:citrine_ball,cobblemon:ancient_citrine_ball"
+					pokemon: ""
+					pokemon_type: "electric,ground,rock"
+					region: ""
+					shiny: false
+					time_max: 24000L
+					time_min: 0L
+					type: "cobblemon_tasks:cobblemon_task"
+				}
+				{
+					action: "catch"
+					amount: 1L
+					biome: ""
+					dimension: ""
+					form: ""
+					gender: ""
+					icon: "cobblemon:verdant_ball"
+					id: "737FE074C0C0BF29"
+					poke_ball_used: "cobblemon:verdant_ball,cobblemon:ancient_verdant_ball"
+					pokemon: ""
+					pokemon_type: "grass,bug,poison"
+					region: ""
+					shiny: false
+					time_max: 24000L
+					time_min: 0L
+					type: "cobblemon_tasks:cobblemon_task"
+				}
+				{
+					action: "catch"
+					amount: 1L
+					biome: ""
+					dimension: ""
+					form: ""
+					gender: ""
+					icon: "cobblemon:azure_ball"
+					id: "5F05C99A3607C89C"
+					poke_ball_used: "cobblemon:azure_ball,cobblemon:ancient_azure_ball"
+					pokemon: ""
+					pokemon_type: "water,flying,ice"
+					region: ""
+					shiny: false
+					time_max: 24000L
+					time_min: 0L
+					type: "cobblemon_tasks:cobblemon_task"
+				}
+				{
+					action: "catch"
+					amount: 1L
+					biome: ""
+					dimension: ""
+					form: ""
+					gender: ""
+					icon: "cobblemon:roseate_ball"
+					id: "4F0FCF6ABD5027FC"
+					poke_ball_used: "cobblemon:roseate_ball,cobblemon:ancient_roseate_ball"
+					pokemon: ""
+					pokemon_type: "psychic,fairy,poison"
+					region: ""
+					shiny: false
+					time_max: 24000L
+					time_min: 0L
+					type: "cobblemon_tasks:cobblemon_task"
+				}
+				{
+					action: "catch"
+					amount: 1L
+					biome: ""
+					dimension: ""
+					form: ""
+					gender: ""
+					icon: "cobblemon:premier_ball"
+					id: "7420664E55BECAF1"
+					poke_ball_used: "cobblemon:premier_ball,cobblemon:ancient_ivory_ball"
+					pokemon: ""
+					pokemon_type: "steel,ghost,dragon,dark"
+					region: ""
+					shiny: false
+					time_max: 24000L
+					time_min: 0L
+					type: "cobblemon_tasks:cobblemon_task"
+				}
+			]
+			title: "Catch the Rainbow"
+			x: -0.5d
+			y: -1.0d
+		}
+		{
+			can_repeat: true
+			dependencies: ["739BD3B928D64719"]
+			icon: "minecraft:white_wool"
+			id: "3D1B73DD35BCECA0"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6A961D516E278C94"
+				table_id: 567679015024948985L
+				type: "choice"
+			}]
+			tasks: [{
+				id: "1B40412920681864"
+				type: "checkmark"
+			}]
+			title: "Tie dyed"
+			x: -1.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: true
+			dependencies: ["1DC12106A3D01DDE"]
+			icon: "minecraft:oak_log"
+			id: "53050C7D725EDCCE"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4AC00000BAAA0E6A"
+				table_id: 6704862232940478092L
+				type: "choice"
+			}]
+			tasks: [{
+				id: "36CCB57FD3A11B22"
+				type: "checkmark"
+			}]
+			title: "Wood you rather"
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			id: "1DC12106A3D01DDE"
+			tasks: [{
+				action: "obtain"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "7DC3CFD863C66053"
+				poke_ball_used: ""
+				pokemon: "cobblemon:bidoof,cobblemon:bibarel"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			title: "Dam Daniel"
+			x: -3.0d
+			y: -1.0d
+		}
+		{
+			id: "3AEFC42EF97DA360"
+			tasks: [{
+				action: "obtain"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "1CB9EB48AFF238F1"
+				poke_ball_used: ""
+				pokemon: "cobblemon:lillipup"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			title: "Just a little pup"
+			x: 2.0d
+			y: -1.0d
+		}
+		{
+			can_repeat: true
+			dependencies: ["3AEFC42EF97DA360"]
+			icon: {
+				Count: 1
+				id: "littletiles:premade"
+				tag: {
+					s: {
+						id: "workbench"
+					}
+				}
+			}
+			id: "29D68FDE5E03A3FA"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0B58A68572A323E5"
+				table_id: 4615431707224007106L
+				type: "choice"
+			}]
+			tasks: [{
+				id: "10D22EE1788DBF5F"
+				type: "checkmark"
+			}]
+			title: "Little Tiles"
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: true
+			dependencies: ["2506C581EB206255"]
+			icon: "alexscaves:biome_treat"
+			id: "465FAAC90B6954A0"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4348A7B75F589ED8"
+				table_id: 3797466667566222823L
+				type: "choice"
+			}]
+			tasks: [{
+				id: "18567F9622B5CA20"
+				type: "checkmark"
+			}]
+			title: "Biome Changers"
+			x: -0.5d
+			y: 2.5d
+		}
+		{
+			id: "2506C581EB206255"
+			tasks: [{
+				action: "level_up"
+				amount: 100L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				icon: "cobblemon:rare_candy"
+				id: "5C4E710BFD965870"
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -0.5d
+			y: 1.5d
+		}
+	]
+	subtitle: ["Unlock endless amounts of building blocks"]
+	title: "Bob the Builder"
+}

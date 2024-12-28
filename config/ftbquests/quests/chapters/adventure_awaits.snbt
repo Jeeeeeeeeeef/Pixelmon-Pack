@@ -1,0 +1,323 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "adventure_awaits"
+	group: ""
+	icon: "cobblemon:poke_ball"
+	id: "5D87A9A615C7097A"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["48016ED4D63151E1"]
+			id: "722894000B914F0D"
+			rewards: [{
+				command: "/ftbranks add @p ultimine_upgrade1"
+				id: "582E5F04D1545380"
+				title: "Unlock 16 block Ultimine"
+				type: "command"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_leader_brock"
+				criterion: ""
+				icon: "pkgbadges:the_boulder_badge"
+				id: "2F48DE761C56DD56"
+				title: "Defeat Leader Brock"
+				type: "advancement"
+			}]
+			title: "Boulder Badge"
+			x: 0.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["722894000B914F0D"]
+			id: "3527B8907ECAE4B5"
+			rewards: [{
+				command: "/ftbranks add @p ultimine_upgrade2"
+				id: "4E6BF75E956F4219"
+				title: "Unlock 64 block Ultimine"
+				type: "command"
+			}]
+			tasks: [{
+				consume_items: false
+				id: "6DA5B5D9096E239B"
+				item: {
+					Count: 1
+					id: "minecraft:netherite_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				title: "Obtain a Netherite Pickaxe"
+				type: "item"
+			}]
+			title: "Major Miner"
+			x: 0.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["343BAE5423BBD183"]
+			description: ["Nidoking, Luxray, Mamoswine, Relicanth, Dragonite, Fearow, Garchomp, Dodrio, Arcanine, Steelix, Stantler, Avalugg, Magnezone, Stoutland, Mightyena, Wailmer, Sawsbuck, Mudsdale, Ursaluna, Metagross, Corviknight, Staraptor, Charizard, Swampert, Rapidash, Skeledirge, Dewgong, Yanmega, Tauros, Aerodactyl, Sharpedo, Bouffalant, Exeggutor, Camerupt, Scolipede, Blastoise, Lapras, Wyrdeer, Gyarados, Ninetales, Samurott, Tentacruel, Meganium, Feraligatr, Golurk, and Pidgeot can all be ridden."]
+			id: "1642BFC48BE477F5"
+			rewards: [{
+				command: "/tag @p add canRide"
+				id: "23B9B66301CD1CA7"
+				title: "Unlock the ability to ride pokemon"
+				type: "command"
+			}]
+			tasks: [{
+				action: "obtain"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "323709E49880C611"
+				poke_ball_used: ""
+				pokemon: "cobblemon:tauros,cobblemon:luxray,cobblemon:mamoswine,cobblemon:relicanth,cobblemon:dragonite,cobblemon:fearow,cobblemon:garchomp,cobblemon:dodrio,cobblemon:arcanine,cobblemon:steelix,cobblemon:stantler,cobblemon:avalugg,cobblemon:magnezone,cobblemon:stoutland,cobblemon:mightyena,cobblemon:wailmer,cobblemon:sawsbuck,cobblemon:mudsdale,cobblemon:ursaluna,cobblemon:metagross,cobblemon:corviknight,cobblemon:staraptor,cobblemon:charizard,cobblemon:swampert,cobblemon:rapidash,cobblemon:skeledirge,cobblemon:dewgong,cobblemon:yanmega,cobblemon:nidoking,cobblemon:aerodactyl,cobblemon:sharpedo,cobblemon:bouffalant,cobblemon:exeggutor,cobblemon:camerupt,cobblemon:scolipede,cobblemon:blastoise,cobblemon:lapras,cobblemon:wyrdeer,cobblemon:gyarados,cobblemon:ninetales,cobblemon:samurott,cobblemon:tentacruel,cobblemon:meganium,cobblemon:feraligatr,cobblemon:golurk,cobblemon:pidgeot"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				title: "Obtain a Rideable Pokemon"
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			title: "Who needs Bicycles?"
+			x: 1.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["48016ED4D63151E1"]
+			id: "6BD4A037547AB938"
+			rewards: [
+				{
+					command: "/kubejs stages add @p runningShoes"
+					id: "635A45433E8E1C99"
+					title: "Unlock Running Shoes"
+					type: "command"
+				}
+				{
+					id: "22A221C498CDD6B9"
+					item: "artifacts:running_shoes"
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_rival_terry"
+				criterion: ""
+				id: "37E9033AC3E264CD"
+				title: "Defeat Rival Terry"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: -0.5d
+		}
+		{
+			description: ["The starting level cap for trainers is 15. They will not battle you if you are over the cap."]
+			id: "48016ED4D63151E1"
+			rewards: [{
+				id: "659DCEBA169E5BB2"
+				item: "rctmod:trainer_card"
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_any"
+				criterion: ""
+				id: "475C89DB1244FDD4"
+				title: "Defeat any Trainer"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["343BAE5423BBD183"]
+			id: "450334CFEE336A56"
+			rewards: [
+				{
+					command: "/kubejs stages add @p thunderBadge"
+					id: "7038B855FAD8FE22"
+					title: "Unlock Night Vision Goggles, Mega Torch, and Improved Blast Furnace"
+					type: "command"
+				}
+				{
+					id: "798B6355DE1EF5DA"
+					item: "artifacts:night_vision_goggles"
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_leader_lt_surge"
+				criterion: ""
+				icon: "pkgbadges:the_thunder_badge"
+				id: "648A1510C7F4AB2A"
+				title: "Defeat Leader Lt. Surge"
+				type: "advancement"
+			}]
+			title: "Thunder Badge"
+			x: 3.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["722894000B914F0D"]
+			id: "343BAE5423BBD183"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_leader_misty"
+				criterion: ""
+				icon: "pkgbadges:the_cascade_badge"
+				id: "7A0ECC7B624EA464"
+				title: "Defeat Leader Misty"
+				type: "advancement"
+			}]
+			title: "Cascade Badge"
+			x: 1.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["48016ED4D63151E1"]
+			id: "669616A4AAFC2904"
+			rewards: [{
+				command: "/pokegive @p meowth lvl=10"
+				icon: "cobblemon:relic_coin"
+				id: "39E6BFC6669DEC02"
+				title: "Meowth"
+				type: "command"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_team_rocket"
+				criterion: ""
+				id: "5464369AEA4632A1"
+				title: "Defeat any member of Team Rocket"
+				type: "advancement"
+			}]
+			title: "Meowth, thats right!"
+			x: 1.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["450334CFEE336A56"]
+			id: "652BE4C648126560"
+			rewards: [{
+				id: "7FBB978F777C764F"
+				item: "megamons:key_stone"
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_leader_erika"
+				criterion: ""
+				icon: "pkgbadges:the_rainbow_badge"
+				id: "44714567A697E92D"
+				title: "Defeat Leader Erika"
+				type: "advancement"
+			}]
+			title: "Rainbow Badge"
+			x: 4.5d
+			y: -5.5d
+		}
+		{
+			dependencies: ["652BE4C648126560"]
+			id: "7DFFAB747F451F60"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_boss_giovanni_1"
+				criterion: ""
+				icon: {
+					Count: 1
+					id: "minecraft:firework_rocket"
+					tag: {
+						Fireworks: {
+							Flight: 1b
+						}
+					}
+				}
+				id: "619CF7288CFF6ACF"
+				title: "Defeat Boss Giovanni"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["7DFFAB747F451F60"]
+			id: "1E2F5A5076D48DDC"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_rocket_admin_archer_1"
+				criterion: ""
+				icon: {
+					Count: 1
+					id: "minecraft:firework_rocket"
+					tag: {
+						Fireworks: {
+							Flight: 1b
+						}
+					}
+				}
+				id: "17089C6EB7D61CF7"
+				title: "Defeat Rocket Admin Archer"
+				type: "advancement"
+			}]
+			x: 7.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["1E2F5A5076D48DDC"]
+			id: "0CE4BF0039F1E363"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_rocket_admin_ariana_1"
+				criterion: ""
+				icon: {
+					Count: 1
+					id: "minecraft:firework_rocket"
+					tag: {
+						Fireworks: {
+							Flight: 1b
+						}
+					}
+				}
+				id: "0E8AD38267CA8BC8"
+				title: "Defeat Rocket Admin Ariana"
+				type: "advancement"
+			}]
+			x: 8.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["0CE4BF0039F1E363"]
+			id: "5020A40A03A27385"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_boss_giovanni_2"
+				criterion: ""
+				icon: {
+					Count: 1
+					id: "minecraft:firework_rocket"
+					tag: {
+						Fireworks: {
+							Flight: 1b
+						}
+					}
+				}
+				id: "5546B7AE14C3B2CD"
+				title: "Defeat Boss Giovanni again"
+				type: "advancement"
+			}]
+			x: 9.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["5020A40A03A27385"]
+			id: "4949D3A0549F8F38"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_leader_sabrina"
+				criterion: ""
+				icon: "pkgbadges:the_marsh_badge"
+				id: "41728957EADD0B45"
+				title: "Defeat Leader Sabrina"
+				type: "advancement"
+			}]
+			title: "Marsh Badge"
+			x: 10.5d
+			y: -6.5d
+		}
+	]
+	title: "Adventure Awaits"
+}

@@ -1,0 +1,13 @@
+name = "Cobblemon Drop Loot Tables"
+filename = "cobblemon-droploottables-1.5-fabric-1.4.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b62fe72bc2cd510d3aaee9b46c277f9092f9df40"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5838653
+project-id = 1061506
